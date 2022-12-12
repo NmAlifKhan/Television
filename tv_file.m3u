@@ -13,8 +13,6 @@ http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 #EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports Live
 http://103.102.27.173/live/tvfeed1002/index.m3u8
-#EXTINF:-13 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzZBBQ8ih7iIt60E3gh3usCCXFG5w8T_Fbyw&usqp=CAU",Desh TV
-https://bdcast-sec.b-cdn.net/direct/68.183.214.39:2355/bangla2020/deshtv/chunks.m3u8?nimblesessionid=664300&wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIyIDI6NDQ6NTQgUE0maGFzaF92YWx1ZT1pbndaWFBNNk1xei9kdlpLRG9xRW53PT0mdmFsaWRtaW51dGVzPTY=
 #EXTINF:-6 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png",Bangla Vision
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV Live
@@ -75,8 +73,6 @@ https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-95 tvg-logo="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/121695197_171826981208778_8634244992606584379_n.png?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ynNP7NkZ2QEAX-RxOA0&_nc_ht=scontent.fdac99-1.fna&oh=00_AfDAWinZXD3o5qe52YZ3THJxmi6s43WfN0KenYTl_8mxCA&oe=63AE8CB3",Doyel TV
 https://live.doyeltv.com/live/doyeltv.m3u8
-#EXTINF:-96 tvg-logo="https://banglachannel24.com/wp-content/uploads/2021/01/fb_og.jpg",Bangla Channel
-http://jupiter.bdcabletv.com/BanglachannelNY/video.m3u8
 #EXTINF:-96 tvg-logo="https://scontent.fdac149-1.fna.fbcdn.net/v/t1.6435-9/51054671_290302274896000_6516245766409814016_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=QIrQH9vqFeQAX9aS4Cc&_nc_ht=scontent.fdac149-1.fna&oh=00_AfDpI5JLHqxH63r-U0zr3-oY2iPByYAWiV-XYaXMMep6xQ&oe=63AEE80D",FB TV
 http://162.244.81.200:1935/live/livestream/playlist.m3u8
 #EXTINF:-96 tvg-logo="https://dailyagamirsongbad.com/wp-content/uploads/2022/11/received_1224717518112730.jpeg",Matribhumi TV
@@ -147,8 +143,6 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-88 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIccKB-mghfNwtkZKcgx5Ktve7dddKHviGVg&usqp=CAU",Zee Punjab Himachal
 http://208.86.19.13:81/720.stream/index.m3u8
-#EXTINF:-89 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/3e/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Colors Bangla Cinema
-http://208.86.19.13:81/907.stream/index.m3u8
 #EXTINF:-91 tvg-logo="https://harpalgeo.tv/assets/front/images/geo_logo.png",Haarpal Geo TV
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/chunks.m3u8
 #EXTINF:-12 tvg-logo="https://web1.tikilive.com/public/files/shows/173/173272/46264-294x165-FFFFFF.jpg",Amar Bangla
@@ -239,8 +233,6 @@ http://185.53.88.103:88/live/226448369414368/226448369414368/13794.m3u
 http://185.53.88.103:88/live/226448369414368/226448369414368/83.m3u
 #EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/1200px-MatchTV_Logo.svg.png",Match HD
 http://194.143.148.28/MatchHD/mono.m3u8
-#EXTINF:-13 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png",Bein Sport Max
-http://n30.yacinelivetv.com/live/tw.m3u8?s=aHR0cHM6Ly9jYW5hcnktdmlkZW8tdXMtZWFzdC0xLnBzY3AudHYvVHJhbnNjb2RpbmcvdjEvaGxzLzA3ZHpWNGVCd0k1SzJibThTdExKeXREdU45ZWtoVC0xaG14S0Vrbzl1R2FIXzJNeDh3NFZxdGNIMTRqblcwZi11ajJQWllEZ2FCZERFaWYzaE5vVU9RL3RyYW5zY29kZS91cy1lYXN0LTEvcGVyaXNjb3BlLXJlcGxheS1kaXJlY3QtcHJvZC11cy1lYXN0LTEtcHJpdmF0ZS9leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSXNJblpsY25OcGIyNGlPaUl5SW4wLmV5SkZibU52WkdWeVUyVjBkR2x1WnlJNkltVnVZMjlrWlhKZmMyVjBkR2x1WjE4M01qQndNekJmTVRBaUxDSklaV2xuYUhRaU9qY3lNQ3dpUzJKd2N5STZNamMxTUN3aVYybGtkR2dpT2pFeU9EQjkubGRrdE00ZkNGUmZrUDRaRUJmWlBLdGxBVU5BY1RQa296OTk0WUpBeldwRS9zdF9keW5hbWljX2hpZ2hsYXRlbmN5Lm0zdTg/dHlwZT1saXZl
 #EXTINF:-13 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHEG49KUC2xvb4VYGZ2XMjO4krzRhjM5g5lQ&usqp=CAU",SBS Live HD
 https://bdcast-events-sgp.b-cdn.net/live/sbs.m3u8?e=1670603466&st=ImuhCNEAAAgKPN7FpWJlJw
 #EXTINF:-13 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReMeUngwY68cC6dcI_y2Z36tlbmRMqQTkcng&usqp=CAU",Viceland
