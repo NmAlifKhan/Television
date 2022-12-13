@@ -12,7 +12,7 @@ http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-5 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png",Bangla TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 #EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports Live
-http://103.102.27.173/live/tvfeed1002/index.m3u8
+http://dotfli.live/s-1-tsports/tracks-v2a1/mono.m3u8
 #EXTINF:-6 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png",Bangla Vision
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV Live
@@ -227,7 +227,9 @@ https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-13 tvg-logo="https://images.beinsports.com/Kz2EjZV1K-H437lBNyF11pXYWVw=/670x424/smart/924692-beIN-logo-high.png",Bein Sports
 http://185.53.88.103:88/live/226448369414368/226448369414368/13794.m3u
-#EXTINF:-13 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",Bein Sports 1
+#EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Bein Sports 1
+http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
+#EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",Bein Sports 2
 http://185.53.88.103:88/live/226448369414368/226448369414368/83.m3u
 #EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/1200px-MatchTV_Logo.svg.png",Match HD
 http://194.143.148.28/MatchHD/mono.m3u8
@@ -235,3 +237,5 @@ http://194.143.148.28/MatchHD/mono.m3u8
 https://bdcast-events-sgp.b-cdn.net/live/sbs.m3u8?e=1670603466&st=ImuhCNEAAAgKPN7FpWJlJw
 #EXTINF:-13 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReMeUngwY68cC6dcI_y2Z36tlbmRMqQTkcng&usqp=CAU",Viceland
 https://bdcast-events-sgp.b-cdn.net/live/sbs_viceland.m3u8?e=1670603861&st=7fofB5EkJulDFvpW1-bJpg
+#EXTINF:-13 tvg-logo="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.18169-9/13310373_1047464905291350_8591685813663623652_n.png?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ejMVYOQmzgkAX_wkXFP&_nc_ht=scontent.fdac99-1.fna&oh=00_AfDL4NyHsiEjZ4Kqk8MAq2Ia0YB3xPAsmyhvBlFvRcSy7g&oe=63BFC3ED",Super Sport Cricket
+http://starshare.live:8080/live/Ocenstream_r@8t_5fg@57g_6jhkh/jhul@udshl_738ijkx_3678idjk_26s@s7/2496.ts
