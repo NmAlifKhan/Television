@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-3 tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu_jjBFTVi1H0hN7wI1BMWLKUkHUbTslTwLeZHsMyA=s900-c-k-c0x00ffffff-no-rj",Zee Bangla
+https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=1200&e=.m3u8
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png",BTV
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thenrb.tv/wp-content/uploads/2021/11/NRB-tv-Final-Logo-PNG-2.png",NRB TV
@@ -85,6 +87,8 @@ https://cdn.appv.jagobd.com:444/live-orgin/bangla21tv000889956-sg.stream/chunks.
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-99 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_6n6Wu54VbFd87md_bmdVIc-xMM8AE23Mfx-g5=s900-c-k-c0x00ffffff-no-rj",Nandan TV
 https://web.nandansyst.com/hls/nandan_src/index.m3u8
+#EXTINF:-99 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2486b315-2a26-4277-ae42-7018d19f083e/c1f823bd-68eb-4f5d-9961-7f67ef78c469.jpg",Desh TV
+http://208.86.19.13:81/661.stream/index.m3u8
 #EXTINF:-99 tvg-logo="https://play-lh.googleusercontent.com/OEWoQLFEqbYmOODhynK_BjfJipE-3OqfSZ8hOSnbwhlGpo8h6OQjte6iEWBmPQsHiOo",Bangla Channel
 http://jupiter.bdcabletv.com/BanglachannelNY/video.m3u8
 #EXTINF:-99 tvg-logo="https://yt3.ggpht.com/_Cs0I5foD4TV_jnsBCDt4-5R6MRnxea5zXM1bX6Nb3cTgbLsK5-z_zW_f_mwu_oSMW701bzdnLg=s900-c-k-c0x00ffffff-no-rj",Iqra Bangla
@@ -209,7 +213,7 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png",Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-#EXTINF:-13 tvg-logo="https://z-m-scontent.fdac96-1.fna.fbcdn.net/v/t39.30808-6/301966516_209165441461913_6508931673875008488_n.jpg?stp=cp0_dst-jpg_e15_p370x247_q65&_nc_cat=100&ccb=1-7&_nc_sid=85a577&_nc_ohc=5HKeHIBLLycAX9lYWCd&_nc_ad=z-m&_nc_cid=1284&_nc_eh=132aff97310466efc41f648a87f7be3a&_nc_zt=23&_nc_rml=0&_nc_ht=z-m-scontent.fdac96-1.fna&oh=00_AfB6MThmp4ctdElWh-_-UdUs8sIWg1bx0FoRt9vL6cuIrA&oe=6397AF93",Gaan Bangla
+#EXTINF:-13 tvg-logo="https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/301966516_209165441461913_6508931673875008488_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=VgVVRnQdMdgAX_oONYW&_nc_ht=scontent.fdac99-1.fna&oh=00_AfBSJUi4_GsnufAxaWBE9VyLU5XvFN1vLRmtpRjyv-K9Qg&oe=639F9893",Gaan Bangla
 http://208.86.19.13:81/612.stream/index.m3u8
 #EXTINF:-13 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/09/01/Discovery_HD_pos_4c.jpg",Discovery HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/2.m3u8
@@ -269,13 +273,19 @@ TINF:-13 tvg-logo="https://mma.prnewswire.com/media/1610429/beIN_SPORTS_XTRA_Log
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png",Fox Sports
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8?token=pU4axaEnLcFXBvrIpJSy40Us0Gtrgq
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",EVENTOS TNT Sports Brasil 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png",EVENTOS TNT Sports Brasil 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",EVENTOS TNT Sports Brasil 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png",EVENTOS TNT Sports Brasil 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",EVENTOS TNT Sports Brasil 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png",EVENTOS TNT Sports Brasil 3
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",EVENTOS TNT Sports Brasil 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png",EVENTOS TNT Sports Brasil 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",EVENTOS TNT Sports Brasil 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png",EVENTOS TNT Sports Brasil 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Abudhabisports2015.png/revision/latest?cb=20200428142713",Abu Dhabi Sports
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_bein_sports_max_2.png",Bein Sports 2 Max
+https://streamermytvc.com/Bein-Sp-Max-1-LB ph===---/cache/Bein-Sp-Max-2-LB/m3u8/hls_m3u8_Bein-Sport-Max-2.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w600-h300-pc0xffffff-pd",Sony Liv
+https://drmhls.redcdn.online/live/1080p.m3u8
