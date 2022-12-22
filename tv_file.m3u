@@ -3,10 +3,8 @@
 http://103.76.243.139:8000/live/gazitvhd1/index.m3u8
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports
 http://dotfli.live/s-1-tsports/tracks-v2a1/mono.m3u8
-#EXTINF:-3 tvg-logo="https://m5.netinfo.bg/media/images/46806/46806517/960-600-diema-sport-3.jpg",Diema Sports
-http://93.155.227.38:555/m3u8/diemasport3hd.m3u8 
-#EXTINF:-3 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122834751.png",Bein Sports Premium
-http://185.53.88.103:88/live/226448369414368/226448369414368/5193.m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/1200px-DBC_News_Logo.svg.png",DBC News
+http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png",BTV
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thenrb.tv/wp-content/uploads/2021/11/NRB-tv-Final-Logo-PNG-2.png",NRB TV
@@ -93,6 +91,10 @@ http://jupiter.bdcabletv.com/BanglachannelNY/video.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 #EXTINF:-99 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9ZGDmvCi_mzadOzyKVZFgnBL_XMqjHAkaFDKEB=s900-c-k-c0x00ffffff-no-rj",Bangla Jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8 
+#EXTINF:-99 tvg-logo="https://en.wikipedia.org/wiki/File:Sananda_TV_Logo.jpg",Sananda TV
+http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
+#EXTINF:-99 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg",Star Jalsha
+http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B8C118EA7CD3307E3929D0D&profile=matroska
 #EXTINF:-33 tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/cnbc-tv18.png",Roal TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
 #EXTINF:-34 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/High-news.jpg/revision/latest?cb=20191219070902",High News
@@ -211,7 +213,7 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/2.m3u8
 #EXTINF:-13 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_YCkDM_N9lfB8l_U6OkSXbL8ypnfYxyFXVD0upwA=s900-c-k-c0x00ffffff-no-rj",Wow Kidz
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-13 tvg-logo="https://durbinlive.com/uploads/tv_image/khushboo-bangla.jpg",Kushhboo Bangla
+#EXTINF:-13 tvg-logo="https://durbinlive.com/uploads/tv_image/khushboo-bangla.jpg",Khushboo Bangla
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/220px-PBS_Kids_Logo.svg.png",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -259,4 +261,11 @@ TINF:-13 tvg-logo="https://mma.prnewswire.com/media/1610429/beIN_SPORTS_XTRA_Log
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png",Fox Sports
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8?token=pU4axaEnLcFXBvrIpJSy40Us0Gtrgq
-
+#EXTINF:-3 tvg-logo="https://m5.netinfo.bg/media/images/46806/46806517/960-600-diema-sport-3.jpg",Diema Sports
+http://93.155.227.38:555/m3u8/diemasport3hd.m3u8 
+#EXTINF:-3 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122834751.png",Bein Sports Premium
+http://185.53.88.103:88/live/226448369414368/226448369414368/5193.m3u
+#EXTINF:-1 ,Star Jalsha HD
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2281.ts
+#EXTINF:-1 ,Zee Bangla
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2283.ts
