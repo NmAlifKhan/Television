@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Desh TV
+https://videos-fms.jwpsrv.com/63adefcd_0x3ce2c778454992915dde0f4718f9492b7955fcfc/content/conversions/COGXEaII/videos/s3oGk0qd-33848393.mp4.m3u8
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV
 http://103.76.243.139:8000/live/gazitvhd1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/1200px-DBC_News_Logo.svg.png",DBC News
