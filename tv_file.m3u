@@ -195,8 +195,6 @@ https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",Space Toon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#EXTINF:-13 tvg-logo="https://yt3.ggpht.com/ipCXXCLvanQccA3abIfM3Ugp4fl6MTeKPXRI3lXl4DiRA_YYik-s_y9Aep7Jf1hWKlR6jPCOoMQ=s900-c-k-c0x00ffffff-no-rj",Trt Cocuk
-https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-13 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/09/01/Discovery_HD_pos_4c.jpg",Discovery HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/2.m3u8
 #EXTINF:-13 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_YCkDM_N9lfB8l_U6OkSXbL8ypnfYxyFXVD0upwA=s900-c-k-c0x00ffffff-no-rj",Wow Kidz
@@ -241,8 +239,6 @@ http://185.53.88.103:88/live/226448369414368/226448369414368/83.m3u
 http://194.143.148.28/MatchHD/mono.m3u8
 TINF:-13 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",Bein Sports Xtra
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
-TINF:-13 tvg-logo="https://mma.prnewswire.com/media/1610429/beIN_SPORTS_XTRA_Logo.jpg?p=facebook",Bein Sports Xtra ñ
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png",Fox Sports
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8?token=pU4axaEnLcFXBvrIpJSy40Us0Gtrgq
 #EXTINF:-3 tvg-logo="https://m5.netinfo.bg/media/images/46806/46806517/960-600-diema-sport-3.jpg",Diema Sports
