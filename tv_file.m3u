@@ -69,10 +69,8 @@ https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga TV
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports
-https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png",Nagorik TV
-http://cdn01.palki.tv/live/NagorikTV-M/tracks-v1a1/mono.m3u8?token=ad5bda4470c8e8cc002390141fb3e3f0
+http://tvs2.embedsite.xyz:1936/live/b.18.stream_720p/chunklist_w153900033_tkc2VydmVyYmQyNDd0b2tlbmVuZHRpbWU9MTY3Mzk0ODYyMCZzZXJ2ZXJiZDI0N3Rva2Vuc3RhcnR0aW1lPTE2NzM5NDE2MjAmc2VydmVyYmQyNDd0b2tlbmhhc2g9WDl1S19OdzdoS25naFhBYUFNZ3N3cGk1dS12a0dFVkx5NjVTbTFRcXBUMD0=.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/E7jVHesMJzkUDkmwqhNvQZlh68kPaT-wyYno8vyyhVKl3sgBk5dDp77tC_RM2bnplXLtkZ0sJQ=s900-c-k-c0x00ffffff-no-rj",Madani Channel Bangla
 https://live.mvdn.castnest.io/madnitvbangla/madnibanglaabr/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-E6Las0-lxRQ/X9PJNQyA2vI/AAAAAAAABGY/HdQbtL36W10wu3Ie944gEVggzRaKHnWEgCLcBGAsYHQ/w800/Channel-S-UK-LIve.png",Channel S
@@ -119,6 +117,8 @@ http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 https://tv.freeseries.eu.org/live.php?c=Colors_Bengali_HD&q=800&e=.m3u8
 #EXTINF:-5 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png",Star Plus
 http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-5 tvg-logo="https://en.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File:Sony_TV_new.png",Sony Entertainment
+https://tv.googledrivelinks.com/live.php?c=Sony_HD&q=1200&e=.m3u8
 #EXTINF:-7 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg",Enterr10 Bangla
 http://humiptv.live:8080/live/RkAdhikari/Raju5555/3801.ts
 #EXTINF:-11 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png",Ten Sports
@@ -269,3 +269,5 @@ http://185.53.88.103:88/live/226448369414368/226448369414368/5193.m3u
 http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2505/index.m3u8
 #EXTINF:-3 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-1-logo-300x300.jpg",Star Sports 1
 http://103.213.238.70/StarSports1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-3 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/Sony_TEN5HD_23oct_masthead_logo.png",Sony Sports 5
+http://103.213.238.70/SonySix/tracks-v1a1/mono.m3u8
