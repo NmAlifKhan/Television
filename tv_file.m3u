@@ -71,6 +71,8 @@ https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports
 https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png",Nagorik TV
+http://cdn01.palki.tv/live/NagorikTV-M/tracks-v1a1/mono.m3u8?token=ad5bda4470c8e8cc002390141fb3e3f0
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/E7jVHesMJzkUDkmwqhNvQZlh68kPaT-wyYno8vyyhVKl3sgBk5dDp77tC_RM2bnplXLtkZ0sJQ=s900-c-k-c0x00ffffff-no-rj",Madani Channel Bangla
 https://live.mvdn.castnest.io/madnitvbangla/madnibanglaabr/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-E6Las0-lxRQ/X9PJNQyA2vI/AAAAAAAABGY/HdQbtL36W10wu3Ie944gEVggzRaKHnWEgCLcBGAsYHQ/w800/Channel-S-UK-LIve.png",Channel S
@@ -109,6 +111,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://103.213.238.70:80/StarJalshaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu_jjBFTVi1H0hN7wI1BMWLKUkHUbTslTwLeZHsMyA=s900-c-k-c0x00ffffff-no-rj",Zee Bangla
 https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=1200&e=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b1/%E0%A6%B8%E0%A6%A8%E0%A6%BF_%E0%A6%86%E0%A6%9F_%E0%A6%8F%E0%A6%B0_%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Sony Aath
+https://tv.freeseries.eu.org/live.php?c=Sony_aath&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Sananda_TV_Logo.jpg",Sananda TV
 http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png",Colors Bangla HD
@@ -263,3 +267,5 @@ http://93.155.227.38:555/m3u8/diemasport3hd.m3u8
 http://185.53.88.103:88/live/226448369414368/226448369414368/5193.m3u
 #EXTINF:-3 tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu9RA_jE7FXF8hPK6SB5oJniAhOczKJ3AiGElVQ9QA=s900-c-k-c0x00ffffff-no-rj",BT Sports
 http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2505/index.m3u8
+#EXTINF:-3 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-1-logo-300x300.jpg",Star Sports 1
+http://103.213.238.70/StarSports1HD/tracks-v1a1/mono.m3u8
