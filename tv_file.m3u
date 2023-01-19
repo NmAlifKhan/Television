@@ -271,3 +271,5 @@ http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2505/index.m3u8
 http://103.213.238.70/StarSports1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-3 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/Sony_TEN5HD_23oct_masthead_logo.png",Sony Sports 5
 http://103.213.238.70/SonySix/tracks-v1a1/mono.m3u8
+#EXTINF:-3
+https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.f0En50ntT7vE.m3u8
