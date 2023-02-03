@@ -102,7 +102,7 @@ https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://bn.voicetv.tv/assets/logo.png",Voice TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b1/%E0%A6%B8%E0%A6%A8%E0%A6%BF_%E0%A6%86%E0%A6%9F_%E0%A6%8F%E0%A6%B0_%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Sony Aath
-https://tv.freeseries.eu.org/live.php?c=Sony_aath&q=800&e=.m3u8
+https://lin-gd-001-cf.slivcdn.com/out/v1/43e1731e61104297bb26e6fe9a0fa1bc/master_8.m3u8?hdntl=exp=1675450634~acl=*~hmac=5a76feb82f880ddf777f5fa5f148c06d7bc35c13a8140f7f67c46477b1ffb3c5&originpath=/linear/hls/pb/event/j-YEIDwORxubtP_967VcZg/stream/a331d810-31d8-46f9-be13-dec030728dfe:SIN/variant/0d513a39ba7ff3ccb595c0e361be5fdf/bandwidth/4789294.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Sananda_TV_Logo.jpg",Sananda TV
 http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png",Colors Bangla HD
@@ -119,6 +119,24 @@ http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 https://newsbartaman24x7.livebox.co.in/newsbartamanhls/live.m3u8
 #EXTINF:-36 tvg-logo="https://static.vidgyor.com/player/account/abp/img/ABP-Ananda.png",ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
+#EXTINF:-36 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max
+https://lin-gd-001-cf.slivcdn.com/out/v1/8fe2e6b11f184c34ac3f44cbd6a7caf0/master_1.m3u8?hdntl=exp=1675450768~acl=*~hmac=1af619ddfcd925417deb7ab283b3f8d2af591ec788d3f391ec59f18a0fd53060&originpath=/linear/hls/pb/event/UcjHNJmCQ1WRlGKlZm73QA/stream/35442b79-2c8a-431b-b3f7-6c65810bbc12:SIN/variant/e6c30f1a90c3e51f6602a20749c24851/bandwidth/4705478.m3u8
+#EXTINF:-36 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1666685480-30093545.png?v=4.4.3",Sony Max 2
+https://lin-gd-001-cf.slivcdn.com/out/v1/3387ff1dbcb84b06b22dab95a4ee30e5/master_1.m3u8?hdntl=exp=1675454188~acl=*~hmac=b9960f7832f29c428be6b3503e4fe61466719b02d4cd2d1940f6522f8ed9ee50&originpath=/linear/hls/pb/event/MdQ5Zy-PSraOccXu8jflCg/stream/952631af-4c42-4e6c-991e-51ddae57085e:SIN2/variant/2d20f3a52d977ce10b32dbafc18b231f/bandwidth/4789127.m3u8
+#EXTINF:-36 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",Sony Wah
+https://lin-gd-001-cf.slivcdn.com/out/v1/3ad8c562a750403f9357923085554110/master_5.m3u8?hdntl=exp=1675454005~acl=*~hmac=43568dd1c262374a209164445d7f5e089170eae2f3197aa033d14e2b2de32365&originpath=/linear/hls/pb/event/gX5rCBf6Q7-D5AWY-sovzQ/stream/f97403f1-d604-45cf-828e-7ffe428ffecf:SIN/variant/3ed2b93aa7f375c75f759d4b5fc6d170/bandwidth/4789378.m3u8
+#EXTINF:-36 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png",Sony Pix
+https://lin-gd-001-cf.slivcdn.com/out/v1/f88af37f57d94cbd8c584cd5e83d92aa/master_1.m3u8?hdntl=exp=1675454297~acl=*~hmac=54e89e0083b92918f69ae7427e0100533ea69d243b044bd5d04b1e9628d19455&originpath=/linear/hls/pb/event/x7rXWd2ERZ2tvyQWPmO1HA/stream/0afd5fbc-486c-4aed-bc37-e9fd1ef53199:SIN/variant/6e26ec4c92b1acfce6dc0855fd65610a/bandwidth/4704862.m3u8
+#EXTINF:-36 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/25/%E0%A6%B8%E0%A6%A8%E0%A6%BF_%E0%A6%AC%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF_%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%A5_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Sony BBC Earth
+https://lin-gd-001-cf.slivcdn.com/out/v1/25027865fc9548f4928ca62a36dda585/master_2.m3u8?hdntl=exp=1675454367~acl=*~hmac=a6032874d6bcbe7e29403cec327ba597ba8838e29c58b19826d8de1568bc3dd7&originpath=/linear/hls/pb/event/6bVWYIKGS0CIa-cOpZZJPQ/stream/a14edbe7-f7a9-4df9-bf04-a89ac1e42cf7:SIN2/variant/1935630644426d9a280ce210c38129c2/bandwidth/4705632.m3u8
+#EXTINF:-36 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sethd_23oct_masthead_logo_rev.png",SET HD
+https://lin-gd-001-cf.slivcdn.com/out/v1/9f4f650a3ef84ec187f35444aeff456e/master_7.m3u8?hdntl=exp=1675456583~acl=*~hmac=3217fd6cf27590197f9acf390f2ba12292fbbbb5277a849580a9395f56be7cda&originpath=/linear/hls/pb/event/dBdwOiGaQvy0TA1zOsjV6w/stream/1844932c-3a79-4345-b6fa-7cbb1f887483:TPE2/variant/8e010b55074999abe353bc327bff4912/bandwidth/4704836.m3u8
+#EXTINF:-36 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sony_sabhd_23oct_masthead_logo.png",Sony Sab
+https://lin-gd-001-cf.slivcdn.com/out/v1/d3a414ee43fc440fbe6190e2a1ed5fe1/master_4.m3u8?hdntl=exp=1675456716~acl=*~hmac=6102fc5e086e7b6ec542aff25de643280c5856cb97ca9d106b287f241eaf0122&originpath=/linear/hls/pb/event/CrTivkDESWqwvUj3zFEYEA/stream/6b474914-b1ad-44bb-9354-817493460b60:TPE2/variant/1b0acd4d572711a7882b53899757849c/bandwidth/4704739.m3u8
+#EXTINF:-36 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Sony_Pal_new.png",Sony Pal
+https://lin-gd-001-cf.slivcdn.com/out/v1/3950521d96f7427fa0f0485e82e53487/master_2.m3u8?hdntl=exp=1675456805~acl=*~hmac=03f038d2a28c865cd915b880a803fc2550098ebbccb878b7d91e510089d3c2e8&originpath=/linear/hls/pb/event/dhPrGRwDRvuMQtmlzppzQQ/stream/8270c5ca-72be-4fb1-9a7b-b43e52afafa0:TPE/variant/10109d4814a8fabace957d27d88119dd/bandwidth/4789268.m3u8
+#EXTINF:-36 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sony_yay_23oct_masthead_logo.png",Sony YAY
+https://lin-gd-001-cf.slivcdn.com/out/v1/556cf446f0b1457b98640c553b652a4a/master_2.m3u8?hdntl=exp=1675456918~acl=*~hmac=35d305c3d36c0f9372a1c163d6adbbcde07907087c2f375441e3b052d1e9a064&originpath=/linear/hls/pb/event/GPY7RqOrSkmKJ8z1GbVNhg/stream/67966891-c652-4cab-aeaa-b5382474c2bd:SIN/variant/7c53f9317740594b8d07dc61fb4be9fa/bandwidth/5973770.m3u8
 #EXTINF:-36 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8c/Nick_Pluto_TV_logo.jpg/revision/latest?cb=20200527153528",Nick Plutoo
 https://siloh.pluto.tv/lilo/production/Nick/01/master_4.m3u8
 #EXTINF:-36 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png",Nickelodeon
@@ -249,5 +267,13 @@ http://93.155.227.38:555/m3u8/diemasport3hd.m3u8
 http://185.53.88.103:88/live/226448369414368/226448369414368/5193.m3u
 #EXTINF:-3 tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu9RA_jE7FXF8hPK6SB5oJniAhOczKJ3AiGElVQ9QA=s900-c-k-c0x00ffffff-no-rj",BT Sports
 http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2505/index.m3u8
-
-
+#EXTINF:-36 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",Sony Sports 1
+https://lin-gd-001-cf.slivcdn.com/out/v1/80891f4d48cc41bda7e62cc601fad8cd/master_1.m3u8?hdntl=exp=1675454591~acl=*~hmac=72cb8dd5d3a11d677ffcf9b6401380575f93ec288b043194c1971625e7cf6201&originpath=/linear/hls/pb/event/6WhVNGKTRXyu588zZv1Lkg/stream/b907320e-4f33-4738-a79a-8ae1a98a73d8:TPE2/variant/164a5418abea02d07948362e5f056577/bandwidth/4789457.m3u8
+#EXTINF:-36 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony Sports 2
+https://lin-gd-001-cf.slivcdn.com/out/v1/6405a2743163448bba0f3ee5e68e7bc3/master_2.m3u8?hdntl=exp=1675454773~acl=*~hmac=7ccfdd2535b6b4dde859a53499b800f5ba5abe0f597d28d5a41d35699a2f97e6&originpath=/linear/hls/pb/event/LK-ik89MQIi_pWBbg74KNQ/stream/90254cfc-3946-4cd9-8da7-89fe399d6ecd:SIN2/variant/180a140a61a240b31add46b5b8fc19c7/bandwidth/4789193.m3u8
+#EXTINF:-36 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports 3
+https://lin-gd-001-cf.slivcdn.com/out/v1/af14396716554fb59c86194f8967f47a/master_1.m3u8?hdntl=exp=1675454873~acl=*~hmac=386e902f0be2a61e46111e172725fcdbf399282e979016eefc5c68e4944c78fe&originpath=/linear/hls/pb/event/BCOFZq1JQjq12fmaO6lAAA/stream/fdc6c4b0-4450-4a40-973b-ff2a48913802:TPE2/variant/d3f53437b6f46cf3e8fb7941b360a811/bandwidth/4788929.m3u8
+#EXTINF:-36 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png",Sony Sports 4
+https://lin-gd-001-cf.slivcdn.com/out/v1/686ed751131a40d89bc86bfd7c1ae321/master_9.m3u8?hdntl=exp=1675456139~acl=*~hmac=c4ab8753bfb4d931018698460fa3359aadcb8aaa75dad1a69316079abab0f6fb&originpath=/linear/hls/pb/event/tNzcW2ZhTVaViggo5ocI-A/stream/c8ff599c-57ce-4f36-b4be-663a41e3aa09:TPE2/variant/0c0dfddefe3ffd8fbb78c45f738ab3d5/bandwidth/4930112.m3u8
+#EXTINF:-36 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png",Sony Sports 5
+https://lin-gd-001-cf.slivcdn.com/out/v1/0ae7386fe9f34e91a4a9e6b94233e22d/master_2.m3u8?hdntl=exp=1675456260~acl=*~hmac=a43500372c5807af211e66a461e6f4ec287b6d3945d462fbb07174be38d803f0&originpath=/linear/hls/pb/event/r-eLp41YTHWTagvQSXFtAQ/stream/7be62401-83df-456f-a64d-abdf24d706a3:TPE/variant/9a58a95890289db33d2eb4d5dfa08bea/bandwidth/4789307.m3u8
