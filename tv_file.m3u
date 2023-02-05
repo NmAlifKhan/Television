@@ -91,8 +91,8 @@ http://alvetv.com/mbtv/8080/index.m3u8
 http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.bangladeshcircle.com/wp-content/uploads/2014/07/Bangla-TV-logo.jpg",Bangla TV
 http://208.86.19.13:81/504.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/2Jkg2TMQwwiXcPWwaUDxqD-wEyLoTiklVsRovg7nYfFFOGKFtUVApdjG3sroqHti8_GHsIDeDQ=s900-c-k-c0x00ffffff-no-rj",ATN Music TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF",ATN News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675616076/ei/7IrfY_2zKoP21wKb1IGwBg/ip/92.205.15.128/id/Vc-PGXp1jkU.1/source/yt_live_broadcast/requiressl/yes/tx/24276395/txs/24276394%2C24276395%2C24276396%2C24276397%2C24276398%2C24276399/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgCp7NXkbhRYfpw8RtPouUcx_gsDFb_RNxobMvw7Ex3eECIAaoFqW_tC_Yrf_IlRzIwbP3iqWxSqvKi8BYpGfC6pEs/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://dailyagamirsongbad.com/wp-content/uploads/2022/11/received_1224717518112730.jpeg",Matribhumi TV
 http://tv.anwarlinkisp.com:1895/live/bangladesh/chunklist_w632900092.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_6n6Wu54VbFd87md_bmdVIc-xMM8AE23Mfx-g5=s900-c-k-c0x00ffffff-no-rj",Nandan TV
@@ -119,12 +119,18 @@ http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-11 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png",Ten Sports
 http://208.86.19.13:81/711.stream/index.m3u8 
+#EXTINF:-5 tvg-logo="https://play-lh.googleusercontent.com/pHkMbBQj7MnKj7SYhVMan82alGvqDODnzO_sEeDiM91UfH4_mc05KtcXA4_ujSe-ag",Sky News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675614745/ei/uIXfY9TAPJul1gKniYDABg/ip/92.205.15.128/id/9Auq9mYxFEE.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/fr/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgVkCyvN3CgxG8alEpy7NY356MtjTIFWhScbKbvvBdetgCIGq2FPEqt3xLKvQUQMPRe9Hz9FgB35Nd26QhI5I8R-a4/file/index.m3u8
 #EXTINF:-11 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-11 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW News
 http://tempx.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dwnews.stream/playlist.m3u8
 #EXTINF:-11 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/6/6c/%E0%A6%86%E0%A6%B2_%E0%A6%9C%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%B0%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%86%E0%A6%B2_%E0%A6%9C%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%B0%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-5 tvg-logo="https://play-lh.googleusercontent.com/Grr5CeFzWCgx8jM-oEIdVjaK00m9f6odYIPOxRuGPRcgz439t2G0D6d6yyDrPCHQFpiz",Makkah Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675614579/ei/E4XfY8uLIJWa1gLzmZUo/ip/92.205.15.128/id/m-fsAq1FaVk.1/source/yt_live_broadcast/requiressl/yes/tx/24438946/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24462243/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKPrgiCnBrgnfuBG4dALoDOifo1M0bA5VNldfPLFuqrVAiEArSMNr_mjE4sVRJE-wDqA1qutdiEaQAKbptooj2vKZVQ%3D/file/index.m3u8
+#EXTINF:-5 tvg-logo="https://www.teahub.io/photos/full/300-3000158_photos-of-madina-photos-of-medina-madina-sharif.jpg",Madinah Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675615437/ei/bIjfY8ehOoiy1gLgyKuABw/ip/92.205.15.128/id/PQOB4MvQBdQ.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/fr/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgIxuKl1ODP_s3uRO8bQu8NC9h6Y0SbHP0Q21dukqbjy8CIQDGjztxkLphDQUPD88OXfNQe4FbnPkb3DBZb34BjHWwHA%3D%3D/file/index.m3u8
 #EXTINF:-31 tvg-logo="https://www.tvoneuk.tv/wp-content/uploads/2021/06/TVONE-LOGO-Colour.png",TV One
 https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tvoneuksni.stream/chunks.m3u8
 #EXTINF:-99 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9ZGDmvCi_mzadOzyKVZFgnBL_XMqjHAkaFDKEB=s900-c-k-c0x00ffffff-no-rj",Bangla Jago
@@ -223,6 +229,8 @@ http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-13 tvg-logo="https://i.ytimg.com/vi/7wbkQ8emdx4/maxresdefault.jpg",Nick Jr. Dora TV
 https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
+#EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Disney_Junior.svg",Disney Jr.
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675615885/ei/LYrfY97cDJGB-gb7q47IBA/ip/92.205.15.128/id/d8X_G4NyMbk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIPuuet98S7ICcBCYHf_MJ_PxmS5xANfLNEvF_J1-j79AiEA_3omI3zB-wq8W-NhK72nQMaXcQTTx25nmiJOl3Wb9ds%3D/file/index.m3u8
 #EXTINF:-13 tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg",National Geographic
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-13 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_ZiBhYXuhlX8B1Dxz6EKCPm6DmU6QW7URThEEFJQ=s900-c-k-c0x00ffffff-no-rj",Boogle Bollywood
