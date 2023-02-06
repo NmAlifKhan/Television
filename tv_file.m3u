@@ -35,6 +35,9 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",Deepto TV
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
 
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png",Nexus TV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/playlist.m3u8
+
 #EXTINF:-0 tvg-logo="http://atnmusic.tv/images/logo.png",ATN Music
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
 
@@ -43,6 +46,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-0 tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/cnbc-tv18.png",Roal TV
 http://iptvbd.jagobd.com:1931/live-orgin/royaltv.stream/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gaan_Bangla_Logo_2021.jpg/800px-Gaan_Bangla_Logo_2021.jpg",Gaan Bangla
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://thenrb.tv/wp-content/uploads/2021/11/NRB-tv-Final-Logo-PNG-2.png",NRB TV
 https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
@@ -92,11 +98,21 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png",NTV
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
+
+#EXTINF:-0 tvg-logo="https://ethnicmediagroup.co.uk/wp-content/uploads/2022/02/Untitled-design-24-1600x900.png",iON TV
+https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
+
 #EXTINF:-0 tvg-logo="https://www.somoynews.tv/icon.png",Somoy TV
 https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png",Ekushey ETV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJX53D_mh0L5ZgPkCukLnzyIEekgxBIjlITFm95DQw=s900-c-k-c0x00ffffff-no-rj",Pan Vision TV
+https://tempe.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://lh3.googleusercontent.com/YcMozBfxKIrc0ZZx9SPYrByl6yELfhBfpPts3N1rEqIleQtKpHu3Cth7frPWywuCT2VP=w300",KTV Bangla
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest?cb=20210520142429",Star Jalsha
 http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B8C118EA7CD3307E3929D0D&profile=matroska
@@ -167,6 +183,9 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://iqra.tv/wp-content/uploads/2022/07/Iqra-Logo-PNG.jpg",Iqra Bangla
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 
+#EXTINF:-0 tvg-logo="http://deentv.uk/wp-content/uploads/2021/08/cropped-DEEN-TV-LOGO-FINAL-80x80-1.png",Deen TV
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+
 #EXTINF:-0 tvg-logo="https://bn.voicetv.tv/assets/logo.png",Voice TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 
@@ -198,7 +217,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 http://ip2121.com:8081/live/cnn/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW News
-http://tempx.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dwnews.stream/playlist.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/6/6c/%E0%A6%86%E0%A6%B2_%E0%A6%9C%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%B0%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%86%E0%A6%B2_%E0%A6%9C%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%B0%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -351,7 +370,7 @@ http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/l7y-ctZSd2HvPMprMBT04tIEVSIHjvcydvulpKbHmGxO7-Xq2vDGaFan9C1LIkPrNkxykabT1w=s900-c-k-c0x00ffffff-no-rj",Cartoonito
-http://216.250.127.77:25461/live/cesar/cesar123/207.m3u8?token=SBtbBUpfEgIVUFZQUwMCVQVSUQ4CDVZcWlZTAABWAglSXVVcXw8IDFFAGBcVQhZRB1lrUVEXCQpTBE0VRUFTS2xQV0YDFQIPA1cWGURCDVkDFg4IGRdDUQcRWxUDAgAJAxsfRlxPRF1FDFVZOVIBQg9XURoPW0ZUDx9DWF5tUlxeWF0AGw0SCBVOFlwVRkYOCEFYVBkXUVEXQQBDVRAMGwEOBVYbGxJbWBdaQRRPRg5EdnAaGRdWQBdWD0RZXVgbCRteV0wPEhQVC0dqFFMXQBRRVVVQRxECQQNDGxJfV0FsWlwKV1JTTF4NWkZEDEYHRBgWVVpbWkwMQT5HWVYUAxELBlUPARJF
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://nickjr.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/webplex/site/nick-jr/nick-jr-preview.png",Nick Jr.
 http://tvstarlife.com:25461/live/cesar/cesar123/200.m3u8
