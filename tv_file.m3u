@@ -14,14 +14,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW2JCeXSmz9YThL6eMhczz2tDAe6Bsgue8ECdnSQA=s900-c-k-c0x00ffffff-no-rj",AB TV
 http://208.86.19.13:81/501.stream/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://doyeltv.com/wp-content/uploads/2021/12/Doyel-TV-Logo.png",Doyel TV
-https://live.doyeltv.com/live/doyeltv.m3u8
-
-#EXTINF:-0 tvg-logo="https://www.canbangla.tv/public/CanBanglaLogo.jpg",Can Bangla TV
-https://bd.jaagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/live-orgin/canbanglatv.stream/chunks.m3u8?nimblesessionid=1538284825&wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjMgNDo0ODoyMSBQTSZoYXNoX3ZhbHVlPXdzYkh2bytFWEx5b0R0QzE4OG5NNFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
-
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png",Asian TV
-https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8?nimblesessionid=1057454893&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjMgNDozOToxOSBBTSZoYXNoX3ZhbHVlPXdjbkx6WVFocTMxWE5OaGE1bTAvdUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+http://bd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekhon TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675609658/ei/2nHfY8abD5vigQfQuZGwDw/ip/92.205.15.128/id/F4eNLjghUt4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgUH8_ZKhuUr7GjhmDvx9YFuTXdHjWNl2ft_DpDvGp21sCIFcoERniHTrKN5sLQJm1UDqXPPTs9nBYyNaaB1fXYde5/file/index.m3u8
@@ -31,9 +25,6 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",Deepto TV
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",GTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675609017/ei/WW_fY72eOJr8gQfp7ov4AQ/ip/92.205.15.128/id/mQHh5f8w8VI.1/source/yt_live_broadcast/requiressl/yes/tx/24452303/txs/24452300%2C24452301%2C24452302%2C24452303/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIyBHWxZtT0ore-wwtkERA14rotoxZKU6j0Emg77owX5AiBnsE9T5iFNOa_wdVdeSnxct7wz2Gw92o4Obc1DayDOaA%3D%3D/file/index.m3u8
 
 #EXTINF:-0 tvg-logo="http://atnmusic.tv/images/logo.png",ATN Music
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
@@ -76,9 +67,6 @@ https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png",Boishakhi TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
-
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e5/Boishakhi_TV_plus_logo.png/revision/latest?cb=20221020103718",Boishakhi TV plus
-http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_yV_Rbsyj8ABx-0GsFLEvbIrA-qX4C3Jm6s-NE=s900-c-k-c0x00ffffff-no-rj",Bangla 21 TV
 http://iptvbd.jagobd.com:1931/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
@@ -172,9 +160,6 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Ruposhi_Bangla_old.jpeg/revision/latest?cb=20191218154246",Ruposhi Bangla
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=282083&extension=ts&play_token=NvmtpNRXKt
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Sananda_TV_Logo.jpg",Sananda TV
-http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png",Star Plus
 http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
@@ -358,9 +343,6 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/disneyjuniorpedia/images/a/a8/Disney-Junior-Logo-disney-junior-27558537-2560-1920.jpg/revision/latest?cb=20160424225753",Disney Junior
 http://tvstarlife.com:25461/live/cesar/cesar123/220.m3u8
-
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/_h0LruFUfluRLAx1VtPbKZ4AfTnm7TkTFMZIuR83dKpnRcOCP8tkw8KIJaHfaj2yKgPffuLu=s900-c-k-c0x00ffffff-no-rj",Disney Jr.
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675615885/ei/LYrfY97cDJGB-gb7q47IBA/ip/92.205.15.128/id/d8X_G4NyMbk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIPuuet98S7ICcBCYHf_MJ_PxmS5xANfLNEvF_J1-j79AiEA_3omI3zB-wq8W-NhK72nQMaXcQTTx25nmiJOl3Wb9ds%3D/file/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg",National Geographic
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
