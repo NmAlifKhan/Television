@@ -106,7 +106,10 @@ https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png",Ekushey ETV
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-0 tvg-logo="http://www.jonmobhumi.tv/wp-content/uploads/2017/11/Final-Red-Logo.png",Jonmobhumi TV
+https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJX53D_mh0L5ZgPkCukLnzyIEekgxBIjlITFm95DQw=s900-c-k-c0x00ffffff-no-rj",Pan Vision TV
 https://tempe.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8
