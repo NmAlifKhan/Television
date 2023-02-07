@@ -71,6 +71,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 
+#EXTINF:-0 tvg-logo="https://panel.greenbd.tv/uploads/Green_TV_0d4afeaf08.png?format=webp",Green TV
+https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/greentv.stream/chunks.m3u8
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png",Bangla Vision
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 
@@ -98,12 +101,20 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png",NTV
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
+#EXTINF:-0 tvg-logo="https://www.azan.tv/assets/importent_images/logo.png",Azan TV
+https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/chunks.m3u8?nimblesessionid=1060256829&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjMgNjowNzozMyBBTSZoYXNoX3ZhbHVlPTZLS1ZHREthbjFHV0RiMU92eFU1dFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
 #EXTINF:-0 tvg-logo="https://ethnicmediagroup.co.uk/wp-content/uploads/2022/02/Untitled-design-24-1600x900.png",iON TV
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 
+#EXTINF:-0 tvg-logo="https://biswabangla.tv/wp-content/uploads/2016/05/cropped-Biswa-Bangla.png",Biswabangla TV
+https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
+
 #EXTINF:-0 tvg-logo="https://www.somoynews.tv/icon.png",Somoy TV
 https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW-uTcjaxQjWrCI_wpuL-LuuTJg8pNXXv7L9KYB=s900-c-k-c0x00ffffff-no-rj",Open TV
+http://tempe.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boulive.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png",Ekushey ETV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -116,6 +127,9 @@ https://tempe.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-0 tvg-logo="https://lh3.googleusercontent.com/YcMozBfxKIrc0ZZx9SPYrByl6yELfhBfpPts3N1rEqIleQtKpHu3Cth7frPWywuCT2VP=w300",KTV Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/05/Jhankartv-150x150.jpg",Jhankar TV
+https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest?cb=20210520142429",Star Jalsha
 http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B8C118EA7CD3307E3929D0D&profile=matroska
@@ -147,8 +161,14 @@ https://live.mvdn.castnest.io/madnitvbangla/madnibanglaabr/tracks-v3a1/mono.m3u8
 #EXTINF:-0 tvg-logo="https://1.bp.blogspot.com/-E6Las0-lxRQ/X9PJNQyA2vI/AAAAAAAABGY/HdQbtL36W10wu3Ie944gEVggzRaKHnWEgCLcBGAsYHQ/w800/Channel-S-UK-LIve.png",Channel S
 https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/chunks.m3u8
 
+#EXTINF:-0 tvg-logo="https://www.jagobd.com/wp-content/uploads/2023/01/b24c-1.jpeg",B24C
+http://tempx.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/b24c.stream/chunks.m3u8
+
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8AMyY2eeea-1UDD4RQhFIMz2YoydpT62tYJwg5BA=s900-c-k-c0x00ffffff-no-rj",Iqra TV
 https://cdn5.iqsat.net/iqb/b5b9977ca31beabec903ba7b34e1c198.sdp/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://lh5.googleusercontent.com/ILzM0SqdZaMfMHdO6LMOQpmxaX8gULG4DBKW3zAuXpMNO6AMSQFa3MpTsB-_H2o9--hDlH0hO1YlABCTVUQFGamAUcLdSLqf8-05ZbnPjBw9kCDMyYpHvyo72e0Z29iJ1FriqE6K",Makkah Live
+http://tempx.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/makkah.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.deshebideshe.tv/assets/importent_images/logo.jpg",Deshe Bideshe TV
 https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
