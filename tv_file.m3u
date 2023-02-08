@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png",BTV World
+#EXTINF:-0 tvg-ID="SRF1.ch" tvg-name="SRF 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png",BTV World
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/1200px-DBC_News_Logo.svg.png",DBC News
@@ -20,7 +20,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/varendratv.stream/chunks.m3u8
 #EXTINF:-0 tvg-logo="https://www.canbangla.tv/public/CanBanglaLogo.jpg",Can Bangla TV
 http://iptvbd.jagobd.com:1931/live-orgin/canbanglatv.stream/chunks.m3u8
 
-#EXTINF:-0 tvg-logo="https://jatvbd.com/wp-content/uploads/2022/04/4.png",JA TV
+#EXTINF:-0 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/304810445_456818433126429_8873894244743972687_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=-4UNIms9c68AX-TCteA&_nc_ht=scontent.fdac99-1.fna&oh=00_AfCWn13_nIhgFzfq8D-7Fv5ke_oR243V963FAVNKkajEKg&oe=63E846BD",JA TV
 https://live.sonarbanglatv.com/ja/jatv.m3u8
 
 #EXTINF:-0 tvg-logo="https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/324468686_823468165385100_4359671194668069081_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Pn5W5dTnZhYAX99esSK&_nc_oc=AQk9iTiWGZ1fYyNo8vv1gEeXaf13nyRReS-2S-XRPF5Qk6_iGoUv3skjsiYuTVEYh6Q&_nc_ht=scontent.fdac99-1.fna&oh=00_AfDKVVpgeMagckjHW0FI3CFcimtEsPwgGhIV_EBo8Txsjw&oe=63E7E5E4",Rajdhani TV
@@ -108,7 +111,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.azan.tv/assets/importent_images/logo.png",Azan TV
-https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/chunks.m3u8?nimblesessionid=1060256829&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjMgNjowNzozMyBBTSZoYXNoX3ZhbHVlPTZLS1ZHREthbjFHV0RiMU92eFU1dFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://ethnicmediagroup.co.uk/wp-content/uploads/2022/02/Untitled-design-24-1600x900.png",iON TV
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
