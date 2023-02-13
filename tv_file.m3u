@@ -143,9 +143,6 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/05/Jhankartv-150x150.jpg",Jhankar TV
 https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/chunks.m3u8
 
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest?cb=20210520142429",Star Jalsha
-http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B8C118EA7CD3307E3929D0D&profile=matroska
-
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png",Colors Bangla
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 
@@ -154,6 +151,9 @@ http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/21658
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJU2kObpiE1LTTLvcwBuza-pdNvOnWdI59_I0Fu9bg=s900-c-k-c0x00ffffff-no-rj",Zee Bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest?cb=20210520142429",Star Jalsha
+http://212.224.84.217:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo%7CUser-Agent=REDLINECLIENT
 
 #EXTINF:-0 tvg-logo="https://www.satv.tv/wp-content/uploads/2022/01/cropped-icon-logo-2.png",SA TV
 https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
@@ -481,3 +481,18 @@ http://185.53.88.103:88/live/226448369414368/226448369414368/5193.m3u
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu9RA_jE7FXF8hPK6SB5oJniAhOczKJ3AiGElVQ9QA=s900-c-k-c0x00ffffff-no-rj",BT Sports
 http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2505/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",Sony Sports 1 HD
+https://lin-gd-001-cf.slivcdn.com/out/v1/7394bf66d54d42f09b7cc0ed4bb7e9e9/master_1.m3u8?hdntl=exp=1676312467~acl=*~hmac=116f3398440b90e3eca4d706df0904e0c233b560de3a89246eded203fc780517&originpath=/linear/hls/pb/event/wG75n5U8RrOKiFzaWObXbA/stream/d66e248c-7536-494f-8ad8-479139e9c0fa:TPE/variant/f677e9376599d1d26e1409db0088af03/bandwidth/4704924.m3u8
+
+#EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony Sports 2 HD
+https://lin-gd-001-cf.slivcdn.com/out/v1/a2fb6f8486d9435bb34ee74a6e076b09/master_1.m3u8?hdntl=exp=1676312701~acl=*~hmac=97c84c36cae84b08d0fc98ce0b9e001e7dccf3db18d911e327480ab6b54fbc75&originpath=/linear/hls/pb/event/V9h-iyOxRiGp41ppQScDSQ/stream/a10ca482-d5d2-4dca-9f1f-bc1cfd438f2b:SIN2/variant/282461b345f822b32de896910f770920/bandwidth/4704977.m3u8
+
+#EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports 3 HD
+https://lin-gd-001-cf.slivcdn.com/out/v1/0ee967e6ce5c4d10a3cf86078e91a674/master_2.m3u8?hdntl=exp=1676312787~acl=*~hmac=e1c40effc9b5ca1447d889f868562eca88a2644a9973853b41b9cc3cbb2f34c0&originpath=/linear/hls/pb/event/ltsCG7TBSCSDmyq0rQtvSA/stream/92dd41bc-32bc-440c-983f-e9131ea85002:TPE/variant/672720a940e7d1943cf17667e38a9a91/bandwidth/4704911.m3u8
+
+#EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png",Sony Sports 4 HD
+https://lin-gd-001-cf.slivcdn.com/out/v1/ce8b4bf8d5c5487599012e02f2fac049/master_3.m3u8?hdntl=exp=1676312866~acl=*~hmac=98170ebc5af876ae1e0c8c9c9307a01a674e6733f9d82859e5151a6a6bf86803&originpath=/linear/hls/pb/event/smYybI_JToWaHzwoxSE9qA/stream/2b06e7f6-ea56-4f3b-8816-5e3ee26c30d3:TPE/variant/e8a1c585479787b9de070decd49eba91/bandwidth/4957977.m3u8
+
+#EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png",Sony Sports 5 HD
+https://lin-gd-001-cf.slivcdn.com/out/v1/79396cc3e885493e950b24dcddceaeda/master_7.m3u8?hdntl=exp=1676312790~acl=*~hmac=aaf9236580b83772a23e1914ba89435752bbd3a9d13acfa5494eb210634518be&originpath=/linear/hls/pb/event/Sle_TR8rQIuZHWzshEXYjQ/stream/991141d0-f002-4401-a445-13065e15b965:TPE/variant/d36bf8f514f89a676ea85aee2e2f11aa/bandwidth/4704510.m3u8
