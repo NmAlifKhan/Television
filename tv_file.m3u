@@ -344,7 +344,7 @@ http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-title="Movies",Rock Action
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/640px-Rock_Entertainment.png" group-title="Movie",Rock Entertainment
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/640px-Rock_Entertainment.png" group-title="Movies",Rock Entertainment
 http://210.210.155.37/dr9445/h/h16/index.m3u8
 
 #EXTINF:-0 tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/sky-news.png" group-title="News",Sky News
