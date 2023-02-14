@@ -503,7 +503,7 @@ https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title="Kids",Disnep Channel
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=156000&extension=ts&play_token=IP0w8TfOMj
 
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/2/21/Original_Nicktoons_logo.png/revision/latest/scale-to-width-down/250?cb=20210615183438" group-title="kids",NickToons
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/2/21/Original_Nicktoons_logo.png/revision/latest/scale-to-width-down/250?cb=20210615183438" group-title="Kids",NickToons
 http://tvstarlife.com:25461/live/cesar/cesar123/203.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWltyoUxSTyUCRaZkZ7GOqXcf8Kuq7GnrfBTTLDLEU=s900-c-k-c0x00ffffff-no-rj" group-title="Kids",Lego Channel
