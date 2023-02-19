@@ -56,6 +56,9 @@ https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" group-title="Entertainment (BD)",Boishakhi TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 
+#EXTINF:-0 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg" group-title="Entertainment (BD)",Boishakhi TV Plus
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="Entertainment (BD)",Channel 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 
@@ -120,7 +123,7 @@ https://live.doyeltv.com/live/doyeltv.m3u8
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://thenrb.tv/wp-content/uploads/2021/11/NRB-tv-Final-Logo-PNG-2.png" group-title="Entertainment (BD)",NRB TV
-https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/nrb-eu.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://meemtvusa.com/wp-content/uploads/2019/11/PNG-300x232.png" group-title="Entertainment (BD)",Meem TV
 http://208.86.19.13:81/502.stream/index.m3u8
@@ -365,9 +368,6 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master_5.m3u8
 #EXTINF:-0 tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/aljazeera.jpg" group-title="News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
-#EXTINF:-0 tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/bein-sports.png" group-title="Sports",Bein Sports
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_5.m3u8
-
 #EXTINF:-0 tvg-logo="https://www.nktv.in/wp-content/uploads/2021/10/NKtv_Logo_200x102-removebg-preview.png" group-title="News",NK TV
 https://rtmp.smartstream.video/nktvlive/nktvlive/chunklist_w1775515519.m3u8
 
@@ -549,10 +549,19 @@ http://212.224.84.217:2200/R-EX/FHD_SONY_TEN2_-in/tracks-v1a1/mono.m3u8?token=CX
 http://185.53.88.103:88/live/226448369414368/226448369414368/13794.m3u
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports",Bein Sports 1
-http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
+http://88.99.216.157:5080/WebRTCApp/streams/Bein1.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sports",Bein Sports 2
 http://185.53.88.103:88/live/226448369414368/226448369414368/83.m3u
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png" group-title="Sports",Bein Sports 3
+http://88.99.216.157:5080/WebRTCApp/streams/Bein3.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png" group-title="Sports",Bein Sports 4
+http://88.99.216.157:5080/WebRTCApp/streams/Bein4.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png" group-title="Sports",Bein Sports 5
+http://88.99.216.157:5080/WebRTCApp/streams/Bein5.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/1200px-MatchTV_Logo.svg.png" group-title="Sports",Match HD
 http://194.143.148.28/MatchHD/mono.m3u8
