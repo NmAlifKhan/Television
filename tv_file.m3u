@@ -6,7 +6,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB4zRBPd3wB-gLQXrXB-VU6zuQHqtdAUXGF2WtWg0DOvUrWoqvc4wZOqXV6rGmFgsZ62o&usqp=CAU" group-title="Entertainment (BD)",Ekattor TV
-https://live.bongobd.com/hls/OJ4KbSeBEURkt5mjaR4C3A/1677567565/ekattur_tv_hi/index.m3u8
+https://live.bongobd.com/hls/OJ4KbSeBEURkt5mjaR4C3A/1677567565/ekattur_tv.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Entertainment (BD)",Channel I
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
