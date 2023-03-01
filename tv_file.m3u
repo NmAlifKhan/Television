@@ -11,6 +11,9 @@ http://212.224.84.217:2200/R-EX/EKAT_TOR_TV-in/tracks-v1a1/mono.m3u8?token=CXtoC
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Entertainment (BD)",Channel I
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 
+#EXTINF:-0 tvg-logo="https://play-lh.googleusercontent.com/mNGkd3RGbQdcNLsP6tixQjw5CjgH1pze70qYdsjvDbxAsNZpIS1-klTHbhu6H_KGRG8" group-title="Entertainment (BD)",GTV
+https://musajeeb.online/GTV/tracks-v1a1/mono.m3u8?token=jointelegram
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Entertainment (BD)",Asian TV
 http://bd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 
@@ -50,6 +53,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/4/49/%E0%A6%86%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/640px-%E0%A6%86%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Entertainment (BD)",RTV HD
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 
+#EXTINF:-0 tvg-logo="https://play-lh.googleusercontent.com/VQ9iDskpoYK_G3Kx8gQCGexkCT0IYhXYwhl4eO3b9rweHNXSSAQI-yLlM73zCXqgFw" group-title="News",The Channel TV
+https://somoy.jaagobd.com:444/somoy/thechanneltv.stream/chunks.m3u8
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" group-title="Entertainment (BD)",Boishakhi TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 
@@ -70,6 +76,9 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/EUfH-zm--KHbNr1vUG6MP7QLaH1Yeutc7w-doCn7Ty1b2w0kKvaV_tkjCVIliYkpqiMAIT7EEx8=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (BD)",Nan TV
 http://iptvbd.jagobd.com:1931/live-orgin/nantv.stream/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/51054671_290302274896000_6516245766409814016_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=A1o-f9f4MH0AX9IyzRw&_nc_ht=scontent.fdac99-1.fna&oh=00_AfDlT8w0LYaPTBzpNpPwe9tvXo4JfcEi5ViMYl0R93MHog&oe=642637CD" group-title="Entertainment (BD)",FB TV
+http://162.244.81.200:1935/live/livestream/chunklist_w1043980325.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJU2kObpiE1LTTLvcwBuza-pdNvOnWdI59_I0Fu9bg=s900-c-k-c0x00ffffff-no-rj", group-title="Entertainment (India)",Zee Bangla
 http://212.224.84.217:2200/R-EX/FHD_ZEE_BANGLA_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo%7CUser-Agent=REDLINECLIENT
@@ -555,10 +564,13 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 
 #EXTINF:-0 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7433/567433-h" group-title="Sports",Star Sports Hindi
-http://212.224.84.217:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo%7CUser-Agent=REDLINECLIENT
+https://vkvsd18.mycdn.me/hls/3690948659943.m3u8/sig/YEO71W7cAGs/expires/1677727335845/srcIp/110.227.132.110/urls/185.226.53.51/clientType/13/srcAg/CHROME_ANDROID/mid/4878528556007/3690948659943_high/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Sports",Sony TEN 2
+#EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Sports",Sony Sports Ten 2
 http://212.224.84.217:2200/R-EX/FHD_SONY_TEN2_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo%7CUser-Agent=REDLINECLIENT
+
+#EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="Sports",Sony Sports Ten 5
+https://lin-gd-001-cf.slivcdn.com/out/v1/0ae7386fe9f34e91a4a9e6b94233e22d/master_4.m3u8?hdntl=exp=1677690897~acl=*~hmac=796c38f30540eeecdefab42ba113a0c215cba53d08422e9d2afa046054fa05c6&originpath=/linear/hls/pb/event/r-eLp41YTHWTagvQSXFtAQ/stream/93ba0905-accf-4d67-ac7c-495318fb0f50:TPE2/variant/f7185317b83dbf5fdb90ba9ff6f5c93e/bandwidth/1828838.m3u8
 
 #EXTINF:-0 tvg-logo="https://images.beinsports.com/Kz2EjZV1K-H437lBNyF11pXYWVw=/670x424/smart/924692-beIN-logo-high.png" group-title="Sports",Bein Sports
 http://185.53.88.103:88/live/226448369414368/226448369414368/13794.m3u
