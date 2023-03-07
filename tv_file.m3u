@@ -227,6 +227,9 @@ http://208.86.19.13:81/7033.stream/index.m3u8
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest/scale-to-width-down/250?cb=20221023215435" group-title="Entertainment (India)",Set HD
 http://50.7.69.66/sonytv/index.m3u8
 
+#EXTINF:-0 tvg-logo="https://images.slivcdn.com/videoasset_images/sony_sabhd_23oct_masthead_logo.png?h=184&w=184&t=c_fill&q=low&fr=webp" group-title="Entertainment (India)",Sony SAB
+http://50.7.69.66/SAB/index.m3u8
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="Movies",Color Cineplex
 http://208.86.19.13:81/73555.stream/index.m3u8
 
