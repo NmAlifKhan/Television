@@ -9,7 +9,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Entertainment (BD)",GTV
-https://live.bdtv.xyz:2096/token/gazitv/chunks.m3u8?nimblesessionid=13335061
+http://103.109.56.116/live/skyfeed1015/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Entertainment (BD)",Asian TV
 http://bd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
@@ -27,7 +27,7 @@ https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://mytvbd.tv/wp-content/uploads/2021/05/MyTV_logo.png" group-title="Entertainment (BD)",My TV
-https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Entertainment (BD)",Deepto TV
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
@@ -36,7 +36,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="Entertainment (BD)",ATN Bangla
-https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b7/%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF-%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Entertainment (BD)",Ananda TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
@@ -78,7 +78,7 @@ http://162.244.81.200:1935/live/livestream/chunklist_w1043980325.m3u8
 http://smiletv.live:24/getm3u8?id=625&m3u8=/jiotvmblive.cdn.jio.com/bpk-tv/Zee_Bangla_MOB/Fallback/Zee_Bangla_MOB-audio_98834_eng=98800-video=863200.m3u8
 
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest?cb=20210520142429", group-title="Entertainment (India)",Star Jalsha
-http://iptvtree.net:8080/myhdosama/1f2U4m1rnRO7KovH/12979
+http://103.109.56.116/live/skyfeed1003/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/f/f9/%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Islamic",ATN Islamic TV
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
@@ -224,6 +224,9 @@ https://web.nandansyst.com/hls/nandan_src/index.m3u8
 #EXTINF:-0 tvg-logo="https://www.news24bd.tv/newDesktop/img/logo.png" group-title="News",News 24 HD
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/UJfDAaVdDkGkb-3DmddM-IL2fb6L4VlcsFdgoxaDSKTdH2rmQ9IS7BJWsEFfu4vvpjijY-rk=s900-c-k-c0x00ffffff-no-rj" group-title="News",24 Hrs TV
+http://178.128.60.200:80/hls/stream2.m3u8
+
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu--zynPuQ0eShXEthe-P76g7ILUCAxZ8cd6kkCm=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (BD)",ITV
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 
@@ -325,6 +328,9 @@ http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/KoR-2AmQ_zee_anmol.jpeg" group-title="Movies",Zee Anmol Cinema
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-0 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_819/PORTRAIT/gZMfypMa.png" group-title="Movies",Zee Action
+http://208.86.19.13:81/7288.stream/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWyZpYGi4XcHEgYA6mPqkUrLvhHalWezKzC--_APw=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Zee Classic
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8?token=test
@@ -497,6 +503,9 @@ http://212.224.84.217:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/tracks-v1a1/mono.m3u8?tok
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/l7y-ctZSd2HvPMprMBT04tIEVSIHjvcydvulpKbHmGxO7-Xq2vDGaFan9C1LIkPrNkxykabT1w=s900-c-k-c0x00ffffff-no-rj" group-title="Kids",Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUY49f1DXhfn3H2TxCy4CAdugxA68EF5xCvllG7qw=s900-c-k-c0x00ffffff-no-rj" group-title="Kids",Chu Chu TV
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/906
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/Gubbare-TV_channel.jpg" group-title="Kids",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
 
@@ -529,6 +538,15 @@ http://45.126.83.51/dr9445/h/h10/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://pbs.twimg.com/profile_images/1131554149/peacetv_400x400.jpg" group-title="Islamic",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
+
+#EXTINF:-0 tvg-logo="https://portal.simplestreamcdn.com/172/c1b59909-MicrosoftTeams-image%20%2866%29.png" group-title="Islamic",Islam Channel
+https://live.islamchannel.tv/islamtv_english/1/prog_index.m3u8
+
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/U8VGrKgt4JcflXpVMBiJ33nJicV9B7tuQDHC2or1MftdovVKTc1BSl9VAWsYmF_9PNoQgLIRZg=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic",Eman Channel
+https://cdn5.iqsat.net/iq/70cf8d50aaeb4efcd04a42de2762bf3b.sdp/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://assets.peacetv.tv/images/intro/en-logo.png" group-title="Islamic",Peace TV English
+https://elahmad.ipslow.com/tv189_www.elahmad.com_peacetv_english/tracks-v1a1/mono.m3u8?token=d9c8c0a98d620c1500251e87d91fced94b9b9520-aa4f34e745caf7916ca2780dfa93f9da-1678186515-1678175715
 
 #EXTINF:-0 tvg-logo="https://photos.live-tv-channels.org/tv-logo/dubai-racing-9206.jpg" group-title="Sports",Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
