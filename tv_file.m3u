@@ -5,6 +5,9 @@ http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/1200px-DBC_News_Logo.svg.png" group-title="News",DBC News
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 
+#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB4zRBPd3wB-gLQXrXB-VU6zuQHqtdAUXGF2WtWg0DOvUrWoqvc4wZOqXV6rGmFgsZ62o&usqp=CAU" group-title="News",Ekattor TV
+https://tvs1.aynaott.com/ekattortv/index.m3u8?hdnts=st=1678724862~exp=1678754862~acl=/ekattortv/*~data=103.141.132.155-WEB~hmac=2bdfba715cd9e427c285a2905c3e62d63bd5699af161edb93966212819d8b4dc
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Entertainment (BD)",Channel I
 https://tvs2.aynaott.com/channeli/tracks-v1a1/index-1678716000-now.m3u8?hdnts=st%3D1678723641%7Eexp%3D1678753641%7Eacl%3D%2Fchanneli%2F%2A%7Edata%3D103.141.132.155-WEB%7Ehmac%3Da60122ea4e58398a3e50cc16c15fe4ee81a024cab6ed4e9a6603e8013e6d2b9b
 
@@ -80,6 +83,9 @@ http://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/51054671_290302274896000_6516245766409814016_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=A1o-f9f4MH0AX9IyzRw&_nc_ht=scontent.fdac99-1.fna&oh=00_AfDlT8w0LYaPTBzpNpPwe9tvXo4JfcEi5ViMYl0R93MHog&oe=642637CD" group-title="Entertainment (BD)",FB TV
 http://162.244.81.200:1935/live/livestream/chunklist_w1043980325.m3u8
 
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg", group-title="Entertainment (India)",Zee Bangla
+https://tvs1.aynaott.com/ZeeBangla/index.m3u8?hdnts=st=1678724607~exp=1678754607~acl=/ZeeBangla/*~data=103.141.132.155-WEB~hmac=a9bcf0923366840caf9fec59b89b04de3cfb131d263e012e817871555c21cacc
+
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest?cb=20210520142429", group-title="Entertainment (India)",Star Jalsha
 http://50.7.69.66/starjalsha/index.m3u8
 
@@ -109,6 +115,9 @@ https://bd.jagobd.com:444/live-orgin/atnmusic.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVd1IV-npVI1rFS03lf82kyRf-datJfKxK_tTdq=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Bangla 21 TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUtHjInbKAqD2jAN-2Px9HZFyj-xzLXBOn56zWajw=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Gaan Bangla
+https://tvs1.aynaott.com/gaanbangla/tracks-v1a1/mono.m3u8?hdnts=st=1678724214~exp=1678754214~acl=/gaanbangla/*~data=103.141.132.155-WEB~hmac=c1e0b842e4a83edf170d8b1bc1e8651e7252c576edaa43ac2cb56ccd2610e4b2
 
 #EXTINF:-0 tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/cnbc-tv18.png" group-title="Entertainment (BD)",Roal TV
 http://iptvbd.jagobd.com:1931/live-orgin/royaltv.stream/chunks.m3u8
@@ -562,6 +571,9 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 
 #EXTINF:-0 tvg-logo="https://photos.live-tv-channels.org/tv-logo/dubai-sports-tv-9019.webp" group-title="Sports",Dubai Sports
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="Sports",Sony Sports 5
+https://tvs2.aynaott.com/SonySixHD/index-1678723200-now.m3u8?hdnts=st=1678724481~exp=1678754481~acl=/SonySixHD/*~data=103.141.132.155-WEB~hmac=f7259d7c1ecfe1ee6a843858bc6feacb573cccb1d88dad6b8f645ad6b09bf88e
 
 #EXTINF:-0 tvg-logo="https://photos.live-tv-channels.org/tv-logo/dubai-sports-2-3277.webp" group-title="Sports",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
