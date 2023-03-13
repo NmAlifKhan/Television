@@ -44,6 +44,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" group-title="Entertainment (BD)",Bangla Vision
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="Entertainment (BD)",Bijoy TV
+https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/4/49/%E0%A6%86%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/640px-%E0%A6%86%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Entertainment (BD)",RTV HD
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 
@@ -68,6 +71,9 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/EUfH-zm--KHbNr1vUG6MP7QLaH1Yeutc7w-doCn7Ty1b2w0kKvaV_tkjCVIliYkpqiMAIT7EEx8=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (BD)",Nan TV
 http://iptvbd.jagobd.com:1931/live-orgin/nantv.stream/chunks.m3u8
 
+#EXTINF:-0 tvg-logo="https://lh3.googleusercontent.com/YcMozBfxKIrc0ZZx9SPYrByl6yELfhBfpPts3N1rEqIleQtKpHu3Cth7frPWywuCT2VP=w300" group-title="Entertainment (BD)",KTV Bangla
+http://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
+
 #EXTINF:-0 tvg-logo="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/51054671_290302274896000_6516245766409814016_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=A1o-f9f4MH0AX9IyzRw&_nc_ht=scontent.fdac99-1.fna&oh=00_AfDlT8w0LYaPTBzpNpPwe9tvXo4JfcEi5ViMYl0R93MHog&oe=642637CD" group-title="Entertainment (BD)",FB TV
 http://162.244.81.200:1935/live/livestream/chunklist_w1043980325.m3u8
 
@@ -86,6 +92,9 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu9oeQW3WOoWVPk-Bf5U8bAam3mc27gxn1megY62=s900-c-k-c0x00ffffff-no-rj" group-title="News",Jago News 24
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 
+#EXTINF:-0 tvg-logo="https://www.tbn24.com/public/website_logo.png" group-title="News",TBN 24
+https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
+
 #EXTINF:-0 tvg-logo="https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/277465935_372152968252157_7025722105179738348_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeH4JL8Q5HoAkhuasHpfrUozf6Fg6507km9_oWDrnTuSb0JlOANL_BHe112KZRGvgDQ-uegHlqWdDvgXpsGYDkxC&_nc_ohc=DZvrGqlYWxIAX90l-cQ&_nc_ht=scontent.fdac99-1.fna&oh=00_AfDyDv2Uc-1RKlE0va2-LCoKD4qxdzziNtpfpoo2WDrcPQ&oe=63F0DD30" group-title="News",Times 24
 http://iptvbd.jagobd.com:1931/live-orgin/times24tv.stream/chunks.m3u8
 
@@ -94,6 +103,9 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 
 #EXTINF:-0 tvg-logo="http://atnmusic.tv/images/logo.png" group-title="Music",ATN Music
 https://bd.jagobd.com:444/live-orgin/atnmusic.stream/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVd1IV-npVI1rFS03lf82kyRf-datJfKxK_tTdq=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Bangla 21 TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/cnbc-tv18.png" group-title="Entertainment (BD)",Roal TV
 http://iptvbd.jagobd.com:1931/live-orgin/royaltv.stream/chunks.m3u8
@@ -226,6 +238,9 @@ http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Entertainment (India)",Star Plus
 http://50.7.69.66/star_plus/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Sony_Wah_new.png/180px-Sony_Wah_new.png" group-title="Entertainment (India)",Sony Wah
+https://lin-gd-001-cf.slivcdn.com/out/v1/3ad8c562a750403f9357923085554110/master_3.m3u8?hdntl=exp=1678740762~acl=*~hmac=701cccb9f2d3227ebb83e4a97b7dc4465741382e39b67645ca7ca8874b8994da&originpath=/linear/hls/pb/event/gX5rCBf6Q7-D5AWY-sovzQ/stream/d0f54bdc-0544-4218-8119-cdd56710176e:SIN2/variant/93a318019605cc300d0e7e007c6cb2ea/bandwidth/1828868.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/%26TV_TV_Channsl.png" group-title="Entertainment (India)",&TV
 http://208.86.19.13:81/7033.stream/index.m3u8
@@ -409,6 +424,15 @@ http://163.47.214.155:1935/fwnews/live/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-0 tvg-logo="https://harpalgeo.tv/assets/front/images/geo_logo.png" group-title="Entertainment (Pakistan)",Haarpal Geo TV
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" group-title="Entertainment (Pakistan)",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_2.m3u8
+
+#EXTINF:-0 tvg-logo="https://www.digitaltveurope.com/files/2019/01/MBC-AL-IRAQ-Logo.jpg" group-title="Entertainment (Iraq)",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg" group-title="Entertainment (UEA)",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
 
 #EXTINF:-0 tvg-logo="https://rongeentv.com/wp-content/uploads/elementor/thumbs/RONGEENTV-phsji8uqpdkiy9qigdcpljdec2ovfua7tur47pkxpc.png" group-title="Kids",Rongeen TV
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
