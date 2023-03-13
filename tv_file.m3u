@@ -6,7 +6,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Entertainment (BD)",Channel I
-https://tvs2.aynaott.com/channeli/tracks-v1a1/index-1678716000-now.m3u8?hdnts=st=1678722045~exp=1678752045~acl=/channeli/*~data=103.141.132.155-WEB~hmac=6df123483928e336a9f42a18007881f846ee37b018b1c343df16808b47765b13
+https://tvs2.aynaott.com/channeli/tracks-v1a1/index-1678716000-now.m3u8?hdnts=st%3D1678723641%7Eexp%3D1678753641%7Eacl%3D%2Fchanneli%2F%2A%7Edata%3D103.141.132.155-WEB%7Ehmac%3Da60122ea4e58398a3e50cc16c15fe4ee81a024cab6ed4e9a6603e8013e6d2b9b
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Entertainment (BD)",GTV
 http://103.109.56.116/live/skyfeed1015/index.m3u8
