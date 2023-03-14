@@ -101,6 +101,12 @@ http://iptvbd.jagobd.com:1931/live-orgin/varendratv.stream/chunks.m3u8
 #EXTINF:-0 tvg-logo="https://www.canbangla.tv/public/CanBanglaLogo.jpg" group-title="Entertainment (BD)",Can Bangla TV
 http://iptvbd.jagobd.com:1931/live-orgin/canbanglatv.stream/chunks.m3u8
 
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Entertainment (BD)",Nexus TV
+https://tvs1.aynaott.com/nexustv/tracks-v1a1/mono.m3u8?hdnts=st=1678809693~exp=1678839693~acl=/nexustv/*~data=103.141.132.154-WEB~hmac=9d9ce024a775b058d0a99d9010150dfe756c1732fe81887731da2378da1213c9
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Global_Television_Bangladesh_Logo_2.png" group-title="Entertainment (BD)",Global Television
+https://tvs1.aynaott.com/globaltvhd/tracks-v1a1/mono.m3u8?hdnts=st=1678809907~exp=1678839907~acl=/globaltvhd/*~data=103.141.132.154-WEB~hmac=2cc25e6e3d3072d3e6200ce5e702badd9d7558704fa411ecfe6bfed7b9dd3e69
+
 #EXTINF:-0 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="Entertainment (BD)",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
