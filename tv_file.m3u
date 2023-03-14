@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUDUf70yGuB5IxUq6NICMuFWDMAyZK4uHDiqAz-=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (BD)",BTV
+https://tvs1.aynaott.com/btvhd/tracks-v1a1/mono.m3u8?hdnts=st=1678796749~exp=1678826749~acl=/btvhd/*~data=103.203.93.228-WEB~hmac=813668d125993b93811ed8af1d3117edb05fb79ad086bb4a89bac5b5d7a9bff6
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="Entertainment (BD)",BTV World
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 
@@ -6,10 +9,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB4zRBPd3wB-gLQXrXB-VU6zuQHqtdAUXGF2WtWg0DOvUrWoqvc4wZOqXV6rGmFgsZ62o&usqp=CAU" group-title="News",Ekattor TV
-https://tvs1.aynaott.com/ekattortv/index.m3u8?hdnts=st=1678724862~exp=1678754862~acl=/ekattortv/*~data=103.141.132.155-WEB~hmac=2bdfba715cd9e427c285a2905c3e62d63bd5699af161edb93966212819d8b4dc
+https://tvs1.aynaott.com/ekattortv/tracks-v1a1/mono.m3u8?hdnts=st=1678796889~exp=1678826889~acl=/ekattortv/*~data=103.203.93.228-WEB~hmac=845de1829d7a80e2d9c2f7970aca4c0c0b32dff5e950e213e255b789584a37d1
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Entertainment (BD)",Channel I
-https://tvs2.aynaott.com/channeli/tracks-v1a1/index-1678716000-now.m3u8?hdnts=st%3D1678723641%7Eexp%3D1678753641%7Eacl%3D%2Fchanneli%2F%2A%7Edata%3D103.141.132.155-WEB%7Ehmac%3Da60122ea4e58398a3e50cc16c15fe4ee81a024cab6ed4e9a6603e8013e6d2b9b
+https://tvs2.aynaott.com/channeli/tracks-v1a1/index-1678788000-now.m3u8?hdnts=st=1678796939~exp=1678826939~acl=/channeli/*~data=103.203.93.228-WEB~hmac=39999fd52743b24fe8f085a331170652193b4355a6a739465917fe2b52fa17dd
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Entertainment (BD)",GTV
 http://103.109.56.116/live/skyfeed1015/index.m3u8
@@ -28,6 +31,9 @@ https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-0 tvg-logo="https://www.somoynews.tv/icon.png" group-title="News",Somoy TV
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="News",Channel 9
+https://tvs1.aynaott.com/channel9/tracks-v1a1/mono.m3u8?hdnts=st=1678796828~exp=1678826828~acl=/channel9/*~data=103.203.93.228-WEB~hmac=cf8d2f02e5303ef7fe48b6684f55715548c91f8747d2beeb31fd886f067c635d
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Entertainment (BD)",Maasranga TV
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
@@ -84,7 +90,7 @@ http://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 http://162.244.81.200:1935/live/livestream/chunklist_w1043980325.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg", group-title="Entertainment (India)",Zee Bangla
-https://tvs1.aynaott.com/ZeeBangla/index.m3u8?hdnts=st=1678724607~exp=1678754607~acl=/ZeeBangla/*~data=103.141.132.155-WEB~hmac=a9bcf0923366840caf9fec59b89b04de3cfb131d263e012e817871555c21cacc
+https://tvs1.aynaott.com/ZeeBangla/tracks-v1a1/mono.m3u8?hdnts=st=1678797040~exp=1678827040~acl=/ZeeBangla/*~data=103.203.93.228-WEB~hmac=dadae38e929bc37718c3c5fa5cf80bea008f1e4534ff374cb762ae9f2777b8b3
 
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest?cb=20210520142429", group-title="Entertainment (India)",Star Jalsha
 http://50.7.69.66/starjalsha/index.m3u8
@@ -117,7 +123,7 @@ https://bd.jagobd.com:444/live-orgin/atnmusic.stream/chunks.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUtHjInbKAqD2jAN-2Px9HZFyj-xzLXBOn56zWajw=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Gaan Bangla
-https://tvs1.aynaott.com/gaanbangla/tracks-v1a1/mono.m3u8?hdnts=st=1678724214~exp=1678754214~acl=/gaanbangla/*~data=103.141.132.155-WEB~hmac=c1e0b842e4a83edf170d8b1bc1e8651e7252c576edaa43ac2cb56ccd2610e4b2
+https://tvs1.aynaott.com/gaanbangla/tracks-v1a1/mono.m3u8?hdnts=st=1678796696~exp=1678826696~acl=/gaanbangla/*~data=103.203.93.228-WEB~hmac=6d13993bf4f4466cd73ac323a0dd46325e9ffdc9a5beabd2a271e46199051581
 
 #EXTINF:-0 tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/cnbc-tv18.png" group-title="Entertainment (BD)",Roal TV
 http://iptvbd.jagobd.com:1931/live-orgin/royaltv.stream/chunks.m3u8
