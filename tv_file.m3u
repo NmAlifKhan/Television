@@ -9,7 +9,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB4zRBPd3wB-gLQXrXB-VU6zuQHqtdAUXGF2WtWg0DOvUrWoqvc4wZOqXV6rGmFgsZ62o&usqp=CAU" group-title="News",Ekattor TV
-https://tvs1.aynaott.com/ekattortv/tracks-v1a1/mono.m3u8?hdnts=st=1678796889~exp=1678826889~acl=/ekattortv/*~data=103.203.93.228-WEB~hmac=845de1829d7a80e2d9c2f7970aca4c0c0b32dff5e950e213e255b789584a37d1
+https://tvs1.aynaott.com/ekattortv/tracks-v1a1/mono.m3u8?hdnts=st=1678809517~exp=1678839517~acl=/ekattortv/*~data=103.141.132.154-WEB~hmac=941fcd5351e133192d8162da46108ebee519ce84d443bfde73968dbb5fce7e77
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Entertainment (BD)",Channel I
 https://tvs2.aynaott.com/channeli/tracks-v1a1/index-1678802400-now.m3u8?hdnts=st=1678809278~exp=1678839278~acl=/channeli/*~data=103.141.132.154-WEB~hmac=cb0ed28d37cc844c5bf625d274a1ce8e8e1146e90327348a5e83d0ee8d4a13c3
@@ -33,7 +33,7 @@ https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="News",Channel 9
-https://tvs1.aynaott.com/channel9/tracks-v1a1/mono.m3u8?hdnts=st=1678796828~exp=1678826828~acl=/channel9/*~data=103.203.93.228-WEB~hmac=cf8d2f02e5303ef7fe48b6684f55715548c91f8747d2beeb31fd886f067c635d
+https://tvs1.aynaott.com/channel9/tracks-v1a1/mono.m3u8?hdnts=st=1678809412~exp=1678839412~acl=/channel9/*~data=103.141.132.154-WEB~hmac=7a69a6bd78551024cec3134d217ebcfbdb618417c7c260d4191a3f13a72ed83e
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Entertainment (BD)",Maasranga TV
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
