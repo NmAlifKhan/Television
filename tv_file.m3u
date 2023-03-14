@@ -12,7 +12,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 https://tvs1.aynaott.com/ekattortv/tracks-v1a1/mono.m3u8?hdnts=st=1678796889~exp=1678826889~acl=/ekattortv/*~data=103.203.93.228-WEB~hmac=845de1829d7a80e2d9c2f7970aca4c0c0b32dff5e950e213e255b789584a37d1
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Entertainment (BD)",Channel I
-https://tvs2.aynaott.com/channeli/tracks-v1a1/index-1678788000-now.m3u8?hdnts=st=1678796939~exp=1678826939~acl=/channeli/*~data=103.203.93.228-WEB~hmac=39999fd52743b24fe8f085a331170652193b4355a6a739465917fe2b52fa17dd
+https://tvs2.aynaott.com/channeli/tracks-v1a1/index-1678802400-now.m3u8?hdnts=st=1678809278~exp=1678839278~acl=/channeli/*~data=103.141.132.154-WEB~hmac=cb0ed28d37cc844c5bf625d274a1ce8e8e1146e90327348a5e83d0ee8d4a13c3
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Entertainment (BD)",GTV
 http://103.109.56.116/live/skyfeed1015/index.m3u8
