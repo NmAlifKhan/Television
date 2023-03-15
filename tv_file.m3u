@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUDUf70yGuB5IxUq6NICMuFWDMAyZK4uHDiqAz-=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (BD)",BTV
-https://tvs1.aynaott.com/btvhd/tracks-v1a1/mono.m3u8?hdnts=st=1678796749~exp=1678826749~acl=/btvhd/*~data=103.203.93.228-WEB~hmac=813668d125993b93811ed8af1d3117edb05fb79ad086bb4a89bac5b5d7a9bff6
-
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="Entertainment (BD)",BTV World
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 
@@ -9,10 +6,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB4zRBPd3wB-gLQXrXB-VU6zuQHqtdAUXGF2WtWg0DOvUrWoqvc4wZOqXV6rGmFgsZ62o&usqp=CAU" group-title="News",Ekattor TV
-https://tvs1.aynaott.com/ekattortv/tracks-v1a1/mono.m3u8?hdnts=st=1678809517~exp=1678839517~acl=/ekattortv/*~data=103.141.132.154-WEB~hmac=941fcd5351e133192d8162da46108ebee519ce84d443bfde73968dbb5fce7e77
+https://tvs1.aynaott.com/ekattortv/tracks-v1a1/mono.m3u8?hdnts=st=1678796889~exp=1678826889~acl=/ekattortv/*~data=103.203.93.228-WEB~hmac=845de1829d7a80e2d9c2f7970aca4c0c0b32dff5e950e213e255b789584a37d1
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Entertainment (BD)",Channel I
-https://tvs2.aynaott.com/channeli/tracks-v1a1/index-1678802400-now.m3u8?hdnts=st=1678809278~exp=1678839278~acl=/channeli/*~data=103.141.132.154-WEB~hmac=cb0ed28d37cc844c5bf625d274a1ce8e8e1146e90327348a5e83d0ee8d4a13c3
+https://tvs2.aynaott.com/channeli/tracks-v1a1/index-1678788000-now.m3u8?hdnts=st=1678796939~exp=1678826939~acl=/channeli/*~data=103.203.93.228-WEB~hmac=39999fd52743b24fe8f085a331170652193b4355a6a739465917fe2b52fa17dd
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Entertainment (BD)",GTV
 http://103.109.56.116/live/skyfeed1015/index.m3u8
@@ -23,7 +20,10 @@ http://103.109.56.116/live/skyfeed1007/index.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" group-title="Entertainment (BD)",Desh TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Entertainment (BD)",Asian TV
+#EXTINF:-0 tvg-logo="https://panel.greenbd.tv/uploads/Green_TV_0d4afeaf08.png?format=webp" group-title="Entertainment (BD)",Green TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/greentv.stream/chunks.m3u8
+
+tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Entertainment (BD)",Asian TV
 http://bd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.satv.tv/wp-content/uploads/2022/01/cropped-icon-logo-2.png" group-title="Entertainment (BD)",SA TV
@@ -33,7 +33,7 @@ https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="News",Channel 9
-https://tvs1.aynaott.com/channel9/tracks-v1a1/mono.m3u8?hdnts=st=1678809412~exp=1678839412~acl=/channel9/*~data=103.141.132.154-WEB~hmac=7a69a6bd78551024cec3134d217ebcfbdb618417c7c260d4191a3f13a72ed83e
+https://tvs1.aynaott.com/channel9/tracks-v1a1/mono.m3u8?hdnts=st=1678796828~exp=1678826828~acl=/channel9/*~data=103.203.93.228-WEB~hmac=cf8d2f02e5303ef7fe48b6684f55715548c91f8747d2beeb31fd886f067c635d
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Entertainment (BD)",Maasranga TV
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
@@ -59,13 +59,19 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="Entertainment (BD)",Bijoy TV
 https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 
+#EXTINF:-0 tvg-logo="https://www.azan.tv/assets/importent_images/logo.png" group-title="Islamic",Azan TV
+https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://pcdn1.jagobd.com/images/s-7yiyj1607869140946.jpg" group-title="Entertainment (BD)",B24C
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/b24c.stream/chunks.m3u8
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/4/49/%E0%A6%86%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/640px-%E0%A6%86%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Entertainment (BD)",RTV HD
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" group-title="Entertainment (BD)",Boishakhi TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 
-#EXTINF:-0 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg" group-title="Entertainment (BD)",Boishakhi TV Plus
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e5/Boishakhi_TV_plus_logo.png/revision/latest?cb=20221020103718" group-title="Entertainment (BD)",Boishakhi TV Plus
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="Entertainment (BD)",Channel 24
@@ -100,12 +106,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/varendratv.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.canbangla.tv/public/CanBanglaLogo.jpg" group-title="Entertainment (BD)",Can Bangla TV
 http://iptvbd.jagobd.com:1931/live-orgin/canbanglatv.stream/chunks.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Entertainment (BD)",Nexus TV
-https://tvs1.aynaott.com/nexustv/tracks-v1a1/mono.m3u8?hdnts=st=1678809693~exp=1678839693~acl=/nexustv/*~data=103.141.132.154-WEB~hmac=9d9ce024a775b058d0a99d9010150dfe756c1732fe81887731da2378da1213c9
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Global_Television_Bangladesh_Logo_2.png" group-title="Entertainment (BD)",Global Television
-https://tvs1.aynaott.com/globaltvhd/tracks-v1a1/mono.m3u8?hdnts=st=1678809907~exp=1678839907~acl=/globaltvhd/*~data=103.141.132.154-WEB~hmac=2cc25e6e3d3072d3e6200ce5e702badd9d7558704fa411ecfe6bfed7b9dd3e69
 
 #EXTINF:-0 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="Entertainment (BD)",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
@@ -595,3 +595,6 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/inde
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUJdJadILIoBfzjOQg0Rq0-Fpp7z0LPfb1aldzl=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUJdJadILIoBfzjOQg0Rq0-Fpp7z0LPfb1aldzl=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Spo TV Prime
+https://cdn-us-154.cloudrsst.com/live/spotv_prime_540/playlist.m3u8
