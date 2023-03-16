@@ -584,8 +584,20 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-0 tvg-logo="https://photos.live-tv-channels.org/tv-logo/dubai-sports-tv-9019.webp" group-title="Sports",Dubai Sports
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="Sports",Sony Sports 5
-https://tvs2.aynaott.com/SonySixHD/index-1678723200-now.m3u8?hdnts=st=1678724481~exp=1678754481~acl=/SonySixHD/*~data=103.141.132.155-WEB~hmac=f7259d7c1ecfe1ee6a843858bc6feacb573cccb1d88dad6b8f645ad6b09bf88e
+#EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="Sports",Sony Sports Ten 1
+https://lin-gd-001-cf.slivcdn.com/out/v1/7394bf66d54d42f09b7cc0ed4bb7e9e9/master_8.m3u8?hdntl=exp=1678992705~acl=*~hmac=19a0cbc23ce923997be589d5c240b7fabf0e4750e04d2c0dfc08f102d98ba05b&originpath=/linear/hls/pb/event/wG75n5U8RrOKiFzaWObXbA/stream/7d6a2a86-7b5d-45df-bf38-33f61ee6ee14:SIN/variant/5ff07f2034c3769e9255dad42625804e/bandwidth/2752732.m3u8
+
+#EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Sports",Sony Sports Ten 2
+https://lin-gd-001-cf.slivcdn.com/out/v1/a2fb6f8486d9435bb34ee74a6e076b09/master_1.m3u8?hdntl=exp=1678992817~acl=*~hmac=0b963a83339e333d4abf94fad90895bb289e98bd3a29f2cce15fb3e384bac85d&originpath=/linear/hls/pb/event/V9h-iyOxRiGp41ppQScDSQ/stream/c06f42fb-029c-4f10-b91b-4823a6f73856:SIN/variant/282461b345f822b32de896910f770920/bandwidth/4704977.m3u8
+
+#EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Sports",Sony Sports Ten 3
+https://lin-gd-001-cf.slivcdn.com/out/v1/0ee967e6ce5c4d10a3cf86078e91a674/master_2.m3u8?hdntl=exp=1678992883~acl=*~hmac=e97a8839e590777b5e6a5399d785411ad4ab182b4bfeb0dc9262abbcb30da66d&originpath=/linear/hls/pb/event/ltsCG7TBSCSDmyq0rQtvSA/stream/ee2ca22e-ceb7-49b4-9155-ec20fa53729c:SIN2/variant/672720a940e7d1943cf17667e38a9a91/bandwidth/4704911.m3u8
+
+#EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="Sports",Sony Sports Ten 4
+https://lin-gd-001-cf.slivcdn.com/out/v1/ce8b4bf8d5c5487599012e02f2fac049/master_3.m3u8?hdntl=exp=1678992904~acl=*~hmac=9b09a55c0f54c291809b08ec1056e1a52e7f6f89f42b6b6b6a600a5150d67c0e&originpath=/linear/hls/pb/event/smYybI_JToWaHzwoxSE9qA/stream/88b4ca2e-b5d6-44ea-ae9c-327b7c0b8fe8:SIN2/variant/e8a1c585479787b9de070decd49eba91/bandwidth/4957889.m3u8
+
+#EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="Sports",Sony Sports Ten 5
+https://lin-gd-001-cf.slivcdn.com/out/v1/79396cc3e885493e950b24dcddceaeda/master_7.m3u8?hdntl=exp=1678992942~acl=*~hmac=9b9c21f61adeec24170c16c602dedfda4a62ced539fa6cf8e425b6c7dbbb073d&originpath=/linear/hls/pb/event/Sle_TR8rQIuZHWzshEXYjQ/stream/f922577a-a602-4710-ab87-214460be5fa7:TPE2/variant/d36bf8f514f89a676ea85aee2e2f11aa/bandwidth/4704510.m3u8
 
 #EXTINF:-0 tvg-logo="https://photos.live-tv-channels.org/tv-logo/dubai-sports-2-3277.webp" group-title="Sports",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
