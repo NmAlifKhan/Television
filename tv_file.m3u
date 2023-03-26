@@ -9,7 +9,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 http://starshare.live:8080/live/Ridwanul7/6699447733/428.ts
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Entertainment (BD)",Channel I
-https://tvs2.aynaott.com/channeli/tracks-v1a1/index-1679821200-now.m3u8?hdnts=st=1679832134~exp=1679862134~acl=/channeli/*~data=103.141.132.153-WEB~hmac=ae8b54a08a03a68f03e52867f420911f743c662c8a54ad1a0162aea87c7bfbe3
+https://tvs2.aynaott.com/channeli/tracks-v1a1/index-1679821200-now.m3u8?hdnts=st=1679832673~exp=1679862673~acl=/channeli/*~data=103.141.132.158-WEB~hmac=4d9da168cf8d3d9eaa48fbe00557ef55704c7a138e98059a1b26c1df4fa58957
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Entertainment (BD)",GTV
 http://103.109.56.116/live/skyfeed1015/index.m3u8
