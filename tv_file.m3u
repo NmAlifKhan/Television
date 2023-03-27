@@ -6,10 +6,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB4zRBPd3wB-gLQXrXB-VU6zuQHqtdAUXGF2WtWg0DOvUrWoqvc4wZOqXV6rGmFgsZ62o&usqp=CAU" group-title="News",Ekattor TV
-http://starshare.live:8080/live/Ridwanul7/6699447733/428.ts
+https://tvs1.aynaott.com/ekattortv/tracks-v1a1/mono.m3u8?hdnts=st=1678796889~exp=1678826889~acl=/ekattortv/*~data=103.203.93.228-WEB~hmac=845de1829d7a80e2d9c2f7970aca4c0c0b32dff5e950e213e255b789584a37d1
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Entertainment (BD)",Channel I
-https://tvs2.aynaott.com/channeli/tracks-v1a1/index-1679821200-now.m3u8?hdnts=st=1679832673~exp=1679862673~acl=/channeli/*~data=103.141.132.158-WEB~hmac=4d9da168cf8d3d9eaa48fbe00557ef55704c7a138e98059a1b26c1df4fa58957
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Entertainment (BD)",GTV
 http://103.109.56.116/live/skyfeed1015/index.m3u8
@@ -101,11 +101,8 @@ http://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/51054671_290302274896000_6516245766409814016_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=A1o-f9f4MH0AX9IyzRw&_nc_ht=scontent.fdac99-1.fna&oh=00_AfDlT8w0LYaPTBzpNpPwe9tvXo4JfcEi5ViMYl0R93MHog&oe=642637CD" group-title="Entertainment (BD)",FB TV
 http://162.244.81.200:1935/live/livestream/chunklist_w1043980325.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg", group-title="Entertainment (India)",Zee Bangla
-https://tvs1.aynaott.com/ZeeBangla/tracks-v1a1/mono.m3u8?hdnts=st=1678797040~exp=1678827040~acl=/ZeeBangla/*~data=103.203.93.228-WEB~hmac=dadae38e929bc37718c3c5fa5cf80bea008f1e4534ff374cb762ae9f2777b8b3
-
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest?cb=20210520142429", group-title="Entertainment (India)",Star Jalsha
-http://50.7.69.66/starjalsha/index.m3u8
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=225777&extension=ts&play_token=UKg7PHsC06
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJV-ZtvJHVV9NXj-TBAx2OjaspXv2tP2P0kUBwGW=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (BD)",Varendra TV
 http://iptvbd.jagobd.com:1931/live-orgin/varendratv.stream/chunks.m3u8
@@ -219,7 +216,7 @@ https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madina.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.deshebideshe.tv/assets/importent_images/logo.jpg" group-title="Entertainment (BD)",Deshe Bideshe TV
-https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="http://atnbanglauk.tv/wp-content/uploads/2015/04/sized1.png" group-title="Entertainment (BD)",ATN Bangla UK
 https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/chunks.m3u8
