@@ -614,6 +614,12 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-0 tvg-logo="https://photos.live-tv-channels.org/tv-logo/dubai-sports-tv-9019.webp" group-title="Sports",Dubai Sports
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 
+#EXTINF:-0 tvg-logo="https://photos.live-tv-channels.org/tv-logo/dubai-sports-2-3277.webp" group-title="Sports",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://korafoot.com/wp-content/uploads/2023/02/dubai-sport-3.png" group-title="Sports",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
 #EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="Sports",Sony Sports Ten 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 
@@ -640,3 +646,27 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUJdJadILIoBfzjOQg0Rq0-Fpp7z0LPfb1aldzl=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Spo TV Prime
 https://cdn-us-154.cloudrsst.com/live/spotv_prime_540/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6a88b.png" group-title="Sports",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6b210.png" group-title="Sports",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="https://apkloo.com/wp-content/uploads/2022/10/All-Sports-TV-APK.png" group-title="Sports",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUeHwNuB7OuyFBwRXZ-XianmfJOs3EYArGN6wfg=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Fox Sports 501
+https://eas4.gcdn.co/UKS37/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" group-title="Sports",Willow Xtra
+https://eas4.gcdn.co/UKS85/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://static.toiimg.com/thumb/msid-80981860,width-400,resizemode-4/80981860.jpg" group-title="Sports",Willow HD
+https://eas4.gcdn.co/UKS84/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/DVv-My1F3Wbpw_R6gh0HBF00Na35AfzQGzs3Wjey9-s2p740NspDESy8AtqkVIcZWe30tsZ_oQ=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Geo Super
+https://eas4.gcdn.co/UKS39/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="Sports",Ten Sports
+https://eas4.gcdn.co/UKS82/index.m3u8
