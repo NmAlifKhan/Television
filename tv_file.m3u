@@ -267,7 +267,10 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Entertainment (India)",Star Plus
-http://50.7.69.66/star_plus/index.m3u8
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test 
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/86/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1_%E0%A7%A8-%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="Entertainment (India)",Star Gold 2
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Sony_Wah_new.png/180px-Sony_Wah_new.png" group-title="Entertainment (India)",Sony Wah
 https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
@@ -276,7 +279,7 @@ https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 http://208.86.19.13:81/7033.stream/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest/scale-to-width-down/250?cb=20221023215435" group-title="Entertainment (India)",Set HD
-http://50.7.69.66/sonytv/index.m3u8
+http://144.217.70.181:9587/hin2/SONYTVHD/index.m3u8?token=test
 
 #EXTINF:-0 tvg-logo="https://images.slivcdn.com/videoasset_images/sony_sabhd_23oct_masthead_logo.png?h=184&w=184&t=c_fill&q=low&fr=webp" group-title="Entertainment (India)",Sony SAB
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
@@ -295,6 +298,9 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 #EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRmYzc5ZWEtZmE4Mi00Yzk1LTlhZTItMDkyNjRlNTRhODVlXkEyXkFqcGdeQXVyMzA2NDMzNDA@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
+
+#EXTINF:-0 tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-viasat-kino-action.png" group-title="Movies",Viasat Kino Action
+http://89.254.128.5:22280/tv1000_action/video.m3u8
 
 #EXTINF:-0 tvg-logo="https://image.roku.com/developer_channels/prod/2e25ed9d39cb1d1712f11da7415a75478b7e960598f828f4af7aa87862d955d2.png" group-title="Movies",Movies Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
@@ -370,6 +376,9 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8b4kLdNBZfNEF_5JRk_CBewzg1e6IiuqSIs93w=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Mastii
 http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQu4dadCfQejWAKs1YdXB0lQlx8pRnYqrd6423x4NcQjDNlybNVkxCVRqiSDybFjSN_SM&usqp=CAU" group-title="Kids",Cartoon Network
+http://89.254.128.5:22280/cartoon_network/video.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" group-title="Kids",Hungama
 http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
@@ -513,7 +522,7 @@ https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f8
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/09/01/Discovery_HD_pos_4c.jpg" group-title="Natural",Discovery HD
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/2.m3u8
+https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Discovery_Bangla.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Natural",Animal Planet
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
@@ -529,6 +538,12 @@ http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8?token=test
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/l7y-ctZSd2HvPMprMBT04tIEVSIHjvcydvulpKbHmGxO7-Xq2vDGaFan9C1LIkPrNkxykabT1w=s900-c-k-c0x00ffffff-no-rj" group-title="Kids",Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/disneyjuniorpedia/images/a/a8/Disney-Junior-Logo-disney-junior-27558537-2560-1920.jpg/revision/latest?cb=20160424225753" group-title="Kids",Disnep Junior
+http://111.88.4.33:5000/play/a04o/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="Kids",Disnep Channel
+http://111.88.4.33:5000/play/a04m/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUY49f1DXhfn3H2TxCy4CAdugxA68EF5xCvllG7qw=s900-c-k-c0x00ffffff-no-rj" group-title="Kids",Chu Chu TV
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/906
@@ -546,7 +561,7 @@ https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=156000&extension=ts&play_token=IP0w8TfOMj
 
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/2/21/Original_Nicktoons_logo.png/revision/latest/scale-to-width-down/250?cb=20210615183438" group-title="Kids",NickToons
-http://tvstarlife.com:25461/live/cesar/cesar123/203.m3u8
+http://89.254.128.5:22280/nicktoons/video.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWltyoUxSTyUCRaZkZ7GOqXcf8Kuq7GnrfBTTLDLEU=s900-c-k-c0x00ffffff-no-rj" group-title="Kids",Lego Channel
 https://legochannel-roku.amagi.tv/playlist.m3u8
