@@ -91,10 +91,10 @@ http://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 http://162.244.81.200:1935/live/livestream/chunklist_w1043980325.m3u8
 
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest?cb=20210520142429", group-title="Entertainment (India)",Star Jalsha
-http://freecatv-manik.xyz/Star-JalshaHD.ts
+http://50.7.237.11:8080/STARJALSHA/tracks-v1a1/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqO2ordCFfdZEfV0qKMg4bZ-58cLVCS8V9S8rDkzHw=s900-c-k-c0x00ffffff-no-rj", group-title="Entertainment (India)",Zee Bangla
-http://freecatv-manik.xyz/Zee~Bangla~HD.m3u8
+http://50.7.237.11:8080/ZEEBANGLAHD/tracks-v1a1/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png", group-title="Entertainment (India)",Sun Bangla
 http://freecatv-manik.xyz/Sun-Bangla.m3u8
