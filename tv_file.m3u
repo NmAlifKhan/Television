@@ -96,10 +96,10 @@ http://50.7.237.11:8080/STARJALSHA/tracks-v1a1/index.m3u8
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqO2ordCFfdZEfV0qKMg4bZ-58cLVCS8V9S8rDkzHw=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (India)",Zee Bangla
 http://50.7.237.11:8080/ZEEBANGLAHD/tracks-v1a1/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMgAFwCYOX0V7GEToy8keJKiMiqfAxNPm68YAfUFg=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (India)",Sun Bangla
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20210319122931" group-title="Entertainment (India)",Sun Bangla
 http://freecatv-manik.xyz/Sun-Bangla.m3u8
 
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqO2ordCFfdZEfV0qKMg4bZ-58cLVCS8V9S8rDkzHw=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (India)",Enterr10 Bangla
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMgAFwCYOX0V7GEToy8keJKiMiqfAxNPm68YAfUFg=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (India)",Enterr10 Bangla
 https://dev-freecatv.pantheonsite.io/Enter-10-Bangla.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJV-ZtvJHVV9NXj-TBAx2OjaspXv2tP2P0kUBwGW=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (BD)",Varendra TV
