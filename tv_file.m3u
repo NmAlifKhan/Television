@@ -494,3 +494,6 @@ http://iptv.prosto.tv:7000/ch110/video.m3u8
 
 #EXTINF:-0 tvg-logo="https://xsport.ua/upload/resize_cache/iblock/f31/916_537_2/f318c6ce53863f786c750501f84d3a6b.jpeg" group-title="Sports",X Sport+
 http://iptv.prosto.tv:7000/ch117/video.m3u8
+
+#EXTINF:-0 tvg-logo="https://www.fastsports.tv/img/fs_logo.png" group-title="Sports",Fast Sports
+http://str24.l9574.com/601.stream/index.m3u8
