@@ -463,7 +463,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
 #EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Sports",Sony Sports Ten 2
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+http://starshare.live:8080/live/Antonio123/Antonio123/192.m3u8
 
 #EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Sports",Sony Sports Ten 3
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
@@ -506,3 +506,6 @@ http://iptv.prosto.tv:7000/ch117/video.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.fastsports.tv/img/fs_logo.png" group-title="Sports",Fast Sports
 http://str24.l9574.com/601.stream/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://www.logotypes101.com/logos/555/01B02262E53F75309A12507E57D23F8D/TenSports.png" group-title="Sports",Ten Sports HD
+http://starshare.live:8080/live/smE4L9RuA2/8WJeImr3r0/98.m3u8http://starshare.live:8080/live/smE4L9RuA2/8WJeImr3r0/98.m3u8
