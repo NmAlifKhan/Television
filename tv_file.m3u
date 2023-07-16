@@ -87,9 +87,6 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://play-lh.googleusercontent.com/X2QTI6Bsp2pt9LlTqwgHOyCX1j11_OF9WpQriW_11qKcPaikKFHMtHwtUKMBN0ILJZw=w600-h300-pc0xffffff-pd" group-title="News",TBN 24
 https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/Times%2024.png" group-title="News",Times 24
-http://iptvbd.jagobd.com:1931/live-orgin/times24tv.stream/chunks.m3u8
-
 #EXTINF:-0 tvg-logo="http://atnmusic.tv/images/logo.png" group-title="Music",ATN Music
 https://bd.jagobd.com:444/live-orgin/atnmusic.stream/chunks.m3u8
 
@@ -258,9 +255,6 @@ http://opplex.tv:8080/live/paki/paki/150483.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp" group-title="Kids",Discovery Kids
 http://50.7.237.7:8081/DISCOVERYKIDS/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" group-title="Kids",Hungama
-http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
-
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-title="Movies",Rock Action
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 
@@ -288,17 +282,11 @@ https://5b48d7e1b4bce.streamlock.net/myapp/vtvlive/chunklist_w688955945.m3u8
 #EXTINF:-0 tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/misc/icon-512x512.png" group-title="News",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Republic_TV.svg/1200px-Republic_TV.svg.png" group-title="News",Republic TV
-https://weblive.republicworld.com/httppush/ottr_republic_english/chunklist_4.m3u8
-
 #EXTINF:-0 tvg-logo="https://northeastlive.s3.amazonaws.com/media/uploads/2021/02/ne_live_menu_logo_retina-1.png" group-title="News",Northeast TV
 https://5b48d7e1b4bce.streamlock.net/myapp/mbrstream/chunklist_w36414679.m3u8
 
 #EXTINF:-0 tvg-logo="https://images.squarespace-cdn.com/content/v1/5f6b088ecea1694e053c0a53/1602512006424-I4N31IBVGGAUN1YBKSWA/MTV.png" group-title="Music",MTV Yo
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
-
-#EXTINF:-0 tvg-logo="https://play-lh.googleusercontent.com/MCAS_74xm6-MdUfE1FBFbnfbzSrLa_7FyFKoxQtrvg52mlIL-aHp6Kp6I_6eyJPxneI" group-title="News",Sudarshan News
-https://ott.livelegitpro.in/pusa/sudarshantv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="News",GEO NEews
 https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/GEONEWS/Backup1/chunks.m3u8
@@ -320,9 +308,6 @@ http://208.86.19.13:81/720.stream/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://pbs.twimg.com/profile_images/1007883689366343680/WZb0Pm5h_400x400.jpg" group-title="Entertainment (India)",7 Star TV
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-0 tvg-logo="https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/244382421_2411751095622776_3907544931876397708_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=Nr58kEibNYQAX8kIIlR&_nc_ht=scontent.fdac99-1.fna&oh=00_AfB_FiflCq5J4XsJHY9Kb1SfPmq-mX-1fd53Ajz_onCaTw&oe=64136C7D" group-title="News",FastWay News
-http://163.47.214.155:1935/fwnews/live/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-0 tvg-logo="https://harpalgeo.tv/assets/front/images/geo_logo.png" group-title="Entertainment (Pakistan)",Haarpal Geo TV
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/chunks.m3u8
@@ -367,7 +352,7 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 
 #EXTINF:-0 tvg-logo="https://durbinlive.com/uploads/tv_image/khushboo-bangla.jpg" group-title="Kids",Khushboo Bangla
-http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+https://upload.wikimedia.org/wikipedia/bn/c/c1/%E0%A6%96%E0%A7%81%E0%A6%B6%E0%A6%AC%E0%A7%81_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png" group-title="Entertainment (India)",Colors HD
 http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
@@ -402,7 +387,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-0 tvg-logo="https://photos.live-tv-channels.org/tv-logo/dubai-sports-2-3277.webp" group-title="Sports",Dubai Sports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://korafoot.com/wp-content/uploads/2023/02/dubai-sport-3.png" group-title="Sports",Dubai Sports 3
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/dubai-sport-3.png" group-title="Sports",Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="Sports",Sony Sports Ten 1
@@ -450,7 +435,7 @@ http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:-0 tvg-logo="https://s3.vcdn.biz/static/f/2630779941/image.jpg/pt/r300x423x4" group-title="Sports",X Sport
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 
-#EXTINF:-0 tvg-logo="https://xsport.ua/upload/resize_cache/iblock/f31/916_537_2/f318c6ce53863f786c750501f84d3a6b.jpeg" group-title="Sports",X Sport+
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/x%20Sports%2B.jpg" group-title="Sports",X Sport+
 http://iptv.prosto.tv:7000/ch117/video.m3u8
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/Open%20Hybrid%201.jpg" group-title="Sports",Open Hybrid 1
