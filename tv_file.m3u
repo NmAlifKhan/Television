@@ -10,9 +10,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 http://103.141.2.37:25461/web/web/595
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Entertainment (BD)",GTV
-http://113.212.111.246:8080/hls/col2.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Entertainment (BD)",GTV
 http://103.141.2.37:25461/web/web/592
 
 #EXTINF:-0 tvg-logo="https://panel.greenbd.tv/uploads/Green_TV_0d4afeaf08.png?format=webp" group-title="Entertainment (BD)",Green TV
@@ -76,13 +73,22 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://iptvbd.jagobd.com:1931/live-orgin/nantv.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2a/Star_Jalsha.png" group-title="Entertainment (India)",Star Jalsha
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+http://103.141.2.37:25461/web/web/603
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTuMZSewKz1BucGogxxGmlGnYW75neSM-0jvdGbGg=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (India)",Zee Bangla
 http://103.141.2.37:25461/web/web/602
 
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Entertainment (India)",Star Plus HD
+http://103.141.2.37:25461/web/web/546
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Entertainment (India)",Star Movies HD
+http://103.141.2.37:25461/web/web/600
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/3e/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Movies",Zee Bangla Cinema
 http://103.141.2.37:25461/web/web/598
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Movies",Sun Bangla 
+http://103.141.2.37:25461/web/web/589
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Movies",Zee Bangla Cinema
 http://103.141.2.37:25461/web/web/599
@@ -118,7 +124,7 @@ http://208.86.19.13:81/509.stream/index.m3u8
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
-http://g4b.alwaysdata.net/tsports1080p.m3u8
+http://103.141.2.37:25461/web/web/588
 
 #EXTINF:-0 tvg-logo="https://channeltt.tv/uploads/meta_image/small-logo.png" group-title="Entertainment (BD)",Channel TT
 https://www.cdn.streamcast.xyz:19360/channeltt/channeltt.m3u8
@@ -140,6 +146,9 @@ http://103.141.2.37:25461/web/web/601
 
 #EXTINF:-0 tvg-logo="https://1.bp.blogspot.com/-E6Las0-lxRQ/X9PJNQyA2vI/AAAAAAAABGY/HdQbtL36W10wu3Ie944gEVggzRaKHnWEgCLcBGAsYHQ/w800/Channel-S-UK-LIve.png" group-title="Entertainment (BD)",Channel S
 http://iptvbd.jagobd.com:1931/live-orgin/chsukoff.stream/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/E7jVHesMJzkUDkmwqhNvQZlh68kPaT-wyYno8vyyhVKl3sgBk5dDp77tC_RM2bnplXLtkZ0sJQ=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic",Madani Channel Bangla
+http://103.141.2.37:25461/web/web/618
 
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8AMyY2eeea-1UDD4RQhFIMz2YoydpT62tYJwg5BA=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic",Iqra TV
 https://cdn5.iqsat.net/iqb/b5b9977ca31beabec903ba7b34e1c198.sdp/chunks.m3u8
@@ -187,7 +196,7 @@ http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 http://144.217.70.181:9587/hin2/SONYTVHD/index.m3u8?token=test
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="Movies",Color Cineplex
-http://208.86.19.13:81/73555.stream/index.m3u8
+http://103.141.2.37:25461/web/web/547
 
 #EXTINF:-0 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png" group-title="Music",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?checkedby:iptvcat.com
@@ -195,14 +204,26 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?checkedby:i
 #EXTINF:-0 tvg-logo="https://image.roku.com/developer_channels/prod/09d12195e0968c34e9eac0feb5d8c2fc9cd75eba32c1e5dcd3c6a98e9becabfe.png" group-title="Natural",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
+#EXTINF:-0 tvg-logo="https://images.ctfassets.net/2pwalfr1ykol/1dXOY33YNblqzpkrJuVSCt/653a149bb34ecaced9c97fe57ecc5300/national-geographic-wild-hd.jpg?h=250" group-title="Natural",Wild HD
+http://103.141.2.37:25461/web/web/576
+
 #EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRmYzc5ZWEtZmE4Mi00Yzk1LTlhZTItMDkyNjRlNTRhODVlXkEyXkFqcGdeQXVyMzA2NDMzNDA@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies",Star Movies
-http://50.7.237.7:8081/STARMOVIESHD/tracks-v1a1/index.m3u8
+http://103.141.2.37:25461/web/web/563
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="Movies",Sony PIX
+http://103.141.2.37:25461/web/web/561
 
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20190810162735" group-title="Movies",Star Movies Select HD
 http://humiptv.live:8080/live/tata1234/tata1234/98843.ts
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="Movies",Romedy Now
+http://103.141.2.37:25461/web/web/575
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="Movies",MNX HD
+http://103.141.2.37:25461/web/web/574
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Movies",HBO
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31465
@@ -215,6 +236,9 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31473
 
 #EXTINF:-0 tvg-logo="https://image.roku.com/developer_channels/prod/2e25ed9d39cb1d1712f11da7415a75478b7e960598f828f4af7aa87862d955d2.png" group-title="Movies",Movies Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+
+#EXTINF:-0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/57fb7fd565258cbf0b99ec75/1565808765827/cd4f1889181a5e541404525ea7876388.jpg" group-title="Movies",MN+ HD
+http://103.141.2.37:25461/web/web/571
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/Movie%20Sphere.jpg" group-title="Movies",Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
@@ -254,6 +278,12 @@ http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 
 #EXTINF:-0 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_819/PORTRAIT/gZMfypMa.png" group-title="Movies",Zee Action
 http://208.86.19.13:81/7288.stream/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Movies",Zee Cinema HD
+http://103.141.2.37:25461/web/web/545
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png/revision/latest?cb=20190626075812" group-title="Movies",&Pictures
+http://103.141.2.37:25461/web/web/543
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png" group-title="Movies",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
@@ -351,6 +381,15 @@ http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" group-title="Natural",National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
+#EXTINF:-0 tvg-logo="https://avpn.asia/wp-content/uploads/2016/03/National-Geographic-logo.png" group-title="Natural",National Geographic HD
+http://103.141.2.37:25461/web/web/568
+
+#EXTINF:-0 tvg-logo="https://discovery-assets-production.s3.eu-west-1.amazonaws.com/app/uploads/2019/04/19074159/Discovery-HD.png" group-title="Natural",Discovery HD 
+http://103.141.2.37:25461/web/web/567
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="Natural",Sony BBC Eaarth
+http://103.141.2.37:25461/web/web/564
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Utv_Action.png" group-title="Movies",UTV Action
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test 
 
@@ -390,6 +429,9 @@ https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/2/21/Original_Nicktoons_logo.png/revision/latest/scale-to-width-down/250?cb=20210615183438" group-title="Kids",NickToons
 http://89.254.128.5:22280/nicktoons/video.m3u8
 
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="Kids",Nick
+http://103.141.2.37:25461/web/web/615
+
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_ZiBhYXuhlX8B1Dxz6EKCPm6DmU6QW7URThEEFJQ=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 
@@ -404,6 +446,15 @@ https://cdn5.iqsat.net/iq/70cf8d50aaeb4efcd04a42de2762bf3b.sdp/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/1200px-MatchTV_Logo.svg.png" group-title="Sports",Match HD
 http://194.143.148.28/MatchHD/mono.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 
+http://103.141.2.37:25461/web/web/580
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png" group-title="Sports",Star Sports 3 
+http://103.141.2.37:25461/web/web/578
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png/revision/latest/scale-to-width-down/220?cb=20230128174313" group-title="Sports",Star Sports Select 1 HD
+http://103.141.2.37:25461/web/web/579
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="Sports",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
