@@ -45,9 +45,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://jagoron.tv/public/frontend/images/logo.png" group-title="Entertainment (BD)",Jagoron TV
 https://649204e9d6081.streamlock.net/live/remote/chunklist_w1824841685.m3u8
 
-#EXTINF:-0 tvg-logo="https://news21bangla.tv/wp-content/uploads/2023/04/logo-hd.png" group-title="Entertainment (BD)",News 21 HD
-http://alvetv.com/newsbangla/8080/index.m3u8
-
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/B24C.jpg" group-title="Entertainment (BD)",B24C
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/b24c.stream/chunks.m3u8
 
@@ -81,7 +78,7 @@ http://103.141.2.37:25461/web/web/602
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Entertainment (India)",Star Plus HD
 http://103.141.2.37:25461/web/web/546
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Entertainment (India)",Star Movies HD
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTap43-dcaqc85zWkzI5qEtEGOW2yCcl1TnxGN7lA=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (India)",Jalsha Movies HD
 http://103.141.2.37:25461/web/web/600
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/3e/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Movies",Zee Bangla Cinema
