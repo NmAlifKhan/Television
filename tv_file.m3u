@@ -36,6 +36,9 @@ http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Entertainment (BD)",Nexus TV
 https://m3u-editor.com/serve/e1b95030-3375-11ee-a06d-c5c77e50964a/896485971
 
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/Can%20Bangla%20TV.jpg" group-title="Entertainment (BD)",Can Bangla TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Entertainment (BD)",Deepto TV
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
 
@@ -209,6 +212,9 @@ http://144.217.70.181:9587/hin2/SONYTVHD/index.m3u8?token=test
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="Movies",Color Cineplex
 http://103.141.2.37:25461/web/web/547
+
+#EXTINF:-0 tvg-logo="https://static.wirtualnemedia.pl/media/top/BollywoodHD_logo2018_655.png" group-title="Movies",Bollywood HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58207
 
 #EXTINF:-0 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png" group-title="Music",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?checkedby:iptvcat.com
@@ -456,6 +462,9 @@ https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/live.m3u8
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/U8VGrKgt4JcflXpVMBiJ33nJicV9B7tuQDHC2or1MftdovVKTc1BSl9VAWsYmF_9PNoQgLIRZg=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic",Eman Channel
 https://cdn5.iqsat.net/iq/70cf8d50aaeb4efcd04a42de2762bf3b.sdp/chunks.m3u8
 
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
+http://appleiptv.com:80/luanne/luanne/31169
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/1200px-MatchTV_Logo.svg.png" group-title="Sports",Match HD
 http://194.143.148.28/MatchHD/mono.m3u8
 
@@ -489,11 +498,41 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJWxRu4zKtgP7t_LtZD6m0PE/ts
 #EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="Sports",Sony Sports Ten 5
 http://103.141.2.37:25461/web/web/577
 
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Supersport2012.jpg/250px-Supersport2012.jpg" group-title="Sports",Super Sport 
+http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/68951
+
+#EXTINF:-0 tvg-logo="https://www.nbs24.org/upload/images/pages/1679290737210869.png" group-title="Sports",Super Sport Cricket
+http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/68949
+
+#EXTINF:-0 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 2
+http://raw.bitnode.pm:81/giorgi/giorgi/20366
+
+#EXTINF:-0 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 3
+http://raw.bitnode.pm:81/giorgi/giorgi/20371
+
+#EXTINF:-0 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 4
+http://raw.bitnode.pm:81/giorgi/giorgi/20380
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png" group-title="Sports",MUTV
+http://raw.bitnode.pm:81/giorgi/giorgi/20374
+
+#EXTINF:-0 tvg-logo="https://play-lh.googleusercontent.com/YDjdaL5eUngFMun-OViUl5JMbCmQHvOW7kbzKWKfaPvqtkNpBY2-VQjoRgVaHexow4it" group-title="Sports",Viapaly Xtra
+http://raw.bitnode.pm:81/giorgi/giorgi/20377
+
+#EXTINF:-0 tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt914435f46e5f317f/60f97c0ced7a525fcd55cb19/MicrosoftTeams-image_(13).png" group-title="Sports",LFC TV
+http://raw.bitnode.pm:81/giorgi/giorgi/20383
+
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/qcDzPkEbeNQ8oII0wIc5FGUaRfUg1BSQI5MDGzT5SX2IFFwRduFL9rtWdMaejYCKtAZIA9E20w=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",RTA Sports
 http://fr.globalflix.net:80/call-me-in-bd/whatsapp-01971466614/354.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ad_sports_new_logo.jpg/1024px-Ad_sports_new_logo.jpg" group-title="Sports",AD Sports 
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="Sports",Eurtoport 1
+http://raw.bitnode.pm:81/giorgi/giorgi/20350
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="Sports",Eurtoport 2
+http://raw.bitnode.pm:81/giorgi/giorgi/20353
 
 #EXTINF:-0 tvg-logo="https://photos.live-tv-channels.org/tv-logo/dubai-sports-2-3277.webp" group-title="Sports",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
