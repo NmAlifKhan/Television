@@ -43,7 +43,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Entertainment (BD)",NTV
-https://m3u-editor.com/serve/e1b95030-3375-11ee-a06d-c5c77e50964a/896485973
+https://iptv.caperhd.live//caperhd/m3u8?shuvro=ntv_b
+
+#EXTINF:-0 tvg-logo="https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png" group-title="Entertainment (BD)",Desh TV
+https://iptv.caperhd.live//caperhd/m3u8?shuvro=desh_tv
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="Entertainment (BD)",ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
@@ -95,6 +98,9 @@ http://103.141.2.37:25461/web/web/602
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Entertainment (India)",Star Plus HD
 http://103.141.2.37:25461/web/web/546
+
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTX8zVYEAExj454j2Ur4XMft7X5PBTyAmcnuxxXJA=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (India)",Zee TV
+http://103.141.2.37:25461/web/web/553
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTap43-dcaqc85zWkzI5qEtEGOW2yCcl1TnxGN7lA=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (India)",Jalsha Movies HD
 http://103.141.2.37:25461/web/web/600
@@ -230,6 +236,9 @@ http://iptv.prosto.tv:7000/ch50/video.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies",Star Movies
 http://103.141.2.37:25461/web/web/563
+
+#EXTINF:-0 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="Movies",Star Channel
+http://acsb.sh:80/bF3y9W/68GSme/71936.ts
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="Movies",Sony PIX
 http://103.141.2.37:25461/web/web/561
