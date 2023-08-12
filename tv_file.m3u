@@ -660,10 +660,10 @@ http://xtv.ooo:8080/335846/335846/167568
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/DD%20Sports.jpg" group-title="Sports",DD Sports
 http://xtv.ooo:8080/335846/335846/167588
 
-#EXTINF:-0 tvg-logo="https://pbs.twimg.com/profile_images/1633191289356431361/OdKOXawp_400x400.jpg group-title="Sports",Fox Cricket
+#EXTINF:-0 tvg-logo="https://pbs.twimg.com/profile_images/1633191289356431361/OdKOXawp_400x400.jpg" group-title="Sports",Fox Cricket
 http://xtv.ooo:8080/335846/335846/167593
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="Sports",Fox Sports 2
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="Sports",Fox Sports
 http://sysadminhost.net:8080/stadnik/6a627b52a9/157488
 
 #EXTINF:-0 tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_1.jpg" group-title="Sports",Eleven Sports 1
