@@ -102,6 +102,9 @@ http://103.141.2.37:25461/web/web/602
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Entertainment (India)",Star Plus HD
 http://103.141.2.37:25461/web/web/546
 
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="Entertainment (India)",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTX8zVYEAExj454j2Ur4XMft7X5PBTyAmcnuxxXJA=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (India)",Zee TV
 http://103.141.2.37:25461/web/web/553
 
@@ -112,13 +115,13 @@ http://103.141.2.37:25461/web/web/600
 http://103.141.2.37:25461/web/web/598
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Movies",Sun Bangla 
-http://103.141.2.37:25461/web/web/589
+http://103.141.2.37:25461/web/web/606
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Movies",Zee Bangla Cinema
 http://103.141.2.37:25461/web/web/599
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMgAFwCYOX0V7GEToy8keJKiMiqfAxNPm68YAfUFg=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (India)",Enterr10 Bangla
-https://dev-freecatv.pantheonsite.io/Enter-10-Bangla.m3u8
+http://manik-freecatv.serveftp.com:25461/live/web/web/606.m3u8
 
 #EXTINF:-0 tvg-logo="https://play-lh.googleusercontent.com/VQ9iDskpoYK_G3Kx8gQCGexkCT0IYhXYwhl4eO3b9rweHNXSSAQI-yLlM73zCXqgFw" group-title="Entertainment (BD)",The Channel TV
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/playlist.m3u8
@@ -495,6 +498,9 @@ http://xtv.ooo:8080/335846/335846/167569
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/1200px-MatchTV_Logo.svg.png" group-title="Sports",Match HD
 http://194.143.148.28/MatchHD/mono.m3u8
 
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png" group-title="Sports",Sport 18
+http://live.himel-himu.tk/Sports-18-HD/hls/Himel-Op.m3u8
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 
 http://103.141.2.37:25461/web/web/580
 
@@ -572,6 +578,18 @@ http://raw.bitnode.pm:81/giorgi/giorgi/20350
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="Sports",Eurtoport 2
 http://raw.bitnode.pm:81/giorgi/giorgi/20353
+
+#EXTINF:-0 tvg-logo="https://s6.vcdn.biz/static/f/850677081/image.jpg" group-title="Sports",Sport 1
+http://ott.watch/stream/DESTFGKKP4/391.m3u8
+
+#EXTINF:-0 tvg-logo="https://s1.vcdn.biz/static/f/850678561/image.jpg/pt/r300x423x4" group-title="Sports",Sport 2
+http://ott.watch/stream/DESTFGKKP4/392.m3u8
+
+#EXTINF:-0 tvg-logo="https://s1.vcdn.biz/static/f/5575200841/image.jpg/pt/r300x423x4" group-title="Sports",Sport 3
+http://ott.watch/stream/DESTFGKKP4/393.m3u8
+
+#EXTINF:-0 tvg-logo="https://s2.vcdn.biz/static/f/5574923921/image.jpg/pt/r300x423x4" group-title="Sports",Sport 4
+http://ott.watch/stream/DESTFGKKP4/394.m3u8
 
 #EXTINF:-0 tvg-logo="https://photos.live-tv-channels.org/tv-logo/dubai-sports-2-3277.webp" group-title="Sports",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
@@ -665,3 +683,39 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.fastsports.tv/img/fs_logo.png" group-title="Sports",Fast Sports
 http://xtv.ooo:8080/335846/335846/308225
+
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTGg-yleVdOIgKNtma0tv0GrJQZ4CkY_C_K0MlL=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Dynamo TV
+http://ott.watch/stream/DESTFGKKP4/396.m3u8
+
+#EXTINF:-0 tvg-logo="https://ntvplus.tv/files/image/35/35/11/dlv.png" group-title="Sports",KHL
+http://ott.watch/stream/DESTFGKKP4/166.m3u8
+
+#EXTINF:-0 tvg-logo="https://ntvplus.tv/files/image/35/35/12/wk3.png" group-title="Sports",KHL Prime
+http://ott.watch/stream/DESTFGKKP4/178.m3u8
+
+#EXTINF:-0 tvg-logo="https://ntvplus.tv/files/image/79/84/48/ycp.png" group-title="Sports",Viju+ Sport
+http://ott.watch/stream/DESTFGKKP4/333.m3u8
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/fa/%D0%91%D0%BE%D0%BA%D1%81_%D0%A2%D0%92_2.png/revision/latest?cb=20161006151707&path-prefix=ru" group-title="Sports",Бокс ТВ
+http://ott.watch/stream/DESTFGKKP4/154.m3u8
+
+#EXTINF:-0 tvg-logo="https://cdn.qazaqstan.tv/qazsport.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=" group-title="Sports", QAZ Sport
+https://vsd180.mycdn.me/hls/5246880778892.m3u8/sig/1kt5Gievn1Y/expires/1691865941848/srcIp/157.49.134.52/urls/185.226.52.68/clientType/36/srcAg/CHROME_ANDROID/mid/6369185580940/5246880778892_high/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://mw.motv.mn/assets/channels/2023/02/14/46/channels-63eaf61908918.png" group-title="Sports",Premier Sports 1
+https://cdn3.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
+
+#EXTINF:-0 tvg-logo="https://mw.motv.mn/assets/channels/2023/02/14/31/channels-63eaf6ab259a2.png" group-title="Sports",Premier Sports 2
+https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
+
+#EXTINF:-0 tvg-logo="https://mw.motv.mn/assets/channels/2023/02/14/22/channels-63eaf66faf3e8.png" group-title="Sports",Premier Sports 3
+https://cdn3.skygo.mn/live/disk1/SPSWORLD/HLS-FTA/SPSWORLD.m3u8
+
+#EXTINF:-0 tvg-logo="https://mw.motv.mn/assets/channels/2023/02/14/34/channels-63eaf69169832.png" group-title="Sports",Premier Sports 4
+https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
+
+#EXTINF:-0 tvg-logo="https://mw.motv.mn/assets/channels/2023/02/14/21/channels-63eaf5e7660e3.png" group-title="Sports",Premier Sports 5
+https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
+
+#EXTINF:-0 tvg-logo="https://mw.motv.mn/assets/channels/2023/02/14/21/channels-63eaf5e7660e3.png" group-title="Sports",SBC TV
+https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6.sdp/playlist.m3u8
