@@ -157,7 +157,7 @@ http://208.86.19.13:81/509.stream/index.m3u8
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
-http://103.141.2.37:25461/web/web/588
+http://103.102.27.173/live/tvfeed1001/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://channeltt.tv/uploads/meta_image/small-logo.png" group-title="Entertainment (BD)",Channel TT
 https://www.cdn.streamcast.xyz:19360/channeltt/channeltt.m3u8
