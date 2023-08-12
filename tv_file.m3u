@@ -573,6 +573,9 @@ http://fr.globalflix.net:80/call-me-in-bd/whatsapp-01971466614/354.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ad_sports_new_logo.jpg/1024px-Ad_sports_new_logo.jpg" group-title="Sports",AD Sports 
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
+#EXTINF:-0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F2%2F16%2Fad-sports-premium-1.png" group-title="Sports",AD Sports Premium
+http://iptvworld.nl:2095/live/gT0PeBdt/pj8wFFhH/94451.m3u8
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="Sports",Eurtoport 1
 http://raw.bitnode.pm:81/giorgi/giorgi/20350
 
@@ -648,8 +651,8 @@ http://xtv.ooo:8080/335846/335846/284066
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/Sky%20Sports%20Racing.png" group-title="Sports",Sky Sports Racing
 http://sysadminhost.net:8080/stadnik/6a627b52a9/163132
 
-#EXTINF:-0 tvg-logo="https://beinsports.com/_next/static/media/bein_logo.af017869.webp?w=3840&q=75" group-title="Sports",Bein Sports
-http://sysadminhost.net:8080/stadnik/6a627b52a9/157561
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports",Bein Sports 1
+http://iptvworld.nl:2095/live/gT0PeBdt/pj8wFFhH/94451.m3u8
 
 #EXTINF:-0 tvg-logo="https://gdplayer.tv/assets/img/logo/astro-cricket.png" group-title="Sports",Astro Cricket
 http://xtv.ooo:8080/335846/335846/167581
