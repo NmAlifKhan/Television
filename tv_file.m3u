@@ -25,7 +25,7 @@ http://bd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Entertainment (BD)",NTV
-http://10.90.90.114:8081/thunderbd/54/chunks.m3u8?nimblesessionid=6562077&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6NDQ6MDYgQU0maGFzaF92YWx1ZT1LMTBBVmlpTEg5ZFBiQnRKRlc3U3lRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://10.90.90.114:8081/thunderbd/54/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDU6MjA6MjUgUE0maGFzaF92YWx1ZT1tSkh6dlJYYU9VQklCdW9qbzVyVGp3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="News",Independent TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
@@ -61,7 +61,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/playlist.m3u8
 https://649204e9d6081.streamlock.net/live/remote/chunklist_w1824841685.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/1200px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Entertainment (BD)",Nagorik TV
-http://12.1.1.1:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=ac2c3fa3c4a1c162968e42e66b0812aa67845322-8b1d3c0fe7e43e2a6333c0a2ba83af34-1691929441-1691918641
+http://12.1.1.1:8082/Nagorik-TV/index.m3u8?token=512037ecc243196e05a86bdba2bbe7195ec422b4-b7f18d96bdb679d908b0f9e303366fcf-1691957371-1691946571
 
 #EXTINF:-0 tvg-logo="https://jagoron.tv/public/frontend/images/logo.png" group-title="Entertainment (BD)",Channel Europe
 http://iptvbd.jagobd.com:1931/live-orgin/channeleurope.stream/chunks.m3u8
