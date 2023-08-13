@@ -10,7 +10,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 http://103.141.2.37:25461/web/web/595
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="News",71 TV
-http://10.90.90.114:8081/thunderbd/11/chunks.m3u8?nimblesessionid=6561811&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6Mzg6NDggQU0maGFzaF92YWx1ZT1WWnlTRG9BcEZjQjRYbmluUHVrNTl3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://10.90.90.114:8081/thunderbd/11/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDQ6Mzk6NDkgUE0maGFzaF92YWx1ZT1qQldHOFFrYmR1SmZrNmJ5Y0dlN0t3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Entertainment (BD)",GTV
 http://103.141.2.37:25461/web/web/592
@@ -43,7 +43,7 @@ https://m3u-editor.com/serve/e1b95030-3375-11ee-a06d-c5c77e50964a/896485971
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png" group-title="Entertainment (BD)",Desh TV
-http://10.90.90.114:8081/thunderbd/9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6MzY6MTcgQU0maGFzaF92YWx1ZT0remV0d3FDT3JJeTlwVDQxdDNDSEFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://10.90.90.114:8081/thunderbd/9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDQ6NDM6MzYgUE0maGFzaF92YWx1ZT1vRVJ4MmJvRWNEbTdZenR1Si9XMENRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="Entertainment (BD)",ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
