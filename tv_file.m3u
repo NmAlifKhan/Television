@@ -6,16 +6,13 @@ http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/1200px-DBC_News_Logo.svg.png" group-title="News",DBC News
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="News",Channel I
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Entertainment (BD)",Channel I
 http://103.141.2.37:25461/web/web/595
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="News",71 TV
-http://10.90.90.114:8081/thunderbd/11/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDQ6Mzk6NDkgUE0maGFzaF92YWx1ZT1qQldHOFFrYmR1SmZrNmJ5Y0dlN0t3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Entertainment (BD)",GTV
 http://103.141.2.37:25461/web/web/592
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="Entertainment (BD)",Channel 24
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="News",Channel 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Entertainment (BD)",Asian TV
@@ -23,9 +20,6 @@ http://bd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.somoynews.tv/icon.png" group-title="News",Somoy TV
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Entertainment (BD)",NTV
-http://10.90.90.114:8081/thunderbd/54/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDU6MjA6MjUgUE0maGFzaF92YWx1ZT1tSkh6dlJYYU9VQklCdW9qbzVyVGp3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="News",Independent TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
@@ -95,6 +89,9 @@ https://rajdhani.jaagobd.com:444/rajdhanitv/rajdhanitv.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/Voice%20TV.png" group-title="Entertainment (BD)",Voice TV
 https://m3u-editor.com/serve/e1b95030-3375-11ee-a06d-c5c77e50964a/896505599
+
+#EXTINF:-0 tvg-logo="https://www.lyngsat.com/logo/tv/ff/falguni-tv-bd.png" group-title="Entertainment (BD)",Falguni TV
+http://khan.qcast.live:1009/falgunitv/livestream/chunklist_w1903570024.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Entertainment (BD)",Jamuna TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
@@ -266,6 +263,9 @@ http://iptv.prosto.tv:7000/ch50/video.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies",Star Movies
 http://103.141.2.37:25461/web/web/563
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
+http://45.58.126.146:14299/axn.ts
 
 #EXTINF:-0 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="Movies",Star Channel
 http://acsb.sh:80/bF3y9W/68GSme/71936.ts
@@ -724,7 +724,7 @@ http://ott.watch/stream/DESTFGKKP4/333.m3u8
 http://ott.watch/stream/DESTFGKKP4/154.m3u8
 
 #EXTINF:-0 tvg-logo="https://cdn.qazaqstan.tv/qazsport.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=" group-title="Sports", QAZ Sport
-https://vsd180.mycdn.me/hls/5246880778892.m3u8/sig/1kt5Gievn1Y/expires/1691865941848/srcIp/157.49.134.52/urls/185.226.52.68/clientType/36/srcAg/CHROME_ANDROID/mid/6369185580940/5246880778892_high/index.m3u8
+http://ru.iptv.monster/play/463/72C7877723CCDE9/video.m3u8
 
 #EXTINF:-0 tvg-logo="https://mw.motv.mn/assets/channels/2023/02/14/46/channels-63eaf61908918.png" group-title="Sports",Premier Sports 1
 https://cdn3.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
@@ -743,3 +743,37 @@ https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
 
 #EXTINF:-0 tvg-logo="https://mw.motv.mn/assets/channels/2023/02/14/21/channels-63eaf5e7660e3.png" group-title="Sports",SBC TV
 https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6.sdp/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="https://www.dream-box.tv/Assets/Images/WorksDetail/sports-tv/09.png" group-title="Sports",Sports TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/BBC_Sport_%282022%2C_alt%29.svg/1200px-BBC_Sport_%282022%2C_alt%29.svg.png" group-title="Sports",BBC Sport
+http://41.205.93.154/BBCONE/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Setanta_Sports_1_2019.png/revision/latest?cb=20220714215318" group-title="Sports",Setanta Sport 1
+http://ru.iptv.monster/play/942/72C7877723CCDE9/video.m3u8
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Setanta_Sports_1_2019.png/revision/latest?cb=20220714215318" group-title="Sports",Setanta Sport 2
+http://ru.iptv.monster/play/943/72C7877723CCDE9/video.m3u8
+
+
+
+#EXTINF:-0 tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/c3fc74d276b5a22e103bb03d7030711f.png" group-title="Sports",Prima Sport 2
+http://ru.iptv.monster/play/11147/72C7877723CCDE9/video.m3u8
+
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/wVDAGqpcyzzoqEAhz7iI0yJtyg6AFGsHntDHyhOuMB-3r7R3g4NTl-HJo9VxZzSvbz0aNoLI=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",ID Man TV
+http://ru.iptv.monster/play/439/72C7877723CCDE9/video.m3u8
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/1/12/Sport_Extra_%282018-.n.v.%29.png/revision/latest?cb=20200301060801" group-title="Sports",Sport Extra
+http://ru.iptv.monster/play/11158/72C7877723CCDE9/video.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Digi_Sport_4_2012.svg/revision/latest/scale-to-width-down/300?cb=20230203052148" group-title="Sports", Digi Sport
+http://ru.iptv.monster/play/11071/72C7877723CCDE9/video.m3u8
