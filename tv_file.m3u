@@ -201,6 +201,9 @@ http://tempx.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-0 tvg-logo="https://shababel3alam.com/wp-content/uploads/2022/10/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg" group-title="Islamic",Madina Live
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madina.stream/playlist.m3u8
 
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/EHxmqaOuR3FduIpVFWFaLzpPXFnYQpSMl9JtgsUjMpEjKl61g3e-9CLaX6y6VxNSHBpBnxIxkzY=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic",Alief TV
+http://103.86.134.34:9981/stream/channelid/1087428830?ticket=E400D115EDC84ADAC381B107B72C9DE8AEE5E939&profile=pass
+
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8HCmRXIV5i61tWmlMRBrt-Aq-SL_snYkK6zORy=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Movie Bangla
 http://alvetv.com/mbtv/8080/index.m3u8
 
@@ -362,6 +365,21 @@ http://opplex.tv:8080/live/paki/paki/150483.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp" group-title="Kids",Discovery Kids
 http://50.7.237.7:8081/DISCOVERYKIDS/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title="Kids",Disnep Channel
+http://103.86.134.34:9981/stream/channelid/1470953340?ticket=19FE128DDC272FDCF0A6A62ACFA504A3BE4BD557&profile=pass
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/220px-Hungama_TV.svg.png" group-title="Kids",Hungama
+http://103.86.134.34:9981/stream/channelid/684040847?ticket=D478ACA89FB144C07793B98D320B416BCF0E8378&profile=pass
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/disneyjuniorpedia/images/a/a8/Disney-Junior-Logo-disney-junior-27558537-2560-1920.jpg/revision/latest?cb=20160424225753" group-title="Kids",Disnep Junior
+http://103.86.134.34:9981/stream/channelid/329238066?ticket=E4F9B25DDBBAAA6A004E39DC229F7A2274C85FEE&profile=pass
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Kids",Nickelodeon Sonic
+http://103.86.134.34:9981/stream/channelid/1033407717?ticket=3E1A3D0A6AABE8C8667DC40ABDD5E63548270BF4&profile=pass
+
+#EXTINF:-0 tvg-logo="https://nickjr.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/webplex/site/nick-jr/nick-jr-preview.png?format=jpg&width=1200&height=630&crop=true" group-title="Kids",Nick Jr.
+http://103.86.134.34:9981/stream/channelid/860868286?ticket=5B53CC12C06B09825AF218F652FEAFCBBEFBF089&profile=pass
 
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-title="Movies",Rock Action
 http://210.210.155.37/dr9445/h/h15/index.m3u8
@@ -624,6 +642,15 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 #EXTINF:-0 tvg-logo="https://apkloo.com/wp-content/uploads/2022/10/All-Sports-TV-APK.png" group-title="Sports",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
+#EXTINF:-0 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fnova_tv1_czech.jpg" group-title="Sports",Nova Sports 1
+http://185.188.188.235/live/novasport1/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fnova_sports_2.jpg" group-title="Sports",Nova Sports 2
+http://185.188.188.235/live/novasport2/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Nova_Sport_3.png?20210806183539" group-title="Sports",Nova Sports 3
+http://185.188.188.235/live/novasport3/playlist.m3u8
+
 #EXTINF:-0 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/nova-sports-4.png" group-title="Sports",Nova Sports 4
 http://213.7.193.54:4000/play/a005
 
@@ -643,7 +670,7 @@ http://iptv.prosto.tv:7000/ch110/video.m3u8
 http://iptv.prosto.tv:7000/ch117/video.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/2560px-Eurosport_Logo_2015.svg.png" group-title="Sports",EuroSport HD
-http://xtv.ooo:8080/335846/335846/206324
+http://103.86.134.34:9981/stream/channelid/1384817357?ticket=68A457F71F6439BF317FAA12B07BB878AEE62E65&profile=pass
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/Open%20Hybrid%201.jpg" group-title="Sports",Open Hybrid 1
 https://opentvlive1.siliconweb.com/opentvliveabr/openlatin/playlist.m3u8
@@ -756,6 +783,11 @@ http://ru.iptv.monster/play/942/72C7877723CCDE9/video.m3u8
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Setanta_Sports_1_2019.png/revision/latest?cb=20220714215318" group-title="Sports",Setanta Sport 2
 http://ru.iptv.monster/play/943/72C7877723CCDE9/video.m3u8
 
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png?20151229155644" group-title="Sports",Sport 1
+http://185.188.188.235/live/sport1/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGTIQzT93ALyw1_lBplMKUSLdNkoitxdMv4rJRe6ycClxawNWHwwsttq1V63bJOsBgnw&usqp=CAU" group-title="Sports",Sport 2
+http://185.188.188.235/live/sport2/playlist.m3u8
 
 
 #EXTINF:-0 tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/c3fc74d276b5a22e103bb03d7030711f.png" group-title="Sports",Prima Sport 2
