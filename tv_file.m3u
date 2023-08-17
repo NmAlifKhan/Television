@@ -610,7 +610,13 @@ http://raw.bitnode.pm:81/giorgi/giorgi/20377
 http://raw.bitnode.pm:81/giorgi/giorgi/20383
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/qcDzPkEbeNQ8oII0wIc5FGUaRfUg1BSQI5MDGzT5SX2IFFwRduFL9rtWdMaejYCKtAZIA9E20w=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",RTA Sports
-http://fr.globalflix.net:80/call-me-in-bd/whatsapp-01971466614/354.m3u8
+https://hls.rtasport.live/hls/stream.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/RTS_1_logo_2019.svg/200px-RTS_1_logo_2019.svg.png" group-title="Sports",RTS 1
+http://livetv.ktv.zone/1/play.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/200px-RTS_2_logo_2019.svg.png" group-title="Sports",RTS 2
+http://livetv.ktv.zone/2/play.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="Sports",AD Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
