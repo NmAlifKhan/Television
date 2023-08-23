@@ -210,9 +210,6 @@ http://tempx.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-0 tvg-logo="https://shababel3alam.com/wp-content/uploads/2022/10/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg" group-title="Islamic",Madina Live
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madina.stream/playlist.m3u8
 
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/EHxmqaOuR3FduIpVFWFaLzpPXFnYQpSMl9JtgsUjMpEjKl61g3e-9CLaX6y6VxNSHBpBnxIxkzY=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic",Alief TV
-http://103.86.134.34:9981/stream/channelid/1087428830?ticket=E400D115EDC84ADAC381B107B72C9DE8AEE5E939&profile=pass
-
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8HCmRXIV5i61tWmlMRBrt-Aq-SL_snYkK6zORy=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Movie Bangla
 http://alvetv.com/mbtv/8080/index.m3u8
 
@@ -301,13 +298,13 @@ http://103.141.2.37:25461/web/web/575
 http://103.141.2.37:25461/web/web/574
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Movies",HBO
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31465
+http://83.149.118.170:8080/hbo/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png" group-title="Movies",HBO+
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31468
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="Movies",HBO Signature
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31473
+http://208.115.225.174:14160/.ts
 
 #EXTINF:-0 tvg-logo="https://image.roku.com/developer_channels/prod/2e25ed9d39cb1d1712f11da7415a75478b7e960598f828f4af7aa87862d955d2.png" group-title="Movies",Movies Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
