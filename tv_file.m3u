@@ -1,10 +1,13 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-logo="https://thedailynewnation.com/library/1671980871_7.jpg" group-title="Entertainment (BD)",BTV
+http://103.209.173.14:9966/binge/stream/nxd_btv_hd_all.m3u8
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="Entertainment (BD)",BTV World
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/1200px-Sangsad_Television_Emblem.svg.png" group-title="Entertainment (BD)",Sangsad TV
-https://join-livetvwithshuvo1.bdtubebd.xyz/ltws/live/index.m3u8?channel=btv_sangshodh
+http://103.209.173.14:9966/binge/stream/nxd_sangsad_bangladesh_all.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/1200px-DBC_News_Logo.svg.png" group-title="News",DBC News
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
@@ -15,8 +18,8 @@ http://103.141.2.37:25461/web/web/595
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Entertainment (BD)",GTV
 http://103.141.2.37:25461/web/web/592
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" group-title="Entertainment (BD)",Nagorik
-https://join-livetvwithshuvo1.bdtubebd.xyz/ltws/live/index.m3u8?channel=nagorik_tv_hd
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Entertainment (BD)",Ekhon TV 
+http://103.209.173.14:9966/binge/stream/nxd_ekhon_tv_all.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/_WeBAtNQm4Tmp_Ltz6l2F4YanCENjevm1CvIgt1scIms2fksFDSspq8ZDR2ux7ijO_2SU-BF9A=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (BD)",SA TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
@@ -31,7 +34,7 @@ http://bd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="News",Ekattor TV
-https://join-livetvwithshuvo1.bdtubebd.xyz/ltws/live/index.m3u8?channel=ekattor_hd
+http://103.209.173.14:9966/binge/stream/nxd_ekattor_tv_all.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="News",Independent TV
 http://103.141.2.37:25461/web/web/590
@@ -46,13 +49,16 @@ http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 https://join-livetvwithshuvo1.bdtubebd.xyz/ltws/live/index.m3u8?channel=desh_tv
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Entertainment (BD)",Nexus TV
-https://m3u-editor.com/serve/e1b95030-3375-11ee-a06d-c5c77e50964a/896485971
+http://103.209.173.14:9966/binge/stream/nxd_nexus_tv_all.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" group-title="Entertainment (BD)",Nagorik
+https://join-livetvwithshuvo1.bdtubebd.xyz/ltws/live/index.m3u8?channel=nagorik_tv_hd
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Entertainment (BD)",Deepto TV
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Entertainment (BD)",NTV
-https://join-livetvwithshuvo1.bdtubebd.xyz/ltws/live/index.m3u8?channel=ntv_b
+http://103.209.173.14:9966/binge/stream/nxd_ntv_sd_all.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="Entertainment (BD)",ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
@@ -67,10 +73,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="Entertainment (BD)",Channel 9
-https://iptv.caperhd.live//caperhd/m3u8?shuvro=channel_9
+https://join-livetvwithshuvo1.bdtubebd.xyz/ltws/live/index.m3u8?channel=channel_9
 
 #EXTINF:-0 tvg-logo="https://channeleurope.tv/wp-content/uploads/2017/05/logo_chenl.png" group-title="Entertainment (BD)",Channel Europe
-http://iptvbd.jagobd.com:1931/live-orgin/channeleurope.stream/chunks.m3u8
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeleurope.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIzIDY6NTY6NTUgQU0maGFzaF92YWx1ZT1xcng1anU0QzVNOEt4QitXait3Wi9BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/B24C.jpg" group-title="Entertainment (BD)",B24C
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/b24c.stream/chunks.m3u8
@@ -602,6 +608,9 @@ http://xtv.ooo:8080/335846/335846/167582
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",A Sports
 http://xtv.ooo:8080/335846/335846/221417
+
+#EXTINF:-0 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 1
+http://raw.bitnode.pm:81/giorgi/giorgi/20360
 
 #EXTINF:-0 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 2
 http://raw.bitnode.pm:81/giorgi/giorgi/20366
