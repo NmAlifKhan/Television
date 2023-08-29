@@ -22,7 +22,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://bd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="News",Ekattor TV
-http://172.16.215.142/hls/71.m3u8
+http://opplex.tv:8080/live/504501/504501/245915.ts
 
 #EXTINF:-0 tvg-logo="https://www.somoynews.tv/icon.png" group-title="News",Somoy TV
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
@@ -32,6 +32,12 @@ http://103.141.2.37:25461/web/web/590
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Entertainment (BD)",Maasranga TV
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" group-title="Entertainment (BD)",Desh TV
+http://opplex.tv:8080/live/504501/504501/245936.ts
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Entertainment (BD)",NTV
+http://opplex.tv:8080/live/504501/504501/245924.ts
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png" group-title="Entertainment (BD)",My TV
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
