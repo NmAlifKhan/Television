@@ -34,7 +34,7 @@ http://103.141.2.37:25461/web/web/590
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" group-title="Entertainment (BD)",Desh TV
-http://opplex.tv:8080/live/504501/504501/245936.ts
+http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165523&extension=ts&play
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Entertainment (BD)",NTV
 http://opplex.tv:8080/live/504501/504501/245924.ts
@@ -53,6 +53,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/f/f9/%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Islamic",ATN Islamic TV
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="Entertainment (BD)",Channel 9
+http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165514&extension=ts&play
 
 #EXTINF:-0 tvg-logo="https://channeleurope.tv/wp-content/uploads/2017/05/logo_chenl.png" group-title="Entertainment (BD)",Channel Europe
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeleurope.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIzIDY6NTY6NTUgQU0maGFzaF92YWx1ZT1xcng1anU0QzVNOEt4QitXait3Wi9BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
