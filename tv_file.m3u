@@ -550,7 +550,7 @@ https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/live.m3u8
 https://cdn5.iqsat.net/iq/70cf8d50aaeb4efcd04a42de2762bf3b.sdp/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
-http://103.11.0.202:8000/play/a01u/index.m3u8
+http://cpk-1.asu.lol:8080/pk_ptv_sports/tracks-v1a1/mono.m3u8?token=bynishad
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/1200px-MatchTV_Logo.svg.png" group-title="Sports",MAT4
 http://194.143.148.28/MatchHD/mono.m3u8
@@ -563,6 +563,9 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/Sp
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 
 http://103.141.2.37:25461/web/web/580
+
+#EXTINF:-0 tvg-logo="https://www.seminarsonly.com/news/wp-content/uploads/2021/10/Star-Sports-1-Hd-Hindi.jpg",Star Sports 1 Hindi
+http://14.102.123.50:4000/play/a041
 
 #EXTINF:-0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-2-logo-300x300.jpg" group-title="Sports",Star Sports 2
 http://103.141.2.37:25461/web/web/581
@@ -583,7 +586,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 http://143.244.60.30/ESPN/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://staticg.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",Ten Sports
-http://103.162.136.103:25461/FAH/fah/121
+http://pakin2.worldtvip.co:9090/ind2_ten_sports_pk/tracks-v1a1/mono.m3u8?token=bynishad
 
 #EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="Sports",Sony Sports Ten 1
 http://103.141.2.37:25461/web/web/585
