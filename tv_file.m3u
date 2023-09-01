@@ -84,6 +84,15 @@ https://rajdhani.jaagobd.com:444/rajdhanitv/rajdhanitv.stream/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://www.lyngsat.com/logo/tv/ff/falguni-tv-bd.png" group-title="Entertainment (BD)",Falguni TV
 http://khan.qcast.live:1009/falgunitv/livestream/chunklist_w1903570024.m3u8
 
+#EXTINF:-0 tvg-logo="https://play-lh.googleusercontent.com/22vh5xTYiGG-2Y6dmsO5O7I-Xeh8R-sgeKPjpQ4Tr8SHnO0LjfuPCB6FYMwPP3BozQ" group-title="Entertainment (BD)",E Ten TV
+https://iptvbd.live/test/1080.m3u8
+
+#EXTINF:-0 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/ABtv-USA.jpg" group-title="Entertainment (BD)",AB TV
+http://208.86.19.13:81/501.stream/index.m3u8?
+
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/Channel%2052.jpg" group-title="Entertainment (BD)", Channel 52
+http://208.86.19.13:81/503.stream/index.m3u8?
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Entertainment (BD)",Jamuna TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 
@@ -127,7 +136,7 @@ http://103.141.2.37:25461/web/web/598
 http://103.141.2.37:25461/web/web/606
 
 #EXTINF:-0 tvg-logo="https://play-lh.googleusercontent.com/VQ9iDskpoYK_G3Kx8gQCGexkCT0IYhXYwhl4eO3b9rweHNXSSAQI-yLlM73zCXqgFw" group-title="Entertainment (BD)",The Channel TV
-https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/playlist.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/thechanneltv.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.tvoneuk.tv/wp-content/uploads/2021/06/TVONE-LOGO-Colour.png" group-title="Entertainment (BD)",TV One
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tvoneuksni.stream/playlist.m3u8
@@ -140,6 +149,9 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://play-lh.googleusercontent.com/X2QTI6Bsp2pt9LlTqwgHOyCX1j11_OF9WpQriW_11qKcPaikKFHMtHwtUKMBN0ILJZw=w600-h300-pc0xffffff-pd" group-title="News",TBN 24
 https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/S-QqFRm7a6OcA_D740AuHtapOJh7l1e4BhBa2jlQblI8P8H6YWYQUPzJoq4wO83Xx_iImWXUhww=s900-c-k-c0x00ffffff-no-rj" group-title="News",Time Television
+http://208.86.19.13:81/506.stream/index.m3u8?
 
 #EXTINF:-0 tvg-logo="http://atnmusic.tv/images/logo.png" group-title="Music",ATN Music
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/tracks-v1a1/mono.m3u8
@@ -179,6 +191,9 @@ http://103.141.2.37:25461/web/web/618
 
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8AMyY2eeea-1UDD4RQhFIMz2YoydpT62tYJwg5BA=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic",Iqra TV
 https://cdn5.iqsat.net/iqb/b5b9977ca31beabec903ba7b34e1c198.sdp/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/X84efsmQTT1RBg_FLYY-lvs2l4earYJqN6nISPm0KbhLxbYuLP6X2JL4xtgOUTr38lyfhDdt7g=s176-c-k-c0x00ffffff-no-rj" group-title="Islamic",ITV USA
+http://208.86.19.13:81/512.stream/index.m3u8?
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png" group-title="Entertainment (India)",Colors HD
 http://103.141.2.37:25461/web/web/544
