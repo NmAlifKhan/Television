@@ -7,7 +7,7 @@ http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165532&extension=ts&p
 http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165533&extension=ts&play
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/1200px-DBC_News_Logo.svg.png" group-title="News",DBC News
-http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165517&extension=ts&play
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Entertainment (BD)",Channel I
 http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165537&extension=ts&play
@@ -19,7 +19,10 @@ http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165524&extension=ts&p
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="News",Channel 24
-http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165536&extension=ts&play
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" group-title="News",Ananda TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Entertainment (BD)",Asian TV
 http://bd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
@@ -28,7 +31,7 @@ http://bd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165520&extension=ts&play
 
 #EXTINF:-0 tvg-logo="https://www.somoynews.tv/icon.png" group-title="News",Somoy TV
-http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="News",Independent TV
 http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165512&extension=ts&play
@@ -109,16 +112,16 @@ http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165545&extension=ts&p
 http://iptvbd.jagobd.com:1931/live-orgin/nantv.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2a/Star_Jalsha.png" group-title="Entertainment (India)",Star Jalsha
-http://172.16.215.142/hls/starjalsha.m3u8
+http://live.flixhub.net/hls/starjalsha.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTuMZSewKz1BucGogxxGmlGnYW75neSM-0jvdGbGg=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (India)",Zee Bangla
-http://172.16.215.142/hls/zeebanglahd.m3u8
+http://live.flixhub.net/hls/zeebanglahd.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Entertainment (India)",Star Plus HD
-http://103.141.2.37:25461/web/web/546
+http://live.flixhub.net/hls/starplus.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Entertainment (India)",Sun Bangla
-http://103.141.2.37:25461/web/web/589
+http://live.flixhub.net/hls/sunbangla.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="Entertainment (India)",Sony Sab
 http://faucontv.live:8080/@messie12/b5HS41z/14817
@@ -130,22 +133,19 @@ https://90f1f5904d4043d78fa97be33e8304b4.mediatailor.us-east-1.amazonaws.com/v1/
 https://epiconvh.s.llnwi.net/live/nazara/master.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTX8zVYEAExj454j2Ur4XMft7X5PBTyAmcnuxxXJA=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (India)",Zee TV
-http://103.141.2.37:25461/web/web/553
+http://live.flixhub.net/hls/zeetv.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTap43-dcaqc85zWkzI5qEtEGOW2yCcl1TnxGN7lA=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (India)",Jalsha Movies HD
-http://103.141.2.37:25461/web/web/600
+http://live.flixhub.net/hls/jalshamovies.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/3e/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Entertainment (India)",Colors Bangla Cinema
-http://103.141.2.37:25461/web/web/599
+http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/3e/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Movies",Zee Bangla Cinema
-http://103.141.2.37:25461/web/web/598
+http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMgAFwCYOX0V7GEToy8keJKiMiqfAxNPm68YAfUFg=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (India)",Enterr10 Bangla
-http://103.141.2.37:25461/web/web/606
-
-#EXTINF:-0 tvg-logo="https://play-lh.googleusercontent.com/VQ9iDskpoYK_G3Kx8gQCGexkCT0IYhXYwhl4eO3b9rweHNXSSAQI-yLlM73zCXqgFw" group-title="Entertainment (BD)",The Channel TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/thechanneltv.stream/chunks.m3u8
+http://live.flixhub.net/hls/enterr10.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.tvoneuk.tv/wp-content/uploads/2021/06/TVONE-LOGO-Colour.png" group-title="Entertainment (BD)",TV One
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tvoneuksni.stream/playlist.m3u8
@@ -190,7 +190,7 @@ http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165539&extension=ts&p
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png" group-title="Entertainment (India)",Colors Bangla HD
-http://103.141.2.37:25461/web/web/601
+http://live.flixhub.net/hls/colorsbangla.m3u8
 
 #EXTINF:-0 tvg-logo="https://1.bp.blogspot.com/-E6Las0-lxRQ/X9PJNQyA2vI/AAAAAAAABGY/HdQbtL36W10wu3Ie944gEVggzRaKHnWEgCLcBGAsYHQ/w800/Channel-S-UK-LIve.png" group-title="Entertainment (BD)",Channel S
 http://iptvbd.jagobd.com:1931/live-orgin/chsukoff.stream/chunks.m3u8
@@ -232,7 +232,7 @@ http://208.86.19.13:81/504.stream/index.m3u8
 https://web.nandansyst.com/hls/nandan_src/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.news24bd.tv/newDesktop/img/logo.png" group-title="News",News 24 HD
-http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165540&extension=ts&play
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/Millennium%20TV%2024.jpg" group-title="News",Millennium News 24
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mnews24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDIzIDExOjA3OjAxIEFNJmhhc2hfdmFsdWU9aEt5b3JTRTgxbU5heGJScG1FY0VjZz09JnZhbGlkbWludXRlcz02MCZpZD01
