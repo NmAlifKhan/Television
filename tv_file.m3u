@@ -13,7 +13,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/lplaylist.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Entertainment (BD)",GTV
-http://tv.bdiptv24.online/live/star2/jointelegram@freeiptv25.m3u8
+http://203.80.191.3:8089/jamio/gazitv//playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/_WeBAtNQm4Tmp_Ltz6l2F4YanCENjevm1CvIgt1scIms2fksFDSspq8ZDR2ux7ijO_2SU-BF9A=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (BD)",SA TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
@@ -181,7 +181,7 @@ http://208.86.19.13:81/509.stream/index.m3u8
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
-http://plusbox.tv:8080/TSportsHD/tracks-v1a1/mono.m3u8?token=59a8102a92d3e80ba63188178dc91d4a9c4c21de-e687bb46b1f9d854403f42afac824e0c-1694261826-1694251026
+http://203.80.191.3:8089/jamio/tsportsbd//playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="Entertainment (BD)",Ekushey ETV
 http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165539&extension=ts&play
@@ -595,16 +595,16 @@ http://tv.bdiptv24.online/live/star1/jointelegram@freeiptv25.m3u8
 http://14.102.123.50:4000/play/a041
 
 #EXTINF:-0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-2-logo-300x300.jpg" group-title="Sports",Star Sports 2
-http://103.141.2.37:25461/web/web/581
+http://chanel.dekhaott.com/starsports2/index.fmp4.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png" group-title="Sports",Star Sports 3 
-http://103.141.2.37:25461/web/web/578
+http://chanel.dekhaott.com/starsports3/index.fmp4.m3u8
 
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png/revision/latest/scale-to-width-down/220?cb=20230128174313" group-title="Sports",Star Sports Select 1 HD
-http://103.141.2.37:25461/web/web/579
+http://chanel.dekhaott.com/Star_Sport_Select1HD/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest?cb=20170728104956" group-title="Sports",Star Sports Select 2 HD
-http://103.141.2.37:25461/web/web/583
+http://chanel.dekhaott.com/select2/index.fmp4.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="Sports",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
@@ -616,19 +616,19 @@ http://143.244.60.30/ESPN/index.m3u8
 http://103.162.136.103:25461/live/FAH/fah/121.m3u8
 
 #EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="Sports",Sony Sports Ten 1
-http://103.141.2.37:25461/web/web/585
+http://chanel.dekhaott.com/sonyten1/index.fmp4.m3u8
 
 #EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Sports",Sony Sports Ten 2
-http://103.141.2.37:25461/web/web/584
+http://chanel.dekhaott.com/sonyten2/index.fmp4.m3u8
 
 #EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Sports",Sony Sports Ten 3
-http://103.141.2.37:25461/web/web/582
+http://chanel.dekhaott.com/sonyten3/index.fmp4.m3u8
 
 #EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="Sports",Sony Sports Ten 4
 http://xtv.ooo:8080/335846/335846/167595
 
 #EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="Sports",Sony Sports Ten 5
-http://103.141.2.37:25461/web/web/577
+http://chanel.dekhaott.com/SONY_SportsTen5_HD/index.fmp4.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Supersport2012.jpg/250px-Supersport2012.jpg" group-title="Sports",Super Sport 
 http://103.162.136.103:25461/FAH/fah/545
