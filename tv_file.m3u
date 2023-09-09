@@ -181,7 +181,7 @@ http://208.86.19.13:81/509.stream/index.m3u8
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
-http://103.102.27.173/live/tvfeed1001/index.m3u8
+http://plusbox.tv:8080/TSportsHD/tracks-v1a1/mono.m3u8?token=59a8102a92d3e80ba63188178dc91d4a9c4c21de-e687bb46b1f9d854403f42afac824e0c-1694261826-1694251026
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="Entertainment (BD)",Ekushey ETV
 http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165539&extension=ts&play
