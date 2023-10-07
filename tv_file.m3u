@@ -13,7 +13,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/lplaylist.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Entertainment (BD)",GTV
-http://chanel.dekhaott.com/Gazi-TV/index.fmp4.m3u8
+http://172.16.215.142/hls/Gazi-TV.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/_WeBAtNQm4Tmp_Ltz6l2F4YanCENjevm1CvIgt1scIms2fksFDSspq8ZDR2ux7ijO_2SU-BF9A=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (BD)",SA TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
@@ -181,7 +181,7 @@ http://208.86.19.13:81/509.stream/index.m3u8
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
-http://chanel.dekhaott.com/Tsportshd/index.fmp4.m3u8
+http://chanel.dekhaott.com/ICCWORLDCUP/tracks-v1/index.fmp4.m3u8?
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="Entertainment (BD)",Ekushey ETV
 http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165539&extension=ts&play
@@ -577,7 +577,7 @@ https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/live.m3u8
 https://cdn5.iqsat.net/iq/70cf8d50aaeb4efcd04a42de2762bf3b.sdp/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
-http://cpk-1.asu.lol:8080/pk_ptv_sports/tracks-v1a1/mono.m3u8?token=bynishad
+https://tvs3.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/1200px-MatchTV_Logo.svg.png" group-title="Sports",MAT4
 http://194.143.148.28/MatchHD/mono.m3u8
@@ -589,13 +589,13 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/in
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/Sports18_Khel_voot_MOB-audio_98836_eng=98800-video=1884800.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 
-http://tv.bdiptv24.online/live/star1/jointelegram@freeiptv25.m3u8
+http://live.flixhub.net/hls/stersports1hd.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.seminarsonly.com/news/wp-content/uploads/2021/10/Star-Sports-1-Hd-Hindi.jpg" group-title="Sports",Star Sports 1 Hindi
 http://14.102.123.50:4000/play/a041
 
 #EXTINF:-0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-2-logo-300x300.jpg" group-title="Sports",Star Sports 2
-http://chanel.dekhaott.com/starsports2/index.fmp4.m3u8
+http://live.flixhub.net/hls/starsports2.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png" group-title="Sports",Star Sports 3 
 http://chanel.dekhaott.com/starsports3/index.fmp4.m3u8
@@ -643,7 +643,7 @@ http://103.162.136.103:25461/FAH/fah/544
 http://xtv.ooo:8080/335846/335846/167592
 
 #EXTINF:-0 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
-http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/60e1e48b-6e6b-4ea2-9a8b-ce7040c71378.m3u8
+https://tvs3.aynaott.com/willowhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" group-title="Sports",Willow Extra
 http://xtv.ooo:8080/335846/335846/167582
