@@ -13,7 +13,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/lplaylist.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Entertainment (BD)",GTV
-http://172.16.215.142/hls/Gazi-TV.m3u8
+http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/_WeBAtNQm4Tmp_Ltz6l2F4YanCENjevm1CvIgt1scIms2fksFDSspq8ZDR2ux7ijO_2SU-BF9A=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment (BD)",SA TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
@@ -181,7 +181,7 @@ http://208.86.19.13:81/509.stream/index.m3u8
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
-http://chanel.dekhaott.com/ICCWORLDCUP/tracks-v1/index.fmp4.m3u8?
+http://103.180.112.66:8080/tsports/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="Entertainment (BD)",Ekushey ETV
 http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165539&extension=ts&play
@@ -806,6 +806,9 @@ http://175.107.244.52:4457/play/a06x/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://gdplayer.tv/assets/img/logo/astro-cricket.png" group-title="Sports",Astro Cricket
 http://xtv.ooo:8080/335846/335846/167581
+
+#EXTINF:-0 tvg-logo="https://gdplayer.tv/assets/img/logo/astro-cricket.png" group-title="Sports",Astro Cricket
+https://m2.ballnaja.com:8443/ASTRO_CRICKET/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/DVv-My1F3Wbpw_R6gh0HBF00Na35AfzQGzs3Wjey9-s2p740NspDESy8AtqkVIcZWe30tsZ_oQ=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Geo Super
 http://xtv.ooo:8080/335846/335846/167568
