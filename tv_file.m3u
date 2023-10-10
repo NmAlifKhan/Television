@@ -768,6 +768,9 @@ https://opentvlive1.siliconweb.com/opentvliveabr/openlatin2/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://ia800800.us.archive.org/16/items/stevechatfield27_gmail_Tsn5/tsn%205.png" group-title="Sports",TSN 5
 https://qyfb8377447rtirq.fordems.live/live/for-dems3/chunks.m3u8
 
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="Sports",Sky Sports Main Events
+http://176.119.29.49:8080/play/hls/WjBFOGxkOTY0YUZEdVZlOk1ENEVmYTA5Q3Iyazh1RzowMDFBNzlBOUIyQkI6VTJ0NUlGTndiM0owY3lCSWRXNWtjbVZrSURFd09EQlE6MzQ=/7578cc16-1b9f-493e-bc3e-906de9572e5a.m3u8
+
 #EXTINF:-0 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png" group-title="Sports",Sky Sports Main Events
 http://45.12.1.14:80/MDKraker/GwWZ9I296/5600
 
