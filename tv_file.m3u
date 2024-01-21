@@ -1,22 +1,28 @@
 #EXTM3U
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/1200px-Sangsad_Television_Emblem.svg.png",Sangsad TV
-https://bdtubelive.xyz/bdix.m3u8?id=sangsad-tv
+https://cdn.retosprime.com/ayna.php?id=3&e=.m3u8%7CUser-Agent=bdsajib
 
-#EXTINF:-0 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=3840&q=75"",BTV
+#EXTINF:-0 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=3840&q=75",BTV
 http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165532&extension=ts&play
 
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png",BTV World
+https://cdn.retosprime.com/ayna.php?id=2&e=.m3u8%7CUser-Agent=bdsajib
+
 #EXTINF:-0 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193167149_3.png&w=3840&q=75",BTV CTG
-http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165533&extension=ts&play
+https://cdn.retosprime.com/ayna.php?id=4&e=.m3u8%7CUser-Agent=bdsajib
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/1200px-DBC_News_Logo.svg.png",DBC News
 https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",Channel I
-https://bdtubelive.xyz/bdix.m3u8?id=channel-i
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekhon TV
 https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV
+http://103.141.2.37:25461/live/web/web/592.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/_WeBAtNQm4Tmp_Ltz6l2F4YanCENjevm1CvIgt1scIms2fksFDSspq8ZDR2ux7ijO_2SU-BF9A=s900-c-k-c0x00ffffff-no-rj",SA TV
 https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
@@ -33,17 +39,20 @@ https://livess.jagobd.com.bd/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png",Nexus TV
 https://bdtubelive.xyz/bdix.m3u8?id=nexus-television-hd
 
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/FB%20TV.jpg",Florida Bangla TV
+http://162.244.81.200:1935/live/livestream/playlist.m3u8
+
 #EXTINF:-0 tvg-logo="https://i0.wp.com/nobannotv.com/wp-content/uploads/2023/06/NOBANNOtv-10-Copy-1024x402-1.png?resize=1024%2C402&ssl=1",Nobanno TV
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cmtv.stream/live-orgin/cmtv.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png",Asian TV
-https://livess.jagobd.com.bd/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
+https://cdn.retosprime.com/ayna.php?id=24&e=.m3u8%7CUser-Agent=bdsajib
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTbzX96SOUXVOXxz1db1jdAQX2BhDwXpW0iV72X=s900-c-k-c0x00ffffff-no-rj",Cumilla TV
 http://103.149.142.133/0.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",Ekattor TV
-https://bdtubelive.xyz/bdix.m3u8?id=ekattur-tv
+https://cdn.retosprime.com/ayna.php?id=23&e=.m3u8%7CUser-Agent=bdsajib
 
 #EXTINF:-0 tvg-logo="https://www.somoynews.tv/icon.png",Somoy TV
 https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
@@ -58,7 +67,10 @@ https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg",Desh TV
-http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165523&extension=ts&play
+https://cdn.retosprime.com/ayna.php?id=12&e=.m3u8%7CUser-Agent=bdsajib
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg",Duronto tv
+https://cdn.retosprime.com/ayna.php?id=36&e=.m3u8%7CUser-Agent=bdsajib
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png",Mohona TV
 https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
@@ -66,11 +78,8 @@ https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chun
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png",NTV
 https://bdtubelive.xyz/bdix.m3u8?id=ntv
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png",My TV
-https://livess.jagobd.com.bd/live-orgin/mytv-up-off.stream/chunks.m3u8
-
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",Deepto TV
-http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165538&extension=ts&play
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png",Bijoy TV
 https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/playlist.m3u8
@@ -205,7 +214,7 @@ http://208.86.19.13:81/509.stream/index.m3u8
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png",Ekushey ETV
-http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165539&extension=ts&play
+https://cdn.retosprime.com/ayna.php?id=7&e=.m3u8%7CUser-Agent=bdsajib
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/matribhumi-tv.png",Matribhumi Television
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
