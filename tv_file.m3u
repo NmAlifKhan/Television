@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/1200px-Sangsad_Television_Emblem.svg.png",Sangsad TV
-https://cdn.retosprime.com/ayna.php?id=3&e=.m3u8%7CUser-Agent=bdsajib
+https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=3
 
 #EXTINF:-0 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=3840&q=75",BTV
 http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=165532&extension=ts&play
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png",BTV World
-https://cdn.retosprime.com/ayna.php?id=2&e=.m3u8%7CUser-Agent=bdsajib
+https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=2
 
 #EXTINF:-0 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193167149_3.png&w=3840&q=75",BTV CTG
-https://cdn.retosprime.com/ayna.php?id=4&e=.m3u8%7CUser-Agent=bdsajib
+https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=4
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/1200px-DBC_News_Logo.svg.png",DBC News
 https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
@@ -25,22 +25,22 @@ https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 http://103.141.2.37:25461/web/web/592
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports
-http://113.212.111.246:8080/hls/col12.m3u8
+https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=27
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/_WeBAtNQm4Tmp_Ltz6l2F4YanCENjevm1CvIgt1scIms2fksFDSspq8ZDR2ux7ijO_2SU-BF9A=s900-c-k-c0x00ffffff-no-rj",SA TV
 https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.globaltvbd.com/uploads/logo/Logo-Global-Television.png",Global TV
-https://bdtubelive.xyz/bdix.m3u8?id=global-tv
+https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=34
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png",Channel 24
 https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png",Ananda TV
-https://livess.jagobd.com.bd/live-orgin/anandatv.stream/chunks.m3u8
+https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=33
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png",Nexus TV
-https://bdtubelive.xyz/bdix.m3u8?id=nexus-television-hd
+https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=32
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/FB%20TV.jpg",Florida Bangla TV
 http://162.244.81.200:1935/live/livestream/playlist.m3u8
@@ -49,19 +49,19 @@ http://162.244.81.200:1935/live/livestream/playlist.m3u8
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cmtv.stream/live-orgin/cmtv.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png",Asian TV
-https://cdn.retosprime.com/ayna.php?id=24&e=.m3u8%7CUser-Agent=bdsajib
+https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=24
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTbzX96SOUXVOXxz1db1jdAQX2BhDwXpW0iV72X=s900-c-k-c0x00ffffff-no-rj",Cumilla TV
 http://103.149.142.133/0.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",Ekattor TV
-https://cdn.retosprime.com/ayna.php?id=23&e=.m3u8%7CUser-Agent=bdsajib
+https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=23
 
 #EXTINF:-0 tvg-logo="https://www.somoynews.tv/icon.png",Somoy TV
 https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent TV
-https://bdtubelive.xyz/bdix.m3u8?id=independent-tv
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga TV
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
@@ -70,16 +70,16 @@ https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg",Desh TV
-https://cdn.retosprime.com/ayna.php?id=12&e=.m3u8%7CUser-Agent=bdsajib
+https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=12
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg",Duronto tv
-https://cdn.retosprime.com/ayna.php?id=36&e=.m3u8%7CUser-Agent=bdsajib
+https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=36
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png",Mohona TV
 https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png",NTV
-https://bdtubelive.xyz/bdix.m3u8?id=ntv
+https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",Deepto TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/chunks.m3u8
@@ -212,9 +212,6 @@ http://208.86.19.13:81/502.stream/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmmfpU6m0L0zANwnILT8o56nhtc5kTvUGARAuh_VuIMO4tAIDXmGcyPGp2qyNtB06hw8k&usqp=CAU",IB TV USA
 http://208.86.19.13:81/509.stream/index.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 
-https://live.tsports.com/live/tsports_live_1080/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png",Ekushey ETV
 https://cdn.retosprime.com/ayna.php?id=7&e=.m3u8%7CUser-Agent=bdsajib
@@ -612,12 +609,6 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-0 tvg-logo="https://portal.simplestreamcdn.com/172/c1b59909-MicrosoftTeams-image%20%2866%29.png",Islam Channel
 https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/live.m3u8
 
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/U8VGrKgt4JcflXpVMBiJ33nJicV9B7tuQDHC2or1MftdovVKTc1BSl9VAWsYmF_9PNoQgLIRZg=s900-c-k-c0x00ffffff-no-rj",Eman Channel
-https://cdn5.iqsat.net/iq/70cf8d50aaeb4efcd04a42de2762bf3b.sdp/chunks.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV Sports
-https://tvs3.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?
-
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/1200px-MatchTV_Logo.svg.png",MAT4
 http://194.143.148.28/MatchHD/mono.m3u8
 
@@ -627,329 +618,3 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/in
 #EXTINF:-0 tvg-logo="https://images.news18.com/ibnlive/uploads/2022/04/sports18-khel.jpg",Sports 18 Khel
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/Sports18_Khel_voot_MOB-audio_98836_eng=98800-video=1884800.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png",Star Sports 1 
-http://live.flixhub.net/hls/stersports1hd.m3u8
-
-#EXTINF:-0 tvg-logo="https://www.seminarsonly.com/news/wp-content/uploads/2021/10/Star-Sports-1-Hd-Hindi.jpg",Star Sports 1 Hindi
-http://14.102.123.50:4000/play/a041
-
-#EXTINF:-0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-2-logo-300x300.jpg",Star Sports 2
-http://live.flixhub.net/hls/starsports2.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png",Star Sports 3 
-http://chanel.dekhaott.com/starsports3/index.fmp4.m3u8
-
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png/revision/latest/scale-to-width-down/220?cb=20230128174313",Star Sports Select 1 HD
-http://chanel.dekhaott.com/Star_Sport_Select1HD/tracks-v1/index.fmp4.m3u8
-
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest?cb=20170728104956",Star Sports Select 2 HD
-http://chanel.dekhaott.com/select2/index.fmp4.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
-
-#EXTINF:-0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ESPN
-http://143.244.60.30/ESPN/index.m3u8
-
-#EXTINF:-0 tvg-logo="https://staticg.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png",Ten Sports
-http://103.162.136.103:25461/live/FAH/fah/121.m3u8
-
-#EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",Sony Sports Ten 1
-http://chanel.dekhaott.com/sonyten1/index.fmp4.m3u8
-
-#EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony Sports Ten 2
-http://chanel.dekhaott.com/sonyten2/index.fmp4.m3u8
-
-#EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports Ten 3
-http://chanel.dekhaott.com/sonyten3/index.fmp4.m3u8
-
-#EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png",Sony Sports Ten 4
-http://xtv.ooo:8080/335846/335846/167595
-
-#EXTINF:-0 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png",Sony Sports Ten 5
-http://chanel.dekhaott.com/SONY_SportsTen5_HD/index.fmp4.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Supersport2012.jpg/250px-Supersport2012.jpg",Super Sport 
-http://103.162.136.103:25461/FAH/fah/545
-
-#EXTINF:-0 tvg-logo="https://jio4gvoiceapk.in/wp-content/uploads/2021/01/JioCricket1-300x160.png",Jio Cricket
-http://xtv.ooo:8080/335846/335846/206297
-
-#EXTINF:-0 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-action-za.png",Super Sport Action
-http://103.162.136.103:25461/FAH/fah/544
-
-#EXTINF:-0 tvg-logo="https://www.nbs24.org/upload/images/pages/1679290737210869.png",Super Sport Cricket
-http://xtv.ooo:8080/335846/335846/167592
-
-#EXTINF:-0 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",Willow HD
-https://tvs3.aynaott.com/willowhd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-0 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png",Willow Extra
-http://xtv.ooo:8080/335846/335846/167582
-
-#EXTINF:-0 tvg-logo="https://sport-onthebox.com/wp-content/uploads/2021/07/Premier-Sports-1.png",Premier Sports 1
-http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/b7eff456-7a0c-48fd-8308-eb569293f7ee.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
-http://xtv.ooo:8080/335846/335846/221417
-
-#EXTINF:-0 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png",TNT Sports 1
-http://raw.bitnode.pm:81/giorgi/giorgi/20360
-
-#EXTINF:-0 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png",TNT Sports 2
-http://raw.bitnode.pm:81/giorgi/giorgi/20366
-
-#EXTINF:-0 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_TNTBlack_RGB.png",TNT Sports 3
-http://raw.bitnode.pm:81/giorgi/giorgi/20371
-
-#EXTINF:-0 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_TNTBlack_RGB.png",TNT Sports 4
-http://raw.bitnode.pm:81/giorgi/giorgi/20380
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",MUTV
-http://raw.bitnode.pm:81/giorgi/giorgi/20374
-
-#EXTINF:-0 tvg-logo="https://play-lh.googleusercontent.com/YDjdaL5eUngFMun-OViUl5JMbCmQHvOW7kbzKWKfaPvqtkNpBY2-VQjoRgVaHexow4it",Viaplay Xtra
-http://raw.bitnode.pm:81/giorgi/giorgi/20377
-
-#EXTINF:-0 tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt914435f46e5f317f/60f97c0ced7a525fcd55cb19/MicrosoftTeams-image_(13).png",LFC TV
-http://raw.bitnode.pm:81/giorgi/giorgi/20383
-
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/qcDzPkEbeNQ8oII0wIc5FGUaRfUg1BSQI5MDGzT5SX2IFFwRduFL9rtWdMaejYCKtAZIA9E20w=s900-c-k-c0x00ffffff-no-rj",RTA Sports
-https://hls.rtasport.live/hls/stream.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/RTS_1_logo_2019.svg/200px-RTS_1_logo_2019.svg.png",RTS 1
-http://livetv.ktv.zone/1/play.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/200px-RTS_2_logo_2019.svg.png",RTS 2
-http://livetv.ktv.zone/2/play.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png",AD Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-
-#EXTINF:-0 tvg-logo="https://www.pngkit.com/png/full/972-9721216_1-tvg-id-tvg-name-tvg-logo-https.png",AD Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
-
-#EXTINF:-0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F2%2F16%2Fad-sports-premium-1.png",AD Sports Premium
-http://iptvworld.nl:2095/live/gT0PeBdt/pj8wFFhH/94451.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",EuroSport 1
-http://raw.bitnode.pm:81/giorgi/giorgi/20350
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",EuroSport 1
-http://41.205.93.154/EUROSPORT1/index.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",EuroSport 2
-http://raw.bitnode.pm:81/giorgi/giorgi/20353
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",EuroSport 2
-http://41.205.93.154/EUROSPORT2/index.m3u8
-
-#EXTINF:-0 tvg-logo="https://s6.vcdn.biz/static/f/850677081/image.jpg",Sport 1
-http://ott.watch/stream/DESTFGKKP4/391.m3u8
-
-#EXTINF:-0 tvg-logo="https://s1.vcdn.biz/static/f/850678561/image.jpg/pt/r300x423x4",Sport 2
-http://ott.watch/stream/DESTFGKKP4/392.m3u8
-
-#EXTINF:-0 tvg-logo="https://s1.vcdn.biz/static/f/5575200841/image.jpg/pt/r300x423x4",Sport 3
-http://ott.watch/stream/DESTFGKKP4/393.m3u8
-
-#EXTINF:-0 tvg-logo="https://s2.vcdn.biz/static/f/5574923921/image.jpg/pt/r300x423x4",Sport 4
-http://ott.watch/stream/DESTFGKKP4/394.m3u8
-
-#EXTINF:-0 tvg-logo="https://photos.live-tv-channels.org/tv-logo/dubai-sports-2-3277.webp",Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-
-#EXTINF:-0 tvg-logo="https://korafoot.com/wp-content/uploads/2023/02/dubai-sport-3.png",Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-
-#EXTINF:-0 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6a88b.png",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-
-#EXTINF:-0 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6b210.png",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-
-#EXTINF:-0 tvg-logo="https://apkloo.com/wp-content/uploads/2022/10/All-Sports-TV-APK.png",All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-
-#EXTINF:-0 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fnova_tv1_czech.jpg",Nova Sports 1
-http://185.188.188.235/live/novasport1/playlist.m3u8
-
-#EXTINF:-0 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fnova_sports_2.jpg",Nova Sports 2
-http://185.188.188.235/live/novasport2/playlist.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Nova_Sport_3.png?20210806183539",Nova Sports 3
-http://185.188.188.235/live/novasport3/playlist.m3u8
-
-#EXTINF:-0 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/nova-sports-4.png",Nova Sports 4
-http://213.7.193.54:4000/play/a005
-
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Viasat_Sport_HD.png/revision/latest?cb=20210122183632",Viasat Sport
-https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/San_Marino_RTV_logo_2021.png",RTV Sport
-http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
-
-#EXTINF:-0 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png",Fight Box HD
-http://iptv.prosto.tv:7000/ch118/video.m3u8
-
-#EXTINF:-0 tvg-logo="https://s3.vcdn.biz/static/f/2630779941/image.jpg/pt/r300x423x4",X Sport
-http://iptv.prosto.tv:7000/ch110/video.m3u8
-
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/x%20Sports%2B.jpg",X Sport+
-http://iptv.prosto.tv:7000/ch117/video.m3u8
-
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/Open%20Hybrid%201.jpg",Open Hybrid 1
-https://opentvlive1.siliconweb.com/opentvliveabr/openlatin/playlist.m3u8
-
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/Open%20Hybrid%202.jpg",Open Hybrid 2
-https://opentvlive1.siliconweb.com/opentvliveabr/openlatin2/playlist.m3u8
-
-#EXTINF:-0 tvg-logo="https://ia800800.us.archive.org/16/items/stevechatfield27_gmail_Tsn5/tsn%205.png",TSN 5
-https://qyfb8377447rtirq.fordems.live/live/for-dems3/chunks.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Sky Sports Main Events
-http://176.119.29.49:8080/play/hls/WjBFOGxkOTY0YUZEdVZlOk1ENEVmYTA5Q3Iyazh1RzowMDFBNzlBOUIyQkI6VTJ0NUlGTndiM0owY3lCSWRXNWtjbVZrSURFd09EQlE6MzQ=/7578cc16-1b9f-493e-bc3e-906de9572e5a.m3u8
-
-#EXTINF:-0 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png",Sky Sports Main Events
-http://45.12.1.14:80/MDKraker/GwWZ9I296/5600
-
-#EXTINF:-0 tvg-logo="https://archive.org/services/img/SkySportsMixNew_201708",Sky Sports Mix
-http://45.12.1.14:80/MDKraker/GwWZ9I296/14926
-
-#EXTINF:-0 tvg-logo="https://e0.365dm.com/tvlogos/channels/1306-Logo.png",Sky Sports FI
-http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14656
-
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/Sky%20Sports%20Premier%20League.png",Sky Sports Premier League
-http://sysadminhost.net:8080/stadnik/6a627b52a9/263
-
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/Sky%20Sports%20Cricket.png",Sky Sports Cricket
-http://xtv.ooo:8080/335846/335846/284066
-
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/Sky%20Sports%20Racing.png",Sky Sports Racing
-http://sysadminhost.net:8080/stadnik/6a627b52a9/163132
-
-#EXTINF:-0 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg",Bein Sports HD
-http://alphaus.multistreamz.com:8081/ceres/beinsportshd/playlist.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png",Bein Sports 1
-http://iptvworld.nl:2095/live/gT0PeBdt/pj8wFFhH/94451.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png",Bein Sports 1
-http://quebuscasaqui.xyz:8080/BastianMaster2/G8apJuY84a/2103
-
-#EXTINF:-0 tvg-logo="https://cne-eg.com/uploads/logos/2021122749282.png",Bein Sports 1 Premium
-http://45.12.1.14:80/7JvIck488/meAqNw5218/91334
-
-#EXTINF:-0 tvg-logo="https://cne-eg.com/uploads/logos/2021122834751.png",Bein Sports 2 Premium
-http://45.12.1.14:80/7JvIck488/meAqNw5218/91336
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png",Bein Sports 3
-http://175.107.244.52:4457/play/a06x/index.m3u8
-
-#EXTINF:-0 tvg-logo="https://gdplayer.tv/assets/img/logo/astro-cricket.png",Astro Cricket
-http://xtv.ooo:8080/335846/335846/167581
-
-#EXTINF:-0 tvg-logo="https://gdplayer.tv/assets/img/logo/astro-cricket.png",Astro Cricket
-https://m2.ballnaja.com:8443/ASTRO_CRICKET/tracks-v1a1/mono.m3u8
-
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/DVv-My1F3Wbpw_R6gh0HBF00Na35AfzQGzs3Wjey9-s2p740NspDESy8AtqkVIcZWe30tsZ_oQ=s900-c-k-c0x00ffffff-no-rj",Geo Super
-http://xtv.ooo:8080/335846/335846/167568
-
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/DD%20Sports.jpg",DD Sports
-http://xtv.ooo:8080/335846/335846/167588
-
-#EXTINF:-0 tvg-logo="https://pbs.twimg.com/profile_images/1633191289356431361/OdKOXawp_400x400.jpg",Fox Cricket
-http://xtv.ooo:8080/335846/335846/167593
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",Fox Sports
-http://sysadminhost.net:8080/stadnik/6a627b52a9/157488
-
-#EXTINF:-0 tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_1.jpg",Eleven Sports 1
-http://sysadminhost.net:8080/stadnik/6a627b52a9/347
-
-#EXTINF:-0 tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_2.jpg",Eleven Sports 2
-http://sysadminhost.net:8080/stadnik/6a627b52a9/3643
-
-#EXTINF:-0 tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_3.jpg",Eleven Sports 3
-http://sysadminhost.net:8080/stadnik/6a627b52a9/3644
-
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/Eleven%20Sports%204.jpg",Eleven Sports 4
-http://sysadminhost.net:8080/stadnik/6a627b52a9/3645
-
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOq0noRdL5rJ-tXTGKcALehGjzk-w6oiSGfWGI6Yg=s900-c-k-c0x00ffffff-no-rj",Edge Sports
-https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-
-#EXTINF:-0 tvg-logo="https://www.fastsports.tv/img/fs_logo.png",Fast Sports
-http://xtv.ooo:8080/335846/335846/308225
-
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTGg-yleVdOIgKNtma0tv0GrJQZ4CkY_C_K0MlL=s900-c-k-c0x00ffffff-no-rj",Dynamo TV
-http://ott.watch/stream/DESTFGKKP4/396.m3u8
-
-#EXTINF:-0 tvg-logo="https://ntvplus.tv/files/image/35/35/11/dlv.png",KHL
-http://ott.watch/stream/DESTFGKKP4/166.m3u8
-
-#EXTINF:-0 tvg-logo="https://ntvplus.tv/files/image/35/35/12/wk3.png",KHL Prime
-http://ott.watch/stream/DESTFGKKP4/178.m3u8
-
-#EXTINF:-0 tvg-logo="https://ntvplus.tv/files/image/79/84/48/ycp.png",Viju+ Sport
-http://ott.watch/stream/DESTFGKKP4/333.m3u8
-
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/fa/%D0%91%D0%BE%D0%BA%D1%81_%D0%A2%D0%92_2.png/revision/latest?cb=20161006151707&path-prefix=ru",Бокс ТВ
-http://ott.watch/stream/DESTFGKKP4/154.m3u8
-
-#EXTINF:-0 tvg-logo="https://cdn.qazaqstan.tv/qazsport.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=", QAZ Sport
-http://ru.iptv.monster/play/463/72C7877723CCDE9/video.m3u8
-
-#EXTINF:-0 tvg-logo="https://mw.motv.mn/assets/channels/2023/02/14/46/channels-63eaf61908918.png",Premier Sports 1
-https://cdn3.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
-
-#EXTINF:-0 tvg-logo="https://mw.motv.mn/assets/channels/2023/02/14/31/channels-63eaf6ab259a2.png",Premier Sports 2
-https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
-
-#EXTINF:-0 tvg-logo="https://mw.motv.mn/assets/channels/2023/02/14/22/channels-63eaf66faf3e8.png",Premier Sports 3
-https://cdn3.skygo.mn/live/disk1/SPSWORLD/HLS-FTA/SPSWORLD.m3u8
-
-#EXTINF:-0 tvg-logo="https://mw.motv.mn/assets/channels/2023/02/14/34/channels-63eaf69169832.png",Premier Sports 4
-https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
-
-#EXTINF:-0 tvg-logo="https://mw.motv.mn/assets/channels/2023/02/14/21/channels-63eaf5e7660e3.png",Premier Sports 5
-https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
-
-#EXTINF:-0 tvg-logo="https://mw.motv.mn/assets/channels/2023/02/14/21/channels-63eaf5e7660e3.png",SBC TV
-https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6.sdp/playlist.m3u8
-
-#EXTINF:-0 tvg-logo="https://www.dream-box.tv/Assets/Images/WorksDetail/sports-tv/09.png",Sports TV
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/BBC_Sport_%282022%2C_alt%29.svg/1200px-BBC_Sport_%282022%2C_alt%29.svg.png",BBC Sport
-http://41.205.93.154/BBCONE/index.m3u8
-
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Setanta_Sports_1_2019.png/revision/latest?cb=20220714215318",Setanta Sport 1
-http://ru.iptv.monster/play/942/72C7877723CCDE9/video.m3u8
-
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Setanta_Sports_1_2019.png/revision/latest?cb=20220714215318",Setanta Sport 2
-http://ru.iptv.monster/play/943/72C7877723CCDE9/video.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png?20151229155644",Sport 1
-http://185.188.188.235/live/sport1/playlist.m3u8
-
-#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGTIQzT93ALyw1_lBplMKUSLdNkoitxdMv4rJRe6ycClxawNWHwwsttq1V63bJOsBgnw&usqp=CAU",Sport 2
-http://185.188.188.235/live/sport2/playlist.m3u8
-
-#EXTINF:-0 tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/c3fc74d276b5a22e103bb03d7030711f.png",Prima Sport 2
-http://ru.iptv.monster/play/11147/72C7877723CCDE9/video.m3u8
-
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/wVDAGqpcyzzoqEAhz7iI0yJtyg6AFGsHntDHyhOuMB-3r7R3g4NTl-HJo9VxZzSvbz0aNoLI=s900-c-k-c0x00ffffff-no-rj",ID Man TV
-http://ru.iptv.monster/play/439/72C7877723CCDE9/video.m3u8
-
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/1/12/Sport_Extra_%282018-.n.v.%29.png/revision/latest?cb=20200301060801",Sport Extra
-http://ru.iptv.monster/play/11158/72C7877723CCDE9/video.m3u8
-
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Digi_Sport_4_2012.svg/revision/latest/scale-to-width-down/300?cb=20230203052148", Digi Sport 4
-http://ru.iptv.monster/play/11071/72C7877723CCDE9/video.m3u8
-
-#EXTINF:-0 tvg-logo="https://photos.live-tv-channels.org/tv-logo/oman-tv-sport-6103.webp", Oman Sport
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-
-#EXTINF:-0 tvg-logo="https://toffeelive.com/assets/images/ic_splash_logo_gif.gif", Toffee Live
-https://rana-pk.xyz/ASIA/play.m3u8
