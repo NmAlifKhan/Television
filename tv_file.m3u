@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/1200px-Sangsad_Television_Emblem.svg.png",Sangsad TV
-https://bioscope-teal.vercel.app/sangsad-tv.m3u8
-
 #EXTINF:-0 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=3840&q=75",BTV
 https://test.bongodrive.pw/bdix.m3u8?ac=1114
 
