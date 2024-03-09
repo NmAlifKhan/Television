@@ -166,7 +166,7 @@ http://103.132.181.118:82/play/a00e
 http://live.flixhub.net/hls/sunbangla.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png",Sony Sab
-http://faucontv.live:8080/@messie12/b5HS41z/14817
+https://test.bongodrive.pw/bdix.m3u8?ac=1701
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Sony_Kal_Logo.jpeg/240px-Sony_Kal_Logo.jpeg",Sony Kal
 https://90f1f5904d4043d78fa97be33e8304b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_SonyKAL/playlist.m3u8
@@ -196,7 +196,7 @@ https://cdn.retosprime.com/ayna.php?id=105&e=.m3u8|User-Agent=bdsajib
 http://103.145.48.150:90/laosat23/taratv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/3e/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Zee Bangla Cinema
-http://172.16.29.242:8080/show/5050/index.m3u8
+https://pos.bongohub.pw/mac.m3u8?id=7642
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMgAFwCYOX0V7GEToy8keJKiMiqfAxNPm68YAfUFg=s900-c-k-c0x00ffffff-no-rj",Enterr10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/cb573e1c786c678b84c83a64cef94382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fae0554d8e69a6b4011a9d2c44fa83439c8101b2d4d2598316d776f0419c93f783db1481e4325293738aa19d71581fbba43bf9eb5cb8dd96683d99622034713f8482a08e85b81b253938d9ecc2be1f8f7b53430df30a07ba129a4e90399a7eb84bdd89a65a19d8ad236743d4f65a6f20b0f0b2cadf3c25b475f2ade79f01143a58250a259839a24a0f319efcc10491d15ff0dc47d0e63c4d6a80f931ea48e51b4db44713bc5ccf0df4ac0f1978434e68a74eab9b22ff21dc73a9f4de40364269a2805cc88ad811652c1fc6c869dd1d1fb6cc98c3f13a7b9b30550ab320ee520b3a986f2c64b379b0da1d7c992a0fb2303fd05121cf17afef62a6f19bad2d1381f3eb0ebf63e6be0f92d107aa6633104290fa3e5048493281bc36436037930bb493f9e0710812e5b898ad971d6b514b623866bcebe9749499d3694c46b3340854344147d854ac2ab5666e0f21ce12d6d679578d142e20e3e7721d6d6598ccbe969494ad60b06cd8dbf22925590d35a5521ae8e197ba76d3d5ae53032681e06f91/46/1280x720_3072000/index.m3u8
@@ -330,14 +330,17 @@ https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 #EXTINF:-0 tvg-logo="http://deentv.uk/wp-content/uploads/2021/08/cropped-DEEN-TV-LOGO-FINAL-80x80-1.png",Deen TV
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/Cfdnjxktc_acYt9zRRqMr39jXgWNntxiYR7jCkg37I3503EvuqKVLc3dfr9fU6hFC_8lHNIoW9A=s900-c-k-c0x00ffffff-no-rj",Sony Max
+https://test.bongodrive.pw/bdix.m3u8?ac=1607
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b1/%E0%A6%B8%E0%A6%A8%E0%A6%BF_%E0%A6%86%E0%A6%9F_%E0%A6%8F%E0%A6%B0_%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Sony Aath
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+https://test.bongodrive.pw/bdix.m3u8?ac=1409
 
 #EXTINF:-0 tvg-logo="https://ik.imagekit.io/hoichoi/svf/wp-content/uploads/2021/11/sb-logho.jpg",Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest/scale-to-width-down/250?cb=20221023215435",Sony Television
-http://103.132.181.118:82/play/a00h
+https://test.bongodrive.pw/bdix.m3u8?ac=1703
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/pCexLvViJa1MKT7PsaUDqpnV96fH2t9SevNio-xBjVp2D0s4X0_rxj4PiINMVG4P8sPPyvhf5VI=s900-c-k-c0x00ffffff-no-rj",Aan TV
 http://172.105.123.238:6001/play/a00o
@@ -370,7 +373,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?checkedby:i
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 #EXTINF:-0 tvg-logo="https://images.ctfassets.net/2pwalfr1ykol/1dXOY33YNblqzpkrJuVSCt/653a149bb34ecaced9c97fe57ecc5300/national-geographic-wild-hd.jpg?h=250",Wild HD
-http://103.141.2.37:25461/web/web/576
+https://pos.bongohub.pw/mac.m3u8?id=7630
 
 #EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRmYzc5ZWEtZmE4Mi00Yzk1LTlhZTItMDkyNjRlNTRhODVlXkEyXkFqcGdeQXVyMzA2NDMzNDA@._V1_FMjpg_UX1000_.jpg",Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
@@ -687,6 +690,9 @@ http://89.254.128.5:22280/nicktoons/video.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png",Nick
 http://103.141.2.37:25461/web/web/615
 
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
+https://pos.bongohub.pw/mac.m3u8?id=7607
+
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_ZiBhYXuhlX8B1Dxz6EKCPm6DmU6QW7URThEEFJQ=s900-c-k-c0x00ffffff-no-rj",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 
@@ -704,4 +710,15 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/in
 
 #EXTINF:-0 tvg-logo="https://images.news18.com/ibnlive/uploads/2022/04/sports18-khel.jpg",Sports 18 Khel
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/Sports18_Khel_voot_MOB-audio_98836_eng=98800-video=1884800.m3u8
+
+#EXTINF:-0 tvg-logo="https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png",TNT Sports 3
+https://pos.bongohub.pw/mac.m3u8?id=7642
+
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/sky-sports-action-uk.png",Sky Sports Action
+https://pos.bongohub.pw/mac.m3u8?id=7646
+
+
+
+
+
 
