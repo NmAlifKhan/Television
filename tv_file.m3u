@@ -766,13 +766,13 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 https://pos.bongohub.pw/mac.m3u8?id=7610
 
 #EXTINF:-0 tvg-logo="https://images.supersport.com/media/yvuloxza/premier-league-1.png?width=2048&quality=90&format=webp", S Premier League
-https://github.com/mimipipi22/lalajo/raw/main/M3U/PLlive1.m3u8
+http://dreamsmart.me:8080/play/live.php?mac=00:1A:79:20:34:1F&stream=138586_&extension=m3u8
 
 #EXTINF:-0 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png", Hub Premier 1
-https://github.com/mimipipi22/lalajo/raw/main/M3U/PLlive2.m3u8
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1350557&extension=m3u8
 
 #EXTINF:-0 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-02.png", Arena Sport 2
-https://github.com/NmAlifKhan/lalajo/raw/main/M3U/PLlive10.m3u8
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:56:14:07&stream=213638&extension=m3u8
 
 #EXTINF:-0 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-03.png", Arena Sport 3
-https://github.com/NmAlifKhan/lalajo/raw/main/M3U/PLlive9.m3u8
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:56:14:07&stream=213639&extension=m3u8
