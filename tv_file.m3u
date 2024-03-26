@@ -16,7 +16,7 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV
-https://test.bongodrive.pw/bdix.m3u8?ac=1102
+http://172.16.29.242:8080/show/5008/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/_WeBAtNQm4Tmp_Ltz6l2F4YanCENjevm1CvIgt1scIms2fksFDSspq8ZDR2ux7ijO_2SU-BF9A=s900-c-k-c0x00ffffff-no-rj",SA TV
 https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
@@ -43,13 +43,13 @@ https://mtlivestream.site/asian/ytlive/index.m3u8
 http://103.149.142.133/0.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",Ekattor TV
-https://edge4.bioscopelive.com/hls/anonymous/tzaMhrCDksrow45kB7H4Hg/1710786811/live-ekattor-tv-hd_hi/index.m3u8
+http://172.16.29.242:8080/show/4017/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.somoynews.tv/icon.png",Somoy TV
 https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent TV
-https://test.bongodrive.pw/bdix.m3u8?ac=1107
+http://172.16.29.242:8080/show/4008/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
