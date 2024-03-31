@@ -9,9 +9,6 @@ https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV
 http://172.16.29.242:8080/show/5008/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/_WeBAtNQm4Tmp_Ltz6l2F4YanCENjevm1CvIgt1scIms2fksFDSspq8ZDR2ux7ijO_2SU-BF9A=s900-c-k-c0x00ffffff-no-rj",SA TV
-https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
-
 #EXTINF:-0 tvg-logo="https://probashinews24.tv/images/logo.png",Probash TV
 http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
 
@@ -42,29 +39,14 @@ http://172.16.29.242:8080/show/4008/index.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-0 tvg-logo="https://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/22a89b16-b8db-4320-a629-d5c99b87e3c2.jpg",Mon Bangla
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png",Mohona TV
-https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png",NTV
-https://test.bongodrive.pw/bdix.m3u8?ac=1135
-
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",Deepto TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/chunks.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png",Bijoy TV
-https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png",ATN Bangla
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://atnbanglauk.tv/wp-content/uploads/2015/04/sized1.png",ATN Bangla UK
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF",ATN News
-https://test.bongodrive.pw/bdix.m3u8?ac=1134
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports
 https://test.bongodrive.pw/bdix.m3u8?ac=1101
@@ -313,7 +295,7 @@ https://livess.jagobd.com.bd/live-orgin/banglatvhd.stream/chunks.m3u8
 http://208.86.19.13:81/504.stream/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_6n6Wu54VbFd87md_bmdVIc-xMM8AE23Mfx-g5=s900-c-k-c0x00ffffff-no-rj",Nandan TV
-http://nandansyst.com/hls/nandan.m3u8
+https://web.nandansyst.com/hls/nandan_mid/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.news24bd.tv/newDesktop/img/logo.png",News 24 HD
 https://livess.jagobd.com.bd/live-orgin//news24local.stream/chunks.m3u8
@@ -442,7 +424,7 @@ https://livess.jagobd.com.bd/live-orgin//fr24.stream/chunks.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-0 tvg-logo="https://db637ll7r1kva.cloudfront.net/app/uploads/2019/04/19074159/Discovery-HD.png",Discovery Bangla
-https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
+https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC
 http://172.16.29.242:8080/show/5062/index.m3u8
@@ -535,7 +517,7 @@ http://172.16.29.242:8080/show/5012/index.m3u8
 https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp",Discovery Kids
-https://iptv.caperhd.live//caperhd/m3u8?shuvro=discovery_kids
+https://dplus.gammacdn.workers.dev/videos/113.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png",Sony YAY
 http://172.16.29.242:8080/show/5023/index.m3u8
@@ -676,7 +658,7 @@ http://103.132.181.118:82/play/a00m
 http://103.141.2.37:25461/web/web/555
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max
-http://103.132.181.118:82/play/a00c
+http://89.187.177.137:8081/SONYMAX/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Sony_Max_2_new.png",Sony Max 2
 http://208.86.19.13:81/7300.stream/index.m3u8
@@ -741,6 +723,9 @@ https://pos.bongohub.pw/mac.m3u8?id=7642
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/sky-sports-action-uk.png",Sky Sports Action
 https://pos.bongohub.pw/mac.m3u8?id=7646
 
+#EXTINF:-0 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",S Cricket
+https://sportsleading.online/live/stream_e1.m3u8
+
 #EXTINF:-0 tvg-logo="https://ia800808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png",Sky Sports Premier League
 https://github.com/mimipipi22/lalajo/raw/main/M3U/PLlive7.m3u8
 
@@ -764,3 +749,12 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:56:14:07&stream=213638&extensio
 
 #EXTINF:-0 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-03.png", Arena Sport 3
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:56:14:07&stream=213639&extension=m3u8
+
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nHAUlnFhJNsmIEoVhoyjivxkFvSBzo2ZMK8JvY2Q=s900-c-k-c0x00ffffff-no-rj", True Vision
+https://edge1.laotv.la/live/TSport1/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nHAUlnFhJNsmIEoVhoyjivxkFvSBzo2ZMK8JvY2Q=s900-c-k-c0x00ffffff-no-rj", True Vision
+https://edge1.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png", True Premier Football 2
+https://edge1.laotv.la/live/TSport2/index.m3u8
