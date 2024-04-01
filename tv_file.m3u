@@ -33,9 +33,6 @@ https://tv5.hoichoi24.com/1000/tracks-v1a1/mono.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png",Bijoy TV
 https://tv5.hoichoi24.com/1129/tracks-v1a1/mono.m3u8
 
-#EXTINF:-0 tvg-logo="https://probashinews24.tv/images/logo.png",Probash TV
-http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
-
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg",Jamuna TV
 https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
@@ -110,6 +107,9 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://channeleurope.tv/wp-content/uploads/2017/05/logo_chenl.png",Channel Europe
 https://livess.jagobd.com.bd/live-orgin/channeleurope.stream/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://probashinews24.tv/images/logo.png",Probash TV
+http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.metvbd.com/media/common/logo.png",ME TV
 https://iptvbd.live/metv1080/1080.m3u8
