@@ -52,7 +52,7 @@ https://mtlivestream.site/asian/ytlive/index.m3u8
 https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="https://tds-images.thedailystar.net/sites/default/files/styles/very_big_201/public/images/2022/10/05/duronto_1.jpg",Duronto
-https://tv5.hoichoi24.com/1103/tracks-v1a1/mono.m3u8
+http://103.107.79.87:8080/CH8108SD01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png",NTV
 https://tv5.hoichoi24.com/1135/tracks-v1a1/mono.m3u8
