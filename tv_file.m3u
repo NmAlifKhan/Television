@@ -13,16 +13,13 @@ https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV
-https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
+http://103.107.79.87:8080/CH8106SD01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.nexusbd.tv/wp-content/uploads/2022/06/logo-nexus.png",Nexus TV
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png",Ananda TV
 https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
-
-#EXTINF:-0 tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png",T Sports
-https://tv5.hoichoi24.com/1000/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png",Bijoy TV
 https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
