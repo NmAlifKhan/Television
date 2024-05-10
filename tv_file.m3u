@@ -9,6 +9,9 @@ https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 #EXTINF:-0 tvg-logo="https://www.satv.tv/wp-content/uploads/2022/01/cropped-icon-logo-2.png",SA TV
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 
+#EXTINF:-0 tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png",T Sports
+http://103.151.60.214:7444/1101/video.m3u8
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekhon TV
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 
