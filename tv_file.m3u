@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/1200px-DBC_News_Logo.svg.png",DBC News
-https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg",Jamuna TV
+http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",Channel I
 https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/playlist.m3u8
@@ -12,6 +12,9 @@ https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekhon TV
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png",Ekushey ETV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
 #EXTINF:-0 tvg-logo="https://www.nexusbd.tv/wp-content/uploads/2022/06/logo-nexus.png",Nexus TV
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 
@@ -21,17 +24,11 @@ https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=-eEotpUtPCtJ-G1Ls0k9rA&expires=1719768146&user=c15be118d93a464dabf77260596012cf
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports
-http://113.212.111.246:8080/hls/col12.m3u8
-
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png",Nagorik
 https://tv5.hoichoi24.com/1103/video.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg",Jamuna TV
-https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/6HDLsKKFbUIuEMbMP-f5RJ3m6kitqb-5MC9bxf4RfmoamWg0uEktC6nFjDt73m1CSkuK3NXm=s900-c-k-c0x00ffffff-no-rj",Channel 24
-https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+https://live-ak.vimeocdn.com/exp=1722792228~acl=%2F67146770-0846-41a6-b9be-76c021b0c59d%2F%2A~hmac=f6a10a264b76375dbc7c06b103011d4d4a2a30742fe4b164be96c825fd373735/67146770-0846-41a6-b9be-76c021b0c59d/chunklist_b3256000.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png",Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
@@ -53,6 +50,9 @@ https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTbzX96SOUXVOXxz1db1jdAQX2BhDwXpW0iV72X=s900-c-k-c0x00ffffff-no-rj",Cumilla TV
 http://103.149.142.133/0.m3u8
+
+#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6exauUfDj_uR5vapfOzUKzhzpLFM9rzK86Q&s",Kids Creation
+https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",Ekattor TV
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
@@ -82,7 +82,7 @@ https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 https://ythls.armelin.one/channel/UC9Rgo0CrNyd7OWliLekqqGA.m3u8
 
 #EXTINF:-0 tvg-logo="https://atnbanglauk.tv/wp-content/uploads/2015/04/sized1.png",ATN Bangla UK
-https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8HCmRXIV5i61tWmlMRBrt-Aq-SL_snYkK6zORy=s900-c-k-c0x00ffffff-no-rj",Movie Bangla
 http://alvetv.com/mbtv/8080/index.m3u8
@@ -124,7 +124,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://livess.ncare.live/live-orgin/varendratv.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://play-lh.googleusercontent.com/X2QTI6Bsp2pt9LlTqwgHOyCX1j11_OF9WpQriW_11qKcPaikKFHMtHwtUKMBN0ILJZw=w600-h300-pc0xffffff-pd",TBN 24
-https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
+http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/S-QqFRm7a6OcA_D740AuHtapOJh7l1e4BhBa2jlQblI8P8H6YWYQUPzJoq4wO83Xx_iImWXUhww=s900-c-k-c0x00ffffff-no-rj",Time Television
 https://livess.ncare.live/live-orgin/timetvusa.stream/chunks.m3u8
@@ -137,9 +137,6 @@ https://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmmfpU6m0L0zANwnILT8o56nhtc5kTvUGARAuh_VuIMO4tAIDXmGcyPGp2qyNtB06hw8k&usqp=CAU",IB TV USA
 http://208.86.19.13:81/509.stream/index.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png",Ekushey ETV
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-0 tvg-logo="https://1.bp.blogspot.com/-E6Las0-lxRQ/X9PJNQyA2vI/AAAAAAAABGY/HdQbtL36W10wu3Ie944gEVggzRaKHnWEgCLcBGAsYHQ/w800/Channel-S-UK-LIve.png",Channel S UK
 https://ap196.iqplay.tv:4433/hls/tvchsuk03/3_2/index.m3u8
