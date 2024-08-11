@@ -108,6 +108,9 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-0 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png",My Tv
+https://mytvbangla.com/0.m3u8
+
 #EXTINF:-0 tvg-logo="https://play-lh.googleusercontent.com/X2QTI6Bsp2pt9LlTqwgHOyCX1j11_OF9WpQriW_11qKcPaikKFHMtHwtUKMBN0ILJZw=w600-h300-pc0xffffff-pd",TBN 24
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 
