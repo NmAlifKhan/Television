@@ -51,8 +51,8 @@ http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxXBtXtiAmuQdur-WVNvaTAw/m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png",Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://www.mediabangladesh.net/wp-content/uploads/2015/02/bangla-tv-uk.jpg.jpg",Bangla TV Europe
-https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+#EXTINF:-0 tvg-logo="https://github.com/NmAlifKhan/Channel-Icon/blob/tv/banglatv%20europe.png?raw=true",Bangla TV Europe
+https://8v1cc03lpt.gpcdn.net/hls/banglatveurope/0_1/index.m3u8?
 
 #EXTINF:-0 tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/04/azantvs.jpg?x50681",Azan TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
