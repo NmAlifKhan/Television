@@ -9,16 +9,16 @@ http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxY9FhMS1Wk6dm1KFl6JMLZs/m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/640px-DBC_News_Logo.svg.png",DBC News
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",Channel I
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9d/Channel_i_HD_logo_2021.png/revision/latest?cb=20231125042918",Channel I
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxQMaSY4TLLJxDz5__jSVDNs/m3u8
 
-#EXTINF:-0 tvg-logo="https://www.satv.tv/wp-content/uploads/2022/01/cropped-icon-logo-2.png",SA TV
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/SA%20TV.png",SA TV
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxXsMbed3sokLAgj53537s24/m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",T Sports
 http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6WoBGvRKAki5ablPIoNwhsQM/m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg",Desh TV
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/57/%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Desh TV
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxSKd7HRWLQSjBoYrp4me2lk/m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekhon TV
@@ -30,10 +30,10 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png",Ekushey ETV
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxUHXnDTU2rIm1A2UcoJyolE/m3u8
 
-#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1H8UOKMz_eLkCQRObRtbAhJmJX96Uq27DJw&s",Mohona TV
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/68/Mohona_TV_HD_2021.png/revision/latest/scale-to-width-down/1000?cb=20240826030713",Mohona TV
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-Vxxci202ftkuocLO5OYxv9dIE/m3u8
 
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m2g1_8-CW7Awqkt0DnNbWreKe1bgABECQqvHghwUuShV0=s900-c-k-c0x00ffffff-no-rj",Magic Bangla TV
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/Magic%20Bangla%20TV.png",Magic Bangla TV
 http://mbanglatv.jolshabd.com:1935/live/mbanglatv/chunklist_w1242415799.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto
@@ -45,7 +45,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b7/%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF-%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Ananda TV
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/chunks.m3u8
 
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kO8uM2Iwy-Ydtu6i3Gsku6Q2dskadTbtOUIEZ7BvGdNWQ=s900-c-k-c0x00ffffff-no-rj",Gaan Bangla
+#EXTINF:-0 tvg-logo="https://gaanbangla.tv/wp-content/uploads/2023/12/GB-LOGO.png",Gaan Bangla
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxXBtXtiAmuQdur-WVNvaTAw/m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png",Bangla TV
