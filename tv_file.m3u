@@ -1,10 +1,13 @@
 #EXTM3U
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/220px-Bangladesh_Television_Logo.svg.png",BTV
-http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6Wi8kErbxFowAaocxUkMB-Iw/m3u8
+https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BTV_Chattogram_Logo.svg/800px-BTV_Chattogram_Logo.svg.png",BTV CTG
+http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6WhKbRd35uNCYH6XAmJplKHA/m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg",Jamuna TV
-http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxY9FhMS1Wk6dm1KFl6JMLZs/m3u8
+https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/640px-DBC_News_Logo.svg.png",DBC News
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
@@ -33,14 +36,8 @@ http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxUHXnDTU2rIm1A2UcoJyolE/m3u8
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/68/Mohona_TV_HD_2021.png/revision/latest/scale-to-width-down/1000?cb=20240826030713",Mohona TV
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-Vxxci202ftkuocLO5OYxv9dIE/m3u8
 
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/Magic%20Bangla%20TV.png",Magic Bangla TV
-http://mbanglatv.jolshabd.com:1935/live/mbanglatv/chunklist_w1242415799.m3u8
-
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto
 http://172.16.29.34:80/play/WhxL0zgjweD4vbwGdbQpcUEWRFQdOriMxb7vUiJc0KM/m3u8
-
-#EXTINF:-0 tvg-logo="https://github.com/NmAlifKhan/Channel-Icon/blob/tv/Channel%205.png?raw=true",Channel 5
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/batv.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b7/%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF-%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Ananda TV
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/chunks.m3u8
@@ -88,7 +85,7 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxeYOU0gRNjRNl4q97WQSTmA/m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga TV
-https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxeHGbHJcoimCc4DAMInGUyg/m3u8
 
 #EXTINF:-0 tvg-logo="https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png",Deepto TV
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
