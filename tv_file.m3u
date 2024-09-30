@@ -357,7 +357,7 @@ https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSPSsruGWeGbFzDbT0sK4s8fQHjt3pEZcEs5G_uMg=s900-c-k-c0x00ffffff-no-rj",Zoom
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 
-tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m3cRIJH7jF4qERwiWafXFpWaIUTW9LY9-R_7pGE7j5X5Y=s900-c-k-c0x00ffffff-no-rj",MTV Beats
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m3cRIJH7jF4qERwiWafXFpWaIUTW9LY9-R_7pGE7j5X5Y=s900-c-k-c0x00ffffff-no-rj",MTV Beats
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats.m3u8
 
 #EXTINF:-0 tvg-logo="https://play-lh.googleusercontent.com/lWJfnNXLPv66_LBHnqYQ23QvZym05Ia57xSj1W0LjZFTyrwnb0E2sLse8qP-ko1rUQ",Desi Channel
