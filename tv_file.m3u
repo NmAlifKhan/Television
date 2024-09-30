@@ -21,9 +21,11 @@ http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxXsMbed3sokLAgj53537s24/m3u8
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",T Sports
 http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6WoBGvRKAki5ablPIoNwhsQM/m3u8
 
-
 #EXTINF:-0 tvg-logo="https://github.com/NmAlifKhan/Channel-Icon/blob/tv/Channel%20A1.png?raw=true",Channel A1
 https://global.ncare.live/live-orgin/cha1.stream/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png",Nagorik 
+http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-Vxxf3h4X2PPQCxvawMhr6stNo/m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/57/%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Desh TV
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxSKd7HRWLQSjBoYrp4me2lk/m3u8
@@ -131,6 +133,9 @@ http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxVb-mA1ftwiiSOZFXZV0XI4/m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha
 http://172.16.29.34:80/play/-f4y0ulrz6bWYAIPS-WEfyikfYxHZ9MtyhOTOmlPQXM/m3u8
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/69/Jalsha_Movies_HD_alt.png/revision/latest?cb=20210611104218",Jalsha Movies
+http://172.16.29.34:80/play/-f4y0ulrz6bWYAIPS-WEf_E6YSQzKUA48WOHt4AWfH4/m3u8
 
 #EXTINF:-0 tvg-logo="https://e7.pngegg.com/pngimages/428/317/png-clipart-ruposhi-bangla-television-channel-bengali-live-television-bangla-tv-love-television-thumbnail.png",Ruposhi Bangla
 https://cdn3.pishow.tv/live/281/master.m3u8
@@ -481,3 +486,18 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-0 tvg-logo="https://streamingbetter.com/wp-content/uploads/2023/10/Tennis-Channel-T2.jpg",T2
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646",Sony Sports Ten 1
+http://172.16.29.34:80/play/-f4y0ulrz6bWYAIPS-WEf0r73u0dNoLCJAAyhEbnVFo/m3u8
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest?cb=20221025084500",Sony Sports Ten 2
+http://172.16.29.34:80/play/-f4y0ulrz6bWYAIPS-WEf1VOBG7WdY4Q0A_-f80rLPU/m3u8
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest?cb=20221025085433",Sony Sports Ten 5
+http://172.16.29.34:80/play/-f4y0ulrz6bWYAIPS-WEf_lEkd5GYWFJwMr-x4HBevU/m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png",Star Sports 1 HD
+http://172.16.29.34:80/play/-f4y0ulrz6bWYAIPS-WEfz-uqHkQK__WwEJcn8Dc5Ts/m3u8
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359",Star Sports 2 HD
+http://172.16.29.34:80/play/-f4y0ulrz6bWYAIPS-WEf3mf9nculmQ7UIcxr3fhi10/m3u8
