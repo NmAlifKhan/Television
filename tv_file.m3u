@@ -36,6 +36,9 @@ http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxcSOqy-nS8bydywKL2a7hiU/m3u8
 #EXTINF:-0 tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png",ATN News
 http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6WoXxQbnugPtuRl-nUR8QXFA/m3u8
 
+#EXTINF:-0 tvg-logo="https://rajdhani.tv/storage/app/image/1709550169rajdhanitv_logo.png",Rajdhani TV
+https://cdn.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
+
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Gtvhd.png/revision/latest?cb=20230423174054",Gazi TV
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-Vxxb3oAl9bVsOhNp2Cjcw2_UQ/m3u8
 
