@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Xmltv-Merge V1.0.0">
+ <channel id="NTV.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4540.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4540.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">NTV</display-name>
+  </channel>
+<programme channel="NTV.uk" start="20250222000000 +0000" stop="20250222010000 +0000">
+    <title lang="en">Guloi</title>
+    <desc lang="en">NTV Eid Special Movie.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d273ae63-e08b-49a3-ad7d-e64183b6df93/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222010000 +0000" stop="20250222013000 +0000">
+    <title lang="en">NTV NEWS-Moddhorater Khobor</title>
+    <desc lang="en">NTV midnight news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d3494ecd-9a3c-4202-b6db-a7a1f2c0ed69/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222013000 +0000" stop="20250222033000 +0000">
+    <title lang="en">Guloi</title>
+    <desc lang="en">NTV Eid Special Movie.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ad790904-6f18-4002-b042-fcac4fbd707c/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222033000 +0000" stop="20250222040000 +0000">
+    <title lang="en">Quran Onnesha</title>
+    <desc lang="en">An informative Islamic show. Produced by Saifullah Saif.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Educational</category>
+    <icon src="https://images.metadata.sky.com/pd-image/161cf84c-c741-4fb0-8ecc-a890afedb8ea/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222040000 +0000" stop="20250222043000 +0000">
+    <title lang="en">Kurulus Osman Gazi</title>
+    <desc lang="en">NTV Drama Serial.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7489720d-4636-4284-a02c-638295be4f51/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222043000 +0000" stop="20250222050000 +0000">
+    <title lang="en">Probashi Poribar</title>
+    <desc lang="en">Drama Serial starring Pran Roy, Maimuna Momo, Shamonty Shoumi, Milon Bhattacharya and many others. Written and directed by Maruf Hassan.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8acf20a5-7eba-4fec-a23e-7d9cf771fe4a/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222050000 +0000" stop="20250222052000 +0000">
+    <title lang="en">Dorsay Hadis</title>
+    <desc lang="en">An informative Islamic show.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f1680a0d-3246-4c87-a983-c3354c94db59/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222052000 +0000" stop="20250222052500 +0000">
+    <title lang="en">Adhan-a-Fajr</title>
+    <desc lang="en">Call to prayer.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fc8f3e4c-41d6-481c-9044-3a2c10d670d7/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222052500 +0000" stop="20250222053000 +0000">
+    <title lang="en">Dorsay Hadis</title>
+    <desc lang="en">An informative Islamic show.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/33f0319f-9aaf-472b-9461-3d9501a35054/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222053000 +0000" stop="20250222060000 +0000">
+    <title lang="en">Quran Onnesha</title>
+    <desc lang="en">An informative Islamic show. Produced by Saifullah Saif.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Educational</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3165a6cd-00d0-498f-93fb-f38b19e984f0/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222060000 +0000" stop="20250222063000 +0000">
+    <title lang="en">Apnar Jiggasha</title>
+    <desc lang="en">An informative Islamic programme produced by Saifullah Saif.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3b0c65fe-063c-4b5f-8383-e962c9139981/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222063000 +0000" stop="20250222070000 +0000">
+    <title lang="en">Shastho Protidin</title>
+    <desc lang="en">A health and environment based programme produced by Kazi Mohammad Mostafa.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Medical</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bc7902c1-e160-47b4-8465-833418574d7b/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222070000 +0000" stop="20250222073000 +0000">
+    <title lang="en">Ek Shobdey Quran</title>
+    <desc lang="en">A programme to learn the Holy Quran.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b9286390-3eb2-43a3-b86f-3198f2e5acad/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222073000 +0000" stop="20250222080000 +0000">
+    <title lang="en">Siddika Kabirs Recipe</title>
+    <desc lang="en">A cooking show featuring special recipes presented by Sharmin Nahar and directed by Sara Jaker.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1fc45cc5-f108-4a22-85df-1bd843e8a2a8/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222080000 +0000" stop="20250222083000 +0000">
+    <title lang="en">NTV Europe News</title>
+    <desc lang="en">NTV Europe News is being considered as the main news broadcast of NTV Europe which covers a range of contemporary issues across the globe including Britain and Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b0eaa01f-515f-4990-95e1-d72b8848ccfc/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222083000 +0000" stop="20250222090000 +0000">
+    <title lang="en">Mitthar Raza</title>
+    <desc lang="en">Bangla Movie.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5edf1005-6697-49b1-bfdb-06af402e8012/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222090000 +0000" stop="20250222093000 +0000">
+    <title lang="en">NTV NEWS- Sokaler Khobor</title>
+    <desc lang="en">NTV Morning News from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/394fcba6-9dd8-4276-9fda-a478b4a1d0b8/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222093000 +0000" stop="20250222120000 +0000">
+    <title lang="en">Mitthar Raza</title>
+    <desc lang="en">Bangla Movie.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/019a76aa-7061-4e78-879c-96ef4f7c9eea/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222120000 +0000" stop="20250222121900 +0000">
+    <title lang="en">NTV NEWS-Dupurer Khobor</title>
+    <desc lang="en">NTV afternoon news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f498530d-d912-4e27-afeb-6a7fbe1c2404/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222121900 +0000" stop="20250222122400 +0000">
+    <title lang="en">Adhan-e-Zuhr</title>
+    <desc lang="en">Call to prayer.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6cb86cd8-0dc3-45a7-a2ad-d8d3dace0202/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222122400 +0000" stop="20250222123000 +0000">
+    <title lang="en">NTV NEWS-Dupurer Khobor</title>
+    <desc lang="en">NTV afternoon news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4e6c450c-2900-4e7a-9d4f-0a1ddd651788/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222123000 +0000" stop="20250222140000 +0000">
+    <title lang="en">Aine O Adhiker</title>
+    <desc lang="en">A live programme featuring discussion on various legal topics with expert lawyers. Viewers can phone in and ask questions. Presented by Kam &amp; produced by Robin Hyder khan.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Business</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c3b96f5a-f1b4-4fa4-9306-b3638e3412f6/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222140000 +0000" stop="20250222143000 +0000">
+    <title lang="en">Shahjalal Madrasha Trust</title>
+    <desc lang="en">A documentary by Shahjalal Madrasha &amp; Eatim Khana in Sulemanpur, Sunamgonj. madrasha trust Providing over 500 poor and orphan students food, clothes and accommodation.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a9c54558-2b2b-429d-a66d-62aedcd353db/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222143000 +0000" stop="20250222150000 +0000">
+    <title lang="en">Desher Khobor</title>
+    <desc lang="en">NTV local news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6e92dea6-c275-4df3-999a-6c2995bb1d54/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222150000 +0000" stop="20250222153800 +0000">
+    <title lang="en">Roop kothar Raat</title>
+    <desc lang="en">A special programme with Bangladeshi celebrity presented by Even Sair And Sarrbonno, produced by Kazi Mohammad Mostofa.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9500ba9c-e256-48eb-bfd5-68f2df4519dd/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222153800 +0000" stop="20250222154300 +0000">
+    <title lang="en">Adhan-e-Asr</title>
+    <desc lang="en">Call to prayer.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3e04c8d7-003c-4fce-94b7-4919c8036d6d/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222154300 +0000" stop="20250222163000 +0000">
+    <title lang="en">Roop kothar Raat</title>
+    <desc lang="en">A special programme with Bangladeshi celebrity presented by Even Sair And Sarrbonno, produced by Kazi Mohammad Mostofa.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e9065745-4204-4773-a2ba-a52489e638eb/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222163000 +0000" stop="20250222170000 +0000">
+    <title lang="en">NTV NEWS-Shondhar Khobor</title>
+    <desc lang="en">NTV evening news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/39f0ac1c-0c52-4a5a-b29d-ad3b1658cb9b/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222170000 +0000" stop="20250222173000 +0000">
+    <title lang="en">Gallary</title>
+    <desc lang="en">Discussion on sports from around the world. Presented by Nasimul Hasan and produced by Saiful Islam Pollab.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dcd9f5b2-1487-453b-b39d-e3ca5d908f44/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222173000 +0000" stop="20250222173200 +0000">
+    <title lang="en">Crime Watch</title>
+    <desc lang="en">A reality show featuring different crime scenes.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Review</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1a89ba83-f482-4291-96ad-16b187b22a8b/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222173200 +0000" stop="20250222173700 +0000">
+    <title lang="en">Adhan-e-Maghrib</title>
+    <desc lang="en">Call to prayer.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/faf77b2f-1903-4f99-a514-c5ba2e87b85e/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222173700 +0000" stop="20250222180000 +0000">
+    <title lang="en">Crime Watch</title>
+    <desc lang="en">A reality show featuring different crime scenes.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Review</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ea4e4114-a632-495e-b013-e76764205fbb/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222180000 +0000" stop="20250222190000 +0000">
+    <title lang="en">Hello Medam</title>
+    <desc lang="en">Eid Special NTV Family Drama.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5c055e42-6f9f-4467-b580-8c75c2fb8a04/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222190000 +0000" stop="20250222190500 +0000">
+    <title lang="en">Adhan-e-Isha</title>
+    <desc lang="en">Call to prayer.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1fecb866-8f4e-439d-82b2-bfc029319952/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222190500 +0000" stop="20250222191500 +0000">
+    <title lang="en">NTV Evening News (ENGLISH</title>
+    <desc lang="en">News coverage on a daily basis focusing on contemporary issues.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cf7ecb99-bcd6-41bd-9850-16bac377736f/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222191500 +0000" stop="20250222200000 +0000">
+    <title lang="en">NTV NEWS-Rater Khobor</title>
+    <desc lang="en">NTV evening news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/062f50dc-4843-4376-abca-98cc40ed6107/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222200000 +0000" stop="20250222210000 +0000">
+    <title lang="en">Dangerous Girlfriend</title>
+    <desc lang="en">Bangla Natok Dangerous Girlfriend is starring Zaher Alvi,Samonty Shoumi and many more.Directed by Md.Kahhar Siddique.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/adec422e-faed-41d2-89aa-f89472174501/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222210000 +0000" stop="20250222213000 +0000">
+    <title lang="en">Kurulus Osman Gazi</title>
+    <desc lang="en">NTV Drama Serial.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c313957a-b162-4af7-afa6-e81275f1acd8/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222213000 +0000" stop="20250222220000 +0000">
+    <title lang="en">NTV NEWS-Moddhorater Khobor</title>
+    <desc lang="en">NTV midnight news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f6655b04-effc-4abf-b219-cef00a8eebcc/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222220000 +0000" stop="20250222223000 +0000">
+    <title lang="en">NTV Europe News</title>
+    <desc lang="en">NTV Europe News is being considered as the main news broadcast of NTV Europe which covers a range of contemporary issues across the globe including Britain and Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e4111ce2-41e4-4145-9ac6-d953df3ea1c4/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222223000 +0000" stop="20250222230000 +0000">
+    <title lang="en">Probashi Poribar</title>
+    <desc lang="en">Drama Serial starring Pran Roy, Maimuna Momo, Shamonty Shoumi, Milon Bhattacharya and many others. Written and directed by Maruf Hassan.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/330e0d70-fba3-469a-ac8a-76667d137e21/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250222230000 +0000" stop="20250223000000 +0000">
+    <title lang="en">Jamai Raja</title>
+    <desc lang="en">Eid Special NTV Single Drama.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e61b2b76-6f8f-4e1c-8bf2-7d71cbf93c89/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223000000 +0000" stop="20250223010000 +0000">
+    <title lang="en">Mitthar Raza</title>
+    <desc lang="en">Bangla Movie.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e0090dd7-62cc-459d-bdeb-35931d2b3eff/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223010000 +0000" stop="20250223013000 +0000">
+    <title lang="en">NTV NEWS-Moddhorater Khobor</title>
+    <desc lang="en">NTV midnight news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/48a63955-1568-4742-9495-e3aed2acd2e0/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223013000 +0000" stop="20250223033000 +0000">
+    <title lang="en">Mitthar Raza</title>
+    <desc lang="en">Bangla Movie.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5be6f506-cc85-4d0c-907c-eca6ab3330ca/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223033000 +0000" stop="20250223040000 +0000">
+    <title lang="en">Crime Watch</title>
+    <desc lang="en">A reality show featuring different crime scenes.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Review</category>
+    <icon src="https://images.metadata.sky.com/pd-image/25ec5812-1349-4867-bb70-567e09a636d7/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223040000 +0000" stop="20250223043000 +0000">
+    <title lang="en">Kurulus Osman Gazi</title>
+    <desc lang="en">NTV Drama Serial.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/98a7ab11-da72-4752-ad8e-ee46b2997d91/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223043000 +0000" stop="20250223050000 +0000">
+    <title lang="en">Probashi Poribar</title>
+    <desc lang="en">Drama Serial starring Pran Roy, Maimuna Momo, Shamonty Shoumi, Milon Bhattacharya and many others. Written and directed by Maruf Hassan.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4cbdd641-970e-49b7-b622-dc37f2d3d85d/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223050000 +0000" stop="20250223051800 +0000">
+    <title lang="en">Jamai Raja</title>
+    <desc lang="en">Eid Special NTV Single Drama.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fde65dca-317d-43b6-a36e-c77a285afb07/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223051800 +0000" stop="20250223052300 +0000">
+    <title lang="en">Adhan-a-Fajr</title>
+    <desc lang="en">Call to prayer.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d8e69808-8389-43dd-9435-7c3f2f475a1f/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223052300 +0000" stop="20250223060000 +0000">
+    <title lang="en">Jamai Raja</title>
+    <desc lang="en">Eid Special NTV Single Drama.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dcc50e52-c03c-44f8-b031-22f137c016d9/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223060000 +0000" stop="20250223063000 +0000">
+    <title lang="en">Apnar Jiggasha</title>
+    <desc lang="en">An informative Islamic programme produced by Saifullah Saif.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f97a81a7-52b2-4836-a149-bb7351f37982/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223063000 +0000" stop="20250223070000 +0000">
+    <title lang="en">Shastho Protidin</title>
+    <desc lang="en">A health and environment based programme produced by Kazi Mohammad Mostafa.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Medical</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6bde60c0-d1e8-4273-be06-0fbfb0210f55/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223070000 +0000" stop="20250223073000 +0000">
+    <title lang="en">Ek Shobdey Quran</title>
+    <desc lang="en">A programme to learn the Holy Quran.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/04f8cbe4-d9a4-4c09-ac9a-be4199e9644a/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223073000 +0000" stop="20250223080000 +0000">
+    <title lang="en">Siddika Kabirs Recipe</title>
+    <desc lang="en">A cooking show featuring special recipes presented by Sharmin Nahar and directed by Sara Jaker.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2c493454-172f-402e-b56f-b33fe97c9dad/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223080000 +0000" stop="20250223083000 +0000">
+    <title lang="en">NTV Europe News</title>
+    <desc lang="en">NTV Europe News is being considered as the main news broadcast of NTV Europe which covers a range of contemporary issues across the globe including Britain and Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/091faed0-c4b3-4f65-bd59-c64cd8658197/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223083000 +0000" stop="20250223090000 +0000">
+    <title lang="en">Hingsha</title>
+    <desc lang="en">NTV Popular Bangla Movie.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ff9eb233-d15b-4896-b251-58be03288957/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223090000 +0000" stop="20250223093000 +0000">
+    <title lang="en">NTV NEWS- Sokaler Khobor</title>
+    <desc lang="en">NTV Morning News from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0b6e6e48-dd5b-4d9e-9b6a-82519e1668b9/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223093000 +0000" stop="20250223120000 +0000">
+    <title lang="en">Hingsha</title>
+    <desc lang="en">NTV Popular Bangla Movie.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3d9d0b16-d058-449a-97dc-fe06da915260/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223120000 +0000" stop="20250223121900 +0000">
+    <title lang="en">NTV NEWS-Dupurer Khobor</title>
+    <desc lang="en">NTV afternoon news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/49b77a7b-4ac9-48b2-ae8d-e3d0b7ca096d/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223121900 +0000" stop="20250223122400 +0000">
+    <title lang="en">Adhan-e-Zuhr</title>
+    <desc lang="en">Call to prayer.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4f7118af-cb43-4f6c-8e42-4ef654b95663/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223122400 +0000" stop="20250223123000 +0000">
+    <title lang="en">NTV NEWS-Dupurer Khobor</title>
+    <desc lang="en">NTV afternoon news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2aaa27f9-7217-4f8b-b625-ade41c1b5ad2/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223123000 +0000" stop="20250223140000 +0000">
+    <title lang="en">Golper Elish</title>
+    <desc lang="en">NTV Popular Bangla Telefilm.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cce9ebe0-ab6a-4d4a-a95b-0e25f811de3d/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223140000 +0000" stop="20250223143000 +0000">
+    <title lang="en">Shahjalal Madrasha Trust</title>
+    <desc lang="en">A documentary by Shahjalal Madrasha &amp; Eatim Khana in Sulemanpur, Sunamgonj. madrasha trust Providing over 500 poor and orphan students food, clothes and accommodation.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bb36882e-b28a-4175-b64b-f3d774009694/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223143000 +0000" stop="20250223150000 +0000">
+    <title lang="en">Desher Khobor</title>
+    <desc lang="en">NTV local news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e9080fac-51c2-43d7-9d3b-7ccf55e12f62/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223150000 +0000" stop="20250223154000 +0000">
+    <title lang="en">A Lagan Gaan Shunabar</title>
+    <desc lang="en">NTV Musical Show.</desc>
+    <category lang="en">Music &amp; Radio</category>
+    <category lang="en">Classical</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b44a46d6-8c5b-443a-8b39-3a439a971087/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223154000 +0000" stop="20250223154500 +0000">
+    <title lang="en">Adhan-e-Asr</title>
+    <desc lang="en">Call to prayer.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/36ac37f3-bf1f-4cd4-a296-03909695bb3a/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223154500 +0000" stop="20250223163000 +0000">
+    <title lang="en">A Lagan Gaan Shunabar</title>
+    <desc lang="en">NTV Musical Show.</desc>
+    <category lang="en">Music &amp; Radio</category>
+    <category lang="en">Classical</category>
+    <icon src="https://images.metadata.sky.com/pd-image/36f4b87b-93f6-4757-a7d8-4b3d59dba6bf/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223163000 +0000" stop="20250223170000 +0000">
+    <title lang="en">NTV NEWS-Shondhar Khobor</title>
+    <desc lang="en">NTV evening news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c57eab8a-63d0-4295-b760-60cf55079201/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223170000 +0000" stop="20250223173000 +0000">
+    <title lang="en">Todays Kitchen</title>
+    <desc lang="en">A cooking show featuring special recipes.Directed by Abu Rayhan Jewel.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e73e5df5-c686-467e-ad7a-59571335d7a1/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223173000 +0000" stop="20250223180000 +0000">
+    <title lang="en">Biggane Anandho</title>
+    <desc lang="en">An educational and informative science and technology program, explores cutting-edge scientific and technological advancements destined to change the way we live.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Science</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7cd14722-47f0-40cd-9653-131e51889e17/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223180000 +0000" stop="20250223190000 +0000">
+    <title lang="en">Talking Point</title>
+    <desc lang="en">A talk show with intellectuals based on different current and important issues.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Chat Show</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2dc3ae06-4824-41fc-aa4a-9a7a6936731d/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223190000 +0000" stop="20250223191500 +0000">
+    <title lang="en">NTV Evening News (ENGLISH</title>
+    <desc lang="en">News coverage on a daily basis focusing on contemporary issues.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f1e45ff1-6ae5-4581-9ed6-2fdb4e297ed3/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223191500 +0000" stop="20250223200000 +0000">
+    <title lang="en">NTV NEWS-Rater Khobor</title>
+    <desc lang="en">NTV evening news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d74a7c70-4255-4d07-be09-e2defdddfcd5/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223200000 +0000" stop="20250223210000 +0000">
+    <title lang="en">Premik Leader</title>
+    <desc lang="en">Eid Special Single Drama.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/950ebf0c-bd00-412b-b42f-0df64924dce5/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223210000 +0000" stop="20250223213000 +0000">
+    <title lang="en">Kurulus Osman Gazi</title>
+    <desc lang="en">NTV Drama Serial.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6c3e01b5-9416-4970-9139-6c735c554ba9/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223213000 +0000" stop="20250223220000 +0000">
+    <title lang="en">NTV NEWS-Moddhorater Khobor</title>
+    <desc lang="en">NTV midnight news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b0ab5fc9-d84d-4712-af64-dd1253685f18/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223220000 +0000" stop="20250223223000 +0000">
+    <title lang="en">NTV Europe News</title>
+    <desc lang="en">NTV Europe News is being considered as the main news broadcast of NTV Europe which covers a range of contemporary issues across the globe including Britain and Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7368c12c-cd6e-484a-82ec-ed432a81dd6e/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223223000 +0000" stop="20250223230000 +0000">
+    <title lang="en">Probashi Poribar</title>
+    <desc lang="en">Drama Serial starring Pran Roy, Maimuna Momo, Shamonty Shoumi, Milon Bhattacharya and many others. Written and directed by Maruf Hassan.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6b2f9ca5-7765-46a1-ae47-bb0592e33684/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250223230000 +0000" stop="20250224000000 +0000">
+    <title lang="en">Aey Shomoy</title>
+    <desc lang="en">A talk show featuring current Bangladeshi issues and affairs.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Chat Show</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1b844463-08e2-4e77-8c0e-c545cb7b14f9/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224000000 +0000" stop="20250224010000 +0000">
+    <title lang="en">Hingsha</title>
+    <desc lang="en">NTV Popular Bangla Movie.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f27f2bb3-4c68-4281-a174-ff56f6aa1d87/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224010000 +0000" stop="20250224013000 +0000">
+    <title lang="en">NTV NEWS-Moddhorater Khobor</title>
+    <desc lang="en">NTV midnight news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dd704874-181e-48c6-af44-1aab3c9cc7a6/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224013000 +0000" stop="20250224033000 +0000">
+    <title lang="en">Hingsha</title>
+    <desc lang="en">NTV Popular Bangla Movie.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8c377909-1896-42f6-8969-aa65567ee5db/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224033000 +0000" stop="20250224040000 +0000">
+    <title lang="en">Biggane Anandho</title>
+    <desc lang="en">An educational and informative science and technology program, explores cutting-edge scientific and technological advancements destined to change the way we live.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Science</category>
+    <icon src="https://images.metadata.sky.com/pd-image/46ecd785-312a-4b65-acde-01ec4e0abe8f/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224040000 +0000" stop="20250224043000 +0000">
+    <title lang="en">Kurulus Osman Gazi</title>
+    <desc lang="en">NTV Drama Serial.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f3f02df2-039d-4124-b011-cf29a03089b5/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224043000 +0000" stop="20250224050000 +0000">
+    <title lang="en">Probashi Poribar</title>
+    <desc lang="en">Drama Serial starring Pran Roy, Maimuna Momo, Shamonty Shoumi, Milon Bhattacharya and many others. Written and directed by Maruf Hassan.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c866d6ce-cb12-4539-8f78-0c70aa0b9a0e/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224050000 +0000" stop="20250224051600 +0000">
+    <title lang="en">Todays Kitchen</title>
+    <desc lang="en">A cooking show featuring special recipes.Directed by Abu Rayhan Jewel.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9eb28cd8-3f44-4ead-a9a7-d05edb7cdf59/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224051600 +0000" stop="20250224052100 +0000">
+    <title lang="en">Adhan-a-Fajr</title>
+    <desc lang="en">Call to prayer.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/af050dfe-ea54-45d6-948c-22fbe760cceb/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224052100 +0000" stop="20250224053000 +0000">
+    <title lang="en">Todays Kitchen</title>
+    <desc lang="en">A cooking show featuring special recipes.Directed by Abu Rayhan Jewel.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://images.metadata.sky.com/pd-image/06063abe-4e8e-4062-a009-c44bd85b239f/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224053000 +0000" stop="20250224060000 +0000">
+    <title lang="en">Gallary</title>
+    <desc lang="en">Discussion on sports from around the world. Presented by Nasimul Hasan and produced by Saiful Islam Pollab.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2c985503-ce75-448c-8455-2b8ac234771a/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224060000 +0000" stop="20250224063000 +0000">
+    <title lang="en">Apnar Jiggasha</title>
+    <desc lang="en">An informative Islamic programme produced by Saifullah Saif.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dc94576a-63d8-489d-a48d-e0f89b9f9eb9/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224063000 +0000" stop="20250224070000 +0000">
+    <title lang="en">Shastho Protidin</title>
+    <desc lang="en">A health and environment based programme produced by Kazi Mohammad Mostafa.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Medical</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b469ced0-16eb-473a-9010-7c1c2074683f/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224070000 +0000" stop="20250224073000 +0000">
+    <title lang="en">Ek Shobdey Quran</title>
+    <desc lang="en">A programme to learn the Holy Quran.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cf59ae32-aa85-40b7-a89d-d464748a62d0/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224073000 +0000" stop="20250224080000 +0000">
+    <title lang="en">Siddika Kabirs Recipe</title>
+    <desc lang="en">A cooking show featuring special recipes presented by Sharmin Nahar and directed by Sara Jaker.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f764b4c3-5418-4da3-ab8e-8fcb2d635581/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224080000 +0000" stop="20250224083000 +0000">
+    <title lang="en">NTV Europe News</title>
+    <desc lang="en">NTV Europe News is being considered as the main news broadcast of NTV Europe which covers a range of contemporary issues across the globe including Britain and Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/874d1bbd-c278-4516-8bc2-d438c5766750/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224083000 +0000" stop="20250224090000 +0000">
+    <title lang="en">Ma Baba Bhai Bon</title>
+    <desc lang="en">Drama Serial Ma Baba Bhai Bon is starring Shahiduzzaman Selim, Saberi Alam Motaher, Shabnam Faria, Tamim Mridha, Tasnuva Tisha.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/25f3d559-4030-4167-834e-a13109458854/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224090000 +0000" stop="20250224093000 +0000">
+    <title lang="en">NTV NEWS- Sokaler Khobor</title>
+    <desc lang="en">NTV Morning News from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6c131b47-8e7e-467c-8a40-7f331269698c/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224093000 +0000" stop="20250224110000 +0000">
+    <title lang="en">Criminal Justice</title>
+    <desc lang="en">A live programme featuring discussion on various legal topics with expert lawyers. Viewers can phone in and ask questions. Produced by Robin Hyder khan.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Feature</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b58492d5-e807-48fb-8aeb-7038c04f0dbe/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224110000 +0000" stop="20250224120000 +0000">
+    <title lang="en">Ek Takar Chele Kuti Takar Meye</title>
+    <desc lang="en">A Special Bangla Movie from NTV Archive.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b21dea4e-fc37-41a3-ba17-0d5b284e30c3/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224120000 +0000" stop="20250224121900 +0000">
+    <title lang="en">NTV NEWS-Dupurer Khobor</title>
+    <desc lang="en">NTV afternoon news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/aaacdf2c-bab9-49b1-afd5-102a5189b53f/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224121900 +0000" stop="20250224122400 +0000">
+    <title lang="en">Adhan-e-Zuhr</title>
+    <desc lang="en">Call to prayer.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0a519e43-b808-42c4-b184-0d49591c7f5a/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224122400 +0000" stop="20250224123000 +0000">
+    <title lang="en">NTV NEWS-Dupurer Khobor</title>
+    <desc lang="en">NTV afternoon news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/032ae243-1058-4bd9-8abc-13834e3bd174/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224123000 +0000" stop="20250224140000 +0000">
+    <title lang="en">Ek Takar Chele Kuti Takar Meye</title>
+    <desc lang="en">A Special Bangla Movie from NTV Archive.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e1ee17b3-51e2-4d7f-9263-5e45b8b96f0d/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224140000 +0000" stop="20250224143000 +0000">
+    <title lang="en">Shahjalal Madrasha Trust</title>
+    <desc lang="en">A documentary by Shahjalal Madrasha &amp; Eatim Khana in Sulemanpur, Sunamgonj. madrasha trust Providing over 500 poor and orphan students food, clothes and accommodation.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a8904bb6-973e-4708-87a4-e4f9f1221bde/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224143000 +0000" stop="20250224150000 +0000">
+    <title lang="en">Desher Khobor</title>
+    <desc lang="en">NTV local news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2d930bf6-be78-4d15-b880-76c38446b5e7/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224150000 +0000" stop="20250224150600 +0000">
+    <title lang="en">Ei Jibon</title>
+    <desc lang="en">NTV Popular Bangla Telefilm.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/924af0df-52ce-4a2c-b101-9fa0774de851/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224150600 +0000" stop="20250224151100 +0000">
+    <title lang="en">Adhan-e-Asr</title>
+    <desc lang="en">Call to prayer.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0bc5264d-cfac-4e90-9427-9fa98f52f1f1/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224151100 +0000" stop="20250224163000 +0000">
+    <title lang="en">Ei Jibon</title>
+    <desc lang="en">NTV Popular Bangla Telefilm.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fc4cc3da-93af-49cc-b286-97851090b06d/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224163000 +0000" stop="20250224165700 +0000">
+    <title lang="en">NTV NEWS-Shondhar Khobor</title>
+    <desc lang="en">NTV evening news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/18394abe-295f-49e4-b520-1c2916fd220f/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224165700 +0000" stop="20250224170000 +0000">
+    <title lang="en">Adhan-e-Maghrib</title>
+    <desc lang="en">Call to prayer.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/da02d1d9-7ce4-45ec-ac74-73a496a34e63/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224170000 +0000" stop="20250224180000 +0000">
+    <title lang="en">Tafsirul Quran</title>
+    <desc lang="en">An explanation of the Noble Qur?an e Kareem, discussing the history, context and linguistic background, to further understand Islam and Sharia. Presented by Syed Moulana Shamsuzzaman.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/367e2b68-a722-4e7d-8d37-afe924d0db6f/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224180000 +0000" stop="20250224183100 +0000">
+    <title lang="en">Shomoyer Shathe</title>
+    <desc lang="en">A live talk show based on contemporary issues. Participants include renowned political and community personalities.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e316de3e-6906-4e43-96b3-1001d2d0e705/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224183100 +0000" stop="20250224183600 +0000">
+    <title lang="en">Adhan-e-Isha</title>
+    <desc lang="en">Call to prayer.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7a390ed7-3056-4cb7-8b44-03047aee8746/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224183600 +0000" stop="20250224190000 +0000">
+    <title lang="en">Shomoyer Shathe</title>
+    <desc lang="en">A live talk show based on contemporary issues. Participants include renowned political and community personalities.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ab9dfbf2-d0c3-4069-bd78-38614f10b548/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224190000 +0000" stop="20250224191500 +0000">
+    <title lang="en">NTV Evening News (ENGLISH</title>
+    <desc lang="en">News coverage on a daily basis focusing on contemporary issues.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/15bdf3b8-e5fa-4fb5-9b83-6d2e2f646406/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224191500 +0000" stop="20250224200000 +0000">
+    <title lang="en">NTV NEWS-Rater Khobor</title>
+    <desc lang="en">NTV evening news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/36c74425-ab9a-4878-b46c-f7b0df032a8d/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224200000 +0000" stop="20250224210000 +0000">
+    <title lang="en">Property Show with Kazi Arif</title>
+    <desc lang="en">A live informative and expert advice programme on property.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Business</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ffb93ffa-f2f5-47d5-87c4-1cd368bbc932/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224210000 +0000" stop="20250224213000 +0000">
+    <title lang="en">Kurulus Osman Gazi</title>
+    <desc lang="en">NTV Drama Serial.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9ecd09f3-cdd4-4811-ae90-6500f22a2253/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224213000 +0000" stop="20250224220000 +0000">
+    <title lang="en">NTV NEWS-Moddhorater Khobor</title>
+    <desc lang="en">NTV midnight news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5cd4bbf4-634a-4886-ad31-a2a98a56eac9/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224220000 +0000" stop="20250224223000 +0000">
+    <title lang="en">NTV Europe News</title>
+    <desc lang="en">NTV Europe News is being considered as the main news broadcast of NTV Europe which covers a range of contemporary issues across the globe including Britain and Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/456af16a-38a3-4c10-a9a0-6864379d3727/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224223000 +0000" stop="20250224230000 +0000">
+    <title lang="en">Faul</title>
+    <desc lang="en">NTV Popular Drama Serial Sharaf Ahmed Jibon, Abdullah Rana, Ashraf Supto, Musafir Syed Bachu, Tanha Tasnia, Saddam Mal, Hannan Shelly, Zara Zoya, and many more. Directed by Taifur Jahan Asik.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/40b67a80-9fdb-45e9-902f-9c09a86aeb42/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250224230000 +0000" stop="20250225000000 +0000">
+    <title lang="en">Aey Shomoy</title>
+    <desc lang="en">A talk show featuring current Bangladeshi issues and affairs.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Chat Show</category>
+    <icon src="https://images.metadata.sky.com/pd-image/10f47ba2-dae3-4c32-8a73-a0d924b2f815/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225000000 +0000" stop="20250225010000 +0000">
+    <title lang="en">Ek Takar Chele Kuti Takar Meye</title>
+    <desc lang="en">A Special Bangla Movie from NTV Archive.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2ae5610e-a874-4de4-83b5-8f6452fb8cfd/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225010000 +0000" stop="20250225013000 +0000">
+    <title lang="en">NTV NEWS-Moddhorater Khobor</title>
+    <desc lang="en">NTV midnight news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/95392899-0e4c-4e62-bca5-70e37ddbed74/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225013000 +0000" stop="20250225033000 +0000">
+    <title lang="en">Ek Takar Chele Kuti Takar Meye</title>
+    <desc lang="en">A Special Bangla Movie from NTV Archive.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c2e4c4c3-4088-445c-a327-81a2e4334efa/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225033000 +0000" stop="20250225040000 +0000">
+    <title lang="en">Onnorokom Golpo</title>
+    <desc lang="en">A news and current affairs weekly review from around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">World Affairs</category>
+    <icon src="https://images.metadata.sky.com/pd-image/97306898-7922-4264-b7ac-a33c1a71d91b/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225040000 +0000" stop="20250225043000 +0000">
+    <title lang="en">Kurulus Osman Gazi</title>
+    <desc lang="en">NTV Drama Serial.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0671cf3b-39aa-4b4d-a892-ee269cb58b21/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225043000 +0000" stop="20250225050000 +0000">
+    <title lang="en">Faul</title>
+    <desc lang="en">NTV Popular Drama Serial Sharaf Ahmed Jibon, Abdullah Rana, Ashraf Supto, Musafir Syed Bachu, Tanha Tasnia, Saddam Mal, Hannan Shelly, Zara Zoya, and many more. Directed by Taifur Jahan Asik.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a7150a59-fc3f-4791-8672-db001d794465/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225050000 +0000" stop="20250225053000 +0000">
+    <title lang="en">Gallary</title>
+    <desc lang="en">Discussion on sports from around the world. Presented by Nasimul Hasan and produced by Saiful Islam Pollab.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5819b647-84b1-4d81-af1b-284f9ce22838/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225053000 +0000" stop="20250225055400 +0000">
+    <title lang="en">Todays Kitchen</title>
+    <desc lang="en">A cooking show featuring special recipes.Directed by Abu Rayhan Jewel.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a87ad62f-5091-4ea7-84bb-7b3a988d1b6e/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225055400 +0000" stop="20250225060000 +0000">
+    <title lang="en">Adhan-a-Fajr</title>
+    <desc lang="en">Call to prayer.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/26040af5-ced4-47f7-b15e-a38fda1bb77e/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225060000 +0000" stop="20250225063000 +0000">
+    <title lang="en">Apnar Jiggasha</title>
+    <desc lang="en">An informative Islamic programme produced by Saifullah Saif.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/14f236b4-ba74-41c2-825d-922bfb51b657/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225063000 +0000" stop="20250225070000 +0000">
+    <title lang="en">Shastho Protidin</title>
+    <desc lang="en">A health and environment based programme produced by Kazi Mohammad Mostafa.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Medical</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4a0214a2-46c4-4c96-bcbc-9307224045ef/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225070000 +0000" stop="20250225073000 +0000">
+    <title lang="en">Ek Shobdey Quran</title>
+    <desc lang="en">A programme to learn the Holy Quran.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b0b7a51d-02df-4a7e-a6cd-7c4b981c06c1/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225073000 +0000" stop="20250225080000 +0000">
+    <title lang="en">Siddika Kabirs Recipe</title>
+    <desc lang="en">A cooking show featuring special recipes presented by Sharmin Nahar and directed by Sara Jaker.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1ac28bae-da12-4fd7-a8c8-e481abe97e68/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225080000 +0000" stop="20250225083000 +0000">
+    <title lang="en">NTV Europe News</title>
+    <desc lang="en">NTV Europe News is being considered as the main news broadcast of NTV Europe which covers a range of contemporary issues across the globe including Britain and Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f101f876-6e0e-46da-95e9-b2b2af856e44/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225083000 +0000" stop="20250225090000 +0000">
+    <title lang="en">Ma Baba Bhai Bon</title>
+    <desc lang="en">Drama Serial Ma Baba Bhai Bon is starring Shahiduzzaman Selim, Saberi Alam Motaher, Shabnam Faria, Tamim Mridha, Tasnuva Tisha.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d72cad72-830c-42e4-8055-a57e5071aa7e/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225090000 +0000" stop="20250225093000 +0000">
+    <title lang="en">NTV NEWS- Sokaler Khobor</title>
+    <desc lang="en">NTV Morning News from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f860ed79-80bb-46a2-b48f-b6aa6faa7b34/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225093000 +0000" stop="20250225110000 +0000">
+    <title lang="en">Ei Jibon</title>
+    <desc lang="en">NTV Popular Bangla Telefilm.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/341413b4-8c43-482c-87ea-03ba3db5b792/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225110000 +0000" stop="20250225120000 +0000">
+    <title lang="en">A Choke Sudho Tumi</title>
+    <desc lang="en">Popular Bangla Movie.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5a6181e2-be65-470f-9323-7c4e22653f65/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225120000 +0000" stop="20250225122000 +0000">
+    <title lang="en">NTV NEWS-Dupurer Khobor</title>
+    <desc lang="en">NTV afternoon news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/95783a36-86a0-4135-9d3d-9e0d3f539b2c/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225122000 +0000" stop="20250225122500 +0000">
+    <title lang="en">Adhan-e-Zuhr</title>
+    <desc lang="en">Call to prayer.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d6b947fb-2367-449c-b8ca-d023b7b5741f/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225122500 +0000" stop="20250225123000 +0000">
+    <title lang="en">NTV NEWS-Dupurer Khobor</title>
+    <desc lang="en">NTV afternoon news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e121ee70-abcd-4c98-8d23-70d459d6399e/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225123000 +0000" stop="20250225140000 +0000">
+    <title lang="en">A Choke Sudho Tumi</title>
+    <desc lang="en">Popular Bangla Movie.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9cad91e5-b4b9-403f-9d4f-1f4c6d8d632e/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225140000 +0000" stop="20250225143000 +0000">
+    <title lang="en">Shahjalal Madrasha Trust</title>
+    <desc lang="en">A documentary by Shahjalal Madrasha &amp; Eatim Khana in Sulemanpur, Sunamgonj. madrasha trust Providing over 500 poor and orphan students food, clothes and accommodation.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2b8d1c57-ecbc-4c73-89a1-f7c6f0e088a1/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225143000 +0000" stop="20250225150000 +0000">
+    <title lang="en">Desher Khobor</title>
+    <desc lang="en">NTV local news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cc5fe3ec-be45-4473-b33e-67d5e5ca6fd2/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225150000 +0000" stop="20250225150800 +0000">
+    <title lang="en">Amra Hotash</title>
+    <desc lang="en">NTV Special Eid Telefilm Starring Mosharraf Karim, Jui Karim, Alif Chowdhury, Nila Islam And Many more. Directed by Taifur Jahan Ashik.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/da7bc3eb-a64b-4159-8bd2-1a5a4f7eb484/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225150800 +0000" stop="20250225151300 +0000">
+    <title lang="en">Adhan-e-Asr</title>
+    <desc lang="en">Call to prayer.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/181e987a-d585-422b-8b27-5d7a9dad682b/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225151300 +0000" stop="20250225163000 +0000">
+    <title lang="en">Amra Hotash</title>
+    <desc lang="en">NTV Special Eid Telefilm Starring Mosharraf Karim, Jui Karim, Alif Chowdhury, Nila Islam And Many more. Directed by Taifur Jahan Ashik.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6ec8ba80-2286-40e9-9d31-dc5248beb630/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225163000 +0000" stop="20250225165900 +0000">
+    <title lang="en">NTV NEWS-Shondhar Khobor</title>
+    <desc lang="en">NTV evening news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5ad79275-72f6-4810-8947-81a4de9b8749/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225165900 +0000" stop="20250225170400 +0000">
+    <title lang="en">Adhan-e-Maghrib</title>
+    <desc lang="en">Call to prayer.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4dc2c800-7265-4ed3-ac01-b2ddafa71518/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225170400 +0000" stop="20250225173000 +0000">
+    <title lang="en">Ganer Bazar</title>
+    <desc lang="en">Music Show: Ganer Bazar - Produced by NTV.</desc>
+    <category lang="en">Music &amp; Radio</category>
+    <category lang="en">Classical</category>
+    <icon src="https://images.metadata.sky.com/pd-image/28428399-6487-4a62-8de9-fba89067691d/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225173000 +0000" stop="20250225180000 +0000">
+    <title lang="en">Glamour World</title>
+    <desc lang="en">A magazine show featuring current world of Hollywood and Bollywood updates.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bc5310ea-43f0-4b02-9720-ad0f887c5b15/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225180000 +0000" stop="20250225183300 +0000">
+    <title lang="en">Bileter Alap</title>
+    <desc lang="en">A live programme focusing on current and community issues.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Chat Show</category>
+    <icon src="https://images.metadata.sky.com/pd-image/74c541d5-2628-4237-80d4-e7ffedf0b2f3/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225183300 +0000" stop="20250225183800 +0000">
+    <title lang="en">Adhan-e-Isha</title>
+    <desc lang="en">Call to prayer.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3e5e7200-af7a-4141-87d1-79fe42c4870b/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225183800 +0000" stop="20250225190000 +0000">
+    <title lang="en">Bileter Alap</title>
+    <desc lang="en">A live programme focusing on current and community issues.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Chat Show</category>
+    <icon src="https://images.metadata.sky.com/pd-image/990e16ca-469d-4dff-b2bc-7a6ce4cd745f/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225190000 +0000" stop="20250225191500 +0000">
+    <title lang="en">NTV Evening News (ENGLISH</title>
+    <desc lang="en">News coverage on a daily basis focusing on contemporary issues.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bc188a44-4d03-4d30-964c-4fd439aa2704/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225191500 +0000" stop="20250225200000 +0000">
+    <title lang="en">NTV NEWS-Rater Khobor</title>
+    <desc lang="en">NTV evening news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0a43bbda-d90b-4a9f-8bdc-2f414dc43caa/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225200000 +0000" stop="20250225210000 +0000">
+    <title lang="en">Ditio Matra</title>
+    <desc lang="en">A live show regarding law by Molla Mahfuz Islam and Kowsar Qurashi.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Educational</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8ed47980-bdc3-42a1-ba96-f3ad0ceb490b/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225210000 +0000" stop="20250225213000 +0000">
+    <title lang="en">Kurulus Osman Gazi</title>
+    <desc lang="en">NTV Drama Serial.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b5120897-f89c-437c-8ff1-8b1ff76c86ba/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225213000 +0000" stop="20250225220000 +0000">
+    <title lang="en">NTV NEWS-Moddhorater Khobor</title>
+    <desc lang="en">NTV midnight news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f1f659a5-5a50-4c92-a978-f8f85837feb0/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225220000 +0000" stop="20250225223000 +0000">
+    <title lang="en">NTV Europe News</title>
+    <desc lang="en">NTV Europe News is being considered as the main news broadcast of NTV Europe which covers a range of contemporary issues across the globe including Britain and Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7ad3d90c-1bdc-4070-9358-906e4a46397a/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225223000 +0000" stop="20250225230000 +0000">
+    <title lang="en">Faul</title>
+    <desc lang="en">NTV Popular Drama Serial Sharaf Ahmed Jibon, Abdullah Rana, Ashraf Supto, Musafir Syed Bachu, Tanha Tasnia, Saddam Mal, Hannan Shelly, Zara Zoya, and many more. Directed by Taifur Jahan Asik.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8c464b6f-af27-432b-b586-bf0948281f89/16-9" />
+  </programme>
+  <programme channel="NTV.uk" start="20250225230000 +0000" stop="20250226000000 +0000">
+    <title lang="en">Aey Shomoy</title>
+    <desc lang="en">A talk show featuring current Bangladeshi issues and affairs.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Chat Show</category>
+    <icon src="https://images.metadata.sky.com/pd-image/680f119d-eb09-471d-bf3f-af8187e5979c/16-9" />
+  </programme>
