@@ -1,1 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="none" generator-info-url="none">
+  <channel id="AlJazeera.Arabic.net">
+    <display-name lang="en">AlJazeera Arabic</display-name>
+    <icon src="http://www.aljazeera.com/mritems/assets/images/aj-logo-lg.png" />
+    <icon src="http://www.aljazeera.com/mritems/assets/images/aj-logo-lg.png" />
+    <url>http://www.aljazeera.com</url>
+  </channel>
+  <channel id="AlJazeera.English.net">
+    <display-name lang="en">AlJazeera English</display-name>
+    <icon src="http://www.aljazeera.com/mritems/assets/images/aj-logo-lg.png" />
+    <icon src="http://www.aljazeera.com/mritems/assets/images/aj-logo-lg.png" />
+    <url>http://www.aljazeera.com</url>
+  </channel>
+  <programme start="20250224000000 +0100" stop="20250224020000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250224020000 +0100" stop="20250224030000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250224030000 +0100" stop="20250224050000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250224050000 +0100" stop="20250224060000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">موجز الأخبار</title>
+    <desc lang="en">موجز لأهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250224060000 +0100" stop="20250224070000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250224070000 +0100" stop="20250224080000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250224080000 +0100" stop="20250224090000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250224090000 +0100" stop="20250224100000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250224100000 +0100" stop="20250224110000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250224110000 +0100" stop="20250224140000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250224140000 +0100" stop="20250224150000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250224150000 +0100" stop="20250224180000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250224180000 +0100" stop="20250224190000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">موجز الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250224190000 +0100" stop="20250224210000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250224210000 +0100" stop="20250224230000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250224230000 +0100" stop="20250225000000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">الحصاد</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250225000000 +0100" stop="20250225020000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250225020000 +0100" stop="20250225030000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250225030000 +0100" stop="20250225040000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">موجز الأخبار</title>
+    <desc lang="en">موجز لأهم الأنباء العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250225040000 +0100" stop="20250225050000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250225050000 +0100" stop="20250225060000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250225060000 +0100" stop="20250225070000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250225070000 +0100" stop="20250225080000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250225080000 +0100" stop="20250225090000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250225090000 +0100" stop="20250225100000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">موجز الأخبار</title>
+    <desc lang="en">موجز لأهم الأنباء العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250225100000 +0100" stop="20250225110000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">موجز الأخبار</title>
+    <desc lang="en">موجز لأهم الأنباء العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250225110000 +0100" stop="20250225140000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250225140000 +0100" stop="20250225150000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250225150000 +0100" stop="20250225180000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">الجزيرة منتصف اليوم</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250225180000 +0100" stop="20250225190000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الاخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250225190000 +0100" stop="20250225200000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250225200000 +0100" stop="20250225210000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250225210000 +0100" stop="20250225230000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الاخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250225230000 +0100" stop="20250226000000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">الحصاد</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250226000000 +0100" stop="20250226020000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250226020000 +0100" stop="20250226030000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250226030000 +0100" stop="20250226040000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250226040000 +0100" stop="20250226050000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250226050000 +0100" stop="20250226060000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250226060000 +0100" stop="20250226070000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250226070000 +0100" stop="20250226080000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250226080000 +0100" stop="20250226090000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250226090000 +0100" stop="20250226100000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250226100000 +0100" stop="20250226110000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250226110000 +0100" stop="20250226140000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250226140000 +0100" stop="20250226150000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250226150000 +0100" stop="20250226180000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">الجزيرة منتصف اليوم</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250226180000 +0100" stop="20250226190000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250226190000 +0100" stop="20250226200000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250226200000 +0100" stop="20250226210000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250226210000 +0100" stop="20250226230000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250226230000 +0100" stop="20250227000000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">الحصاد</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250227000000 +0100" stop="20250227015600 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250227015600 +0100" stop="20250227020000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">النشرة الجوية</title>
+    <desc lang="en">الطقس والأحوال الجوية.</desc>
+  </programme>
+  <programme start="20250227020000 +0100" stop="20250227030000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250227030000 +0100" stop="20250227040000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250227040000 +0100" stop="20250227050000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250227050000 +0100" stop="20250227060000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250227060000 +0100" stop="20250227070000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250227070000 +0100" stop="20250227080000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250227080000 +0100" stop="20250227090000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250227090000 +0100" stop="20250227100000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250227100000 +0100" stop="20250227110000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250227110000 +0100" stop="20250227140000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250227140000 +0100" stop="20250227150000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250227150000 +0100" stop="20250227190000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250227190000 +0100" stop="20250227200000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250227200000 +0100" stop="20250227210000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250227210000 +0100" stop="20250227230000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">نشرة الأخبار</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250227230000 +0100" stop="20250228000000 +0100" channel="AlJazeera.Arabic.net">
+    <title lang="en">الحصاد</title>
+    <desc lang="en">جولة في أهم الأحداث العربية والعالمية.</desc>
+  </programme>
+  <programme start="20250224000000 +0100" stop="20250224003000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224003000 +0100" stop="20250224010000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20250224010000 +0100" stop="20250224013000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">The Bottom Line : Can the Ukraine War End Without Europe?</title>
+    <desc lang="en">Ukraine analysts Melinda Harding and Anatol Lieven debate the merits of the new U.S. strategy for Ukraine and Europe.</desc>
+  </programme>
+  <programme start="20250224013000 +0100" stop="20250224020000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">The Fans Who Make Football : Celtic FC</title>
+    <desc lang="en">Celtic F.C. has some of the most passionate fans in the world but their cause goes beyond sport and stands in the face of history’s greatest human rights issues.</desc>
+  </programme>
+  <programme start="20250224020000 +0100" stop="20250224023000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224023000 +0100" stop="20250224030000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">The Stream : Invisible Disabilities - Raising Awareness</title>
+    <desc lang="en">Today on The Stream: We explore the challenges faced by individuals living with invisible disabilities.</desc>
+  </programme>
+  <programme start="20250224030000 +0100" stop="20250224033000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224033000 +0100" stop="20250224040000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Counting the Cost</title>
+    <desc lang="en">Will Trump's tariffs push up inflation and rewrite trade rules?</desc>
+  </programme>
+  <programme start="20250224040000 +0100" stop="20250224043000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224043000 +0100" stop="20250224050000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Talk to Al Jazeera : In The Field - Tajikistan's glacial crisis</title>
+    <desc lang="en">Racing against time in Central Asia's melting heart.</desc>
+  </programme>
+  <programme start="20250224050000 +0100" stop="20250224053000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224053000 +0100" stop="20250224060000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20250224060000 +0100" stop="20250224063000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224063000 +0100" stop="20250224070000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Africa's New Directions : Offensive Agricole - Burkina Faso</title>
+    <desc lang="en">Burkina Faso has started an agricultural development strategy to achieve food sovereignty by 2025.</desc>
+  </programme>
+  <programme start="20250224070000 +0100" stop="20250224080000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224080000 +0100" stop="20250224083000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224083000 +0100" stop="20250224090000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Boycott : Part One - The Bill</title>
+    <desc lang="en">A 3-part series about US anti-boycott laws and the implications for freedom of speech. Part One introduces three landmark cases that challenge the legislation.</desc>
+  </programme>
+  <programme start="20250224090000 +0100" stop="20250224093000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224093000 +0100" stop="20250224100000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">UpFront</title>
+    <desc lang="en">Marc Lamont Hill talks to historian Nina Krushcheva about what a Trump-brokered peace deal with Russia means for Ukraine and Europe.</desc>
+  </programme>
+  <programme start="20250224100000 +0100" stop="20250224110000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224110000 +0100" stop="20250224113000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224113000 +0100" stop="20250224120000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20250224120000 +0100" stop="20250224130000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Witness : The Lost Film of Panama</title>
+    <desc lang="en">Fifty years after a documentary film is confiscated by a bank, the Indigenous Kuna people of Panama reclaim their story.</desc>
+  </programme>
+  <programme start="20250224130000 +0100" stop="20250224140000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224140000 +0100" stop="20250224143000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224143000 +0100" stop="20250224150000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Talk to Al Jazeera : In The Field - Tajikistan's glacial crisis</title>
+    <desc lang="en">Racing against time in Central Asia's melting heart.</desc>
+  </programme>
+  <programme start="20250224150000 +0100" stop="20250224160000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224160000 +0100" stop="20250224163000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224163000 +0100" stop="20250224170000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">101 East : North Korea’s Fleeing Defectors</title>
+    <desc lang="en">As China cracks down on North Korean defectors, this 101 East exclusive follows two families’ desperate search for freedom.</desc>
+  </programme>
+  <programme start="20250224170000 +0100" stop="20250224173000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224173000 +0100" stop="20250224180000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20250224180000 +0100" stop="20250224190000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224190000 +0100" stop="20250224193000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224193000 +0100" stop="20250224200000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">The Listening Post : Germany - Will the Far-Right Beat the ‘Firewall’?</title>
+    <desc lang="en">Germany’s far-right AfD surge in the polls after meddling from Elon Musk and US Vice President Vance. Plus, El Salvador under President Bukele’s iron fist.</desc>
+  </programme>
+  <programme start="20250224200000 +0100" stop="20250224203000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224203000 +0100" stop="20250224210000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20250224210000 +0100" stop="20250224220000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224220000 +0100" stop="20250224223000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224223000 +0100" stop="20250224230000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">All Hail The Planet : Is It Really A ‘Natural’ Disaster?</title>
+    <desc lang="en">Hazards are natural. Disasters are man-made.</desc>
+  </programme>
+  <programme start="20250224230000 +0100" stop="20250224233000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250224233000 +0100" stop="20250225000000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">People &amp; Power : Kosovo - The Making of A State P1</title>
+    <desc lang="en">People and Power examines Kosovo’s post-war journey of nation building in the face of domestic tensions and international pressures.</desc>
+  </programme>
+  <programme start="20250225000000 +0100" stop="20250225003000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225003000 +0100" stop="20250225010000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20250225010000 +0100" stop="20250225020000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Al Jazeera World : Lebanon’s Political Families - the Karami Dynasty</title>
+    <desc lang="en">The Sunni Muslim Karami family from Tripoli has produced three Lebanese prime ministers, dealing with complex politics, assassinations and civil war.</desc>
+  </programme>
+  <programme start="20250225020000 +0100" stop="20250225023000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225023000 +0100" stop="20250225030000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">UpFront</title>
+    <desc lang="en">Marc Lamont Hill talks to historian Nina Krushcheva about what a Trump-brokered peace deal with Russia means for Ukraine and Europe.</desc>
+  </programme>
+  <programme start="20250225030000 +0100" stop="20250225033000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225033000 +0100" stop="20250225040000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Boycott : Part One - The Bill</title>
+    <desc lang="en">A 3-part series about US anti-boycott laws and the implications for freedom of speech. Part One introduces three landmark cases that challenge the legislation.</desc>
+  </programme>
+  <programme start="20250225040000 +0100" stop="20250225043000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225043000 +0100" stop="20250225050000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">The Listening Post : Germany - Will the Far-Right Beat the ‘Firewall’?</title>
+    <desc lang="en">Germany’s far-right AfD surge in the polls after meddling from Elon Musk and US Vice President Vance. Plus, El Salvador under President Bukele’s iron fist.</desc>
+  </programme>
+  <programme start="20250225050000 +0100" stop="20250225053000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225053000 +0100" stop="20250225060000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20250225060000 +0100" stop="20250225063000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225063000 +0100" stop="20250225070000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">People &amp; Power : Kosovo - The Making of A State P1</title>
+    <desc lang="en">People and Power examines Kosovo’s post-war journey of nation building in the face of domestic tensions and international pressures.</desc>
+  </programme>
+  <programme start="20250225070000 +0100" stop="20250225080000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225080000 +0100" stop="20250225083000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225083000 +0100" stop="20250225090000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">All Hail The Planet : Is It Really A ‘Natural’ Disaster?</title>
+    <desc lang="en">Hazards are natural. Disasters are man-made.</desc>
+  </programme>
+  <programme start="20250225090000 +0100" stop="20250225093000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225093000 +0100" stop="20250225100000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Talk to Al Jazeera : In The Field - Tajikistan's glacial crisis</title>
+    <desc lang="en">Racing against time in Central Asia's melting heart.</desc>
+  </programme>
+  <programme start="20250225100000 +0100" stop="20250225110000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225110000 +0100" stop="20250225113000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225113000 +0100" stop="20250225120000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20250225120000 +0100" stop="20250225130000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">The El Masri Case</title>
+    <desc lang="en">The 2004 abduction and torture of German citizen Khalid El Masri exposed the CIA’s rendition programme and the effects still resonate nearly twenty years later.</desc>
+  </programme>
+  <programme start="20250225130000 +0100" stop="20250225140000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225140000 +0100" stop="20250225143000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225143000 +0100" stop="20250225150000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">The Listening Post : Germany - Will the Far-Right Beat the ‘Firewall’?</title>
+    <desc lang="en">Germany’s far-right AfD surge in the polls after meddling from Elon Musk and US Vice President Vance. Plus, El Salvador under President Bukele’s iron fist.</desc>
+  </programme>
+  <programme start="20250225150000 +0100" stop="20250225160000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225160000 +0100" stop="20250225163000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225163000 +0100" stop="20250225170000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Counting the Cost</title>
+    <desc lang="en">Will Trump's tariffs push up inflation and rewrite trade rules?</desc>
+  </programme>
+  <programme start="20250225170000 +0100" stop="20250225173000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225173000 +0100" stop="20250225180000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20250225180000 +0100" stop="20250225190000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225190000 +0100" stop="20250225193000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225193000 +0100" stop="20250225200000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">The Stream : Ukraine's Artists - Protest &amp; Resilience</title>
+    <desc lang="en">On The Stream, we look at how Ukrainians harness art as a powerful tool of protest and resistance during wartime.</desc>
+  </programme>
+  <programme start="20250225200000 +0100" stop="20250225203000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225203000 +0100" stop="20250225210000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20250225210000 +0100" stop="20250225220000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225220000 +0100" stop="20250225223000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225223000 +0100" stop="20250225230000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Witness : Wuhan's Hidden Trauma</title>
+    <desc lang="en">A Chinese filmmaker ventures into Wuhan and discovers unseen psychological trauma in the aftermath of the city’s lockdown.</desc>
+  </programme>
+  <programme start="20250225230000 +0100" stop="20250225233000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250225233000 +0100" stop="20250226000000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">101 East : North Korea’s Fleeing Defectors</title>
+    <desc lang="en">As China cracks down on North Korean defectors, this 101 East exclusive follows two families’ desperate search for freedom.</desc>
+  </programme>
+  <programme start="20250226000000 +0100" stop="20250226003000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226003000 +0100" stop="20250226010000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20250226010000 +0100" stop="20250226020000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Witness : The Lost Film of Panama</title>
+    <desc lang="en">Fifty years after a documentary film is confiscated by a bank, the Indigenous Kuna people of Panama reclaim their story.</desc>
+  </programme>
+  <programme start="20250226020000 +0100" stop="20250226023000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226023000 +0100" stop="20250226030000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Talk to Al Jazeera : In The Field - Tajikistan's glacial crisis</title>
+    <desc lang="en">Racing against time in Central Asia's melting heart.</desc>
+  </programme>
+  <programme start="20250226030000 +0100" stop="20250226033000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226033000 +0100" stop="20250226040000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">All Hail The Planet : Is It Really A ‘Natural’ Disaster?</title>
+    <desc lang="en">Hazards are natural. Disasters are man-made.</desc>
+  </programme>
+  <programme start="20250226040000 +0100" stop="20250226043000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226043000 +0100" stop="20250226050000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">The Stream : Ukraine's Artists - Protest &amp; Resilience</title>
+    <desc lang="en">On The Stream, we look at how Ukrainians harness art as a powerful tool of protest and resistance during wartime.</desc>
+  </programme>
+  <programme start="20250226050000 +0100" stop="20250226053000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226053000 +0100" stop="20250226060000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20250226060000 +0100" stop="20250226063000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226063000 +0100" stop="20250226070000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">The Fans Who Make Football : Celtic FC</title>
+    <desc lang="en">Celtic F.C. has some of the most passionate fans in the world but their cause goes beyond sport and stands in the face of history’s greatest human rights issues.</desc>
+  </programme>
+  <programme start="20250226070000 +0100" stop="20250226080000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226080000 +0100" stop="20250226083000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226083000 +0100" stop="20250226090000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Witness : Wuhan's Hidden Trauma</title>
+    <desc lang="en">A Chinese filmmaker ventures into Wuhan and discovers unseen psychological trauma in the aftermath of the city’s lockdown.</desc>
+  </programme>
+  <programme start="20250226090000 +0100" stop="20250226093000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226093000 +0100" stop="20250226100000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">The Listening Post : Germany - Will the Far-Right Beat the ‘Firewall’?</title>
+    <desc lang="en">Germany’s far-right AfD surge in the polls after meddling from Elon Musk and US Vice President Vance. Plus, El Salvador under President Bukele’s iron fist.</desc>
+  </programme>
+  <programme start="20250226100000 +0100" stop="20250226110000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226110000 +0100" stop="20250226113000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226113000 +0100" stop="20250226120000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20250226120000 +0100" stop="20250226130000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Al Jazeera World : Ramadan in Guyana</title>
+    <desc lang="en">The story of the Muslim community in Guyana and their Ramadan festivities in this largely Christian, English-speaking country.</desc>
+  </programme>
+  <programme start="20250226130000 +0100" stop="20250226140000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226140000 +0100" stop="20250226143000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226143000 +0100" stop="20250226150000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">The Stream : Ukraine's Artists - Protest &amp; Resilience</title>
+    <desc lang="en">On The Stream, we look at how Ukrainians harness art as a powerful tool of protest and resistance during wartime.</desc>
+  </programme>
+  <programme start="20250226150000 +0100" stop="20250226160000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226160000 +0100" stop="20250226163000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226163000 +0100" stop="20250226170000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Boycott : Part One - The Bill</title>
+    <desc lang="en">A 3-part series about US anti-boycott laws and the implications for freedom of speech. Part One introduces three landmark cases that challenge the legislation.</desc>
+  </programme>
+  <programme start="20250226170000 +0100" stop="20250226173000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226173000 +0100" stop="20250226180000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20250226180000 +0100" stop="20250226190000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226190000 +0100" stop="20250226193000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226193000 +0100" stop="20250226200000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">The Bottom Line : Can the Ukraine War End Without Europe?</title>
+    <desc lang="en">Ukraine analysts Melinda Harding and Anatol Lieven debate the merits of the new U.S. strategy for Ukraine and Europe.</desc>
+  </programme>
+  <programme start="20250226200000 +0100" stop="20250226203000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226203000 +0100" stop="20250226210000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20250226210000 +0100" stop="20250226220000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226220000 +0100" stop="20250226223000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226223000 +0100" stop="20250226230000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Africa's New Directions : Echoes of Water - Morocco</title>
+    <desc lang="en">Morocco tackles pressing water scarcity issues through a blend of ancient and modern solutions.</desc>
+  </programme>
+  <programme start="20250226230000 +0100" stop="20250226233000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250226233000 +0100" stop="20250227000000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Counting the Cost</title>
+    <desc lang="en">Will Trump's tariffs push up inflation and rewrite trade rules?</desc>
+  </programme>
+  <programme start="20250227000000 +0100" stop="20250227003000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227003000 +0100" stop="20250227010000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20250227010000 +0100" stop="20250227020000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">The El Masri Case</title>
+    <desc lang="en">The 2004 abduction and torture of German citizen Khalid El Masri exposed the CIA’s rendition programme and the effects still resonate nearly twenty years later.</desc>
+  </programme>
+  <programme start="20250227020000 +0100" stop="20250227023000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227023000 +0100" stop="20250227030000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">The Listening Post : Germany - Will the Far-Right Beat the ‘Firewall’?</title>
+    <desc lang="en">Germany’s far-right AfD surge in the polls after meddling from Elon Musk and US Vice President Vance. Plus, El Salvador under President Bukele’s iron fist.</desc>
+  </programme>
+  <programme start="20250227030000 +0100" stop="20250227033000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227033000 +0100" stop="20250227040000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Witness : Wuhan's Hidden Trauma</title>
+    <desc lang="en">A Chinese filmmaker ventures into Wuhan and discovers unseen psychological trauma in the aftermath of the city’s lockdown.</desc>
+  </programme>
+  <programme start="20250227040000 +0100" stop="20250227043000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227043000 +0100" stop="20250227050000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">101 East : North Korea’s Fleeing Defectors</title>
+    <desc lang="en">As China cracks down on North Korean defectors, this 101 East exclusive follows two families’ desperate search for freedom.</desc>
+  </programme>
+  <programme start="20250227050000 +0100" stop="20250227053000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227053000 +0100" stop="20250227060000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20250227060000 +0100" stop="20250227063000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227063000 +0100" stop="20250227070000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Counting the Cost</title>
+    <desc lang="en">Will Trump's tariffs push up inflation and rewrite trade rules?</desc>
+  </programme>
+  <programme start="20250227070000 +0100" stop="20250227080000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227080000 +0100" stop="20250227083000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227083000 +0100" stop="20250227090000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Africa's New Directions : Echoes of Water - Morocco</title>
+    <desc lang="en">Morocco tackles pressing water scarcity issues through a blend of ancient and modern solutions.</desc>
+  </programme>
+  <programme start="20250227090000 +0100" stop="20250227093000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227093000 +0100" stop="20250227100000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">The Stream : Ukraine's Artists - Protest &amp; Resilience</title>
+    <desc lang="en">On The Stream, we look at how Ukrainians harness art as a powerful tool of protest and resistance during wartime.</desc>
+  </programme>
+  <programme start="20250227100000 +0100" stop="20250227110000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227110000 +0100" stop="20250227113000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227113000 +0100" stop="20250227120000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20250227120000 +0100" stop="20250227130000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Witness : Ininnawa - An Island Calling</title>
+    <desc lang="en">A retired nurse volunteers to return to remote Indonesian islands to help her patients during a healthcare crisis.</desc>
+  </programme>
+  <programme start="20250227130000 +0100" stop="20250227140000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227140000 +0100" stop="20250227143000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227143000 +0100" stop="20250227150000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Talk to Al Jazeera : In The Field - Tajikistan's glacial crisis</title>
+    <desc lang="en">Racing against time in Central Asia's melting heart.</desc>
+  </programme>
+  <programme start="20250227150000 +0100" stop="20250227160000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227160000 +0100" stop="20250227163000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227163000 +0100" stop="20250227170000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">All Hail The Planet : Is It Really A ‘Natural’ Disaster?</title>
+    <desc lang="en">Hazards are natural. Disasters are man-made.</desc>
+  </programme>
+  <programme start="20250227170000 +0100" stop="20250227173000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227173000 +0100" stop="20250227180000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20250227180000 +0100" stop="20250227190000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227190000 +0100" stop="20250227193000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227193000 +0100" stop="20250227200000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">The Fans Who Make Football : Celtic FC</title>
+    <desc lang="en">Celtic F.C. has some of the most passionate fans in the world but their cause goes beyond sport and stands in the face of history’s greatest human rights issues.</desc>
+  </programme>
+  <programme start="20250227200000 +0100" stop="20250227203000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227203000 +0100" stop="20250227210000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+  </programme>
+  <programme start="20250227210000 +0100" stop="20250227220000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWSHOUR</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227220000 +0100" stop="20250227223000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227223000 +0100" stop="20250227230000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">People &amp; Power : Kosovo - The Making of A State P2</title>
+    <desc lang="en">People and Power examines Kosovo’s post-war journey of nation building in the face of domestic tensions and international pressures.</desc>
+  </programme>
+  <programme start="20250227230000 +0100" stop="20250227233000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">NEWS 30min</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme start="20250227233000 +0100" stop="20250228000000 +0100" channel="AlJazeera.English.net">
+    <title lang="en">Boycott : Part One - The Bill</title>
+    <desc lang="en">A 3-part series about US anti-boycott laws and the implications for freedom of speech. Part One introduces three landmark cases that challenge the legislation.</desc>
+  </programme>
+</tv>
 
