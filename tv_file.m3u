@@ -18,6 +18,9 @@ https://app.ncare.live/live-orgin/satvoff5666.stream/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/1200px-Logo_of_GTV_%28Bangladesh%29.svg.png",Gazi TV
 https://app.ncare.live/live-orgin/gazibdz.stream/playlist.m3u8
 
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",T Sports 
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",T Sports 1
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
