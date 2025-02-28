@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-0 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png",BTV
+#EXTINF:-0 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png" group-title=”BD”,BTV
 https://app.ncare.live/live-orgin/btvnational1.stream/playlist.m3u8
 
-#EXTINF:-0 tvg-logo="https://jamuna.tv/wp-content/themes/jtv-news/img/logo.png",Jamuna TV
+#EXTINF:-0 tvg-id="Jamuna TV" tvg-logo="https://jamuna.tv/wp-content/themes/jtv-news/img/logo.png" group-title=”BD”,Jamuna TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%E0%A6%A1%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E2%80%93%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%A1%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E2%80%93%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png",DBC News
@@ -14,6 +14,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/SA%20TV.png",SA TV
 https://app.ncare.live/live-orgin/satvoff5666.stream/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/1200px-Logo_of_GTV_%28Bangladesh%29.svg.png",Gazi TV
+https://app.ncare.live/live-orgin/gazibdz.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",T Sports 1
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
@@ -69,7 +72,7 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-0 tvg-logo="https://www.channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/chunks.m3u8
 
-#EXTINF:-0 tvg-logo="https://cdn.ekattor.online/contents/themes/public/style/images/logo.png",Ekattor TV
+#EXTINF:-0 tvg-id="Ekattor" tvg-logo="https://cdn.ekattor.online/contents/themes/public/style/images/logo.png" group-title="BD",Ekattor TV
 https://app.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.somoynews.tv/icon.png",Somoy TV
@@ -130,7 +133,7 @@ https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/tracks-v1a1/mono.ts.m3u
 https://live.sanonda.tv/sanonda/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png",Colors Bangla
-http://atg100.xyz:80/UL33K17/SYC4T9D/76179
+http://xtv.ooo:8080/live/193747281/8284748291/245895.m3u8
 
 #EXTINF:-0 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dhoom_Music_Bangla.png",Dhoom Music Bangla
 https://previewsecgire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_delay_ire_sd/dhoom/master/chunklist.m3u8?hdnts=st=1739775045~exp=1739775645~acl=!*/dhoom/master/*!yuppTVCom_5_-1_a593195613d04fc7_BD_72.14.201.159/payload/yuppTVCom_5_-1_a593195613d04fc7_BD_72.14.201.159/*~hmac=64d6113f09a0dd50a08cf1b3f5c8ce201592b9e5c81b50c478c8bb2b35ca440e&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=BEN&ads.content_genre=MUS&ads.channel=247&ads.channel_name=DhoomMusic&ads.network_name=yupptv&ads.user=0
