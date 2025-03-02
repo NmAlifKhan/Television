@@ -19,10 +19,7 @@ https://app.ncare.live/live-orgin/satvoff5666.stream/playlist.m3u8
 https://app.ncare.live/live-orgin/gazibdz.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",T Sports 
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
-
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",T Sports 1
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+http://161.248.188.101/T_sports/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",T Sports 2
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
@@ -50,6 +47,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Ananda_TV.svg/1200px-Logo_of_Ananda_TV.svg.png",Ananda TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/refs/heads/tv/Azan%20TV.png",Azan TV
+https://app.ncare.live/live-orgin/azantv.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 https://cdn2.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
@@ -127,10 +127,13 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8?sid=xttxsKYxD0avDzGB05ZtqA
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",Zee Bangla
-https://cdn.hoichoi24.com/INBD-ZEE-BANGLA-hoichoi24.com/tracks-v1a1/mono.ts.m3u8
+http://xtv.ooo:8080/live/193747281/8284748291/245893.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha
-https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/tracks-v1a1/mono.ts.m3u8
+http://humsab.xyz/IN_STARJ/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/fe/Jalsha_Movies_HD_logo_%282013-present%29.png/revision/latest?cb=20210423101024",Jalsha Movies
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2907.ts
 
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/48/Sananda_TV_logo_%282011%29.png/revision/latest?cb=20210428083412",Sananda TV
 https://live.sanonda.tv/sanonda/index.m3u8
