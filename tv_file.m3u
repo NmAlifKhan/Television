@@ -136,13 +136,13 @@ http://stvlive.net:8080/jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/48/Sananda_TV_logo_%282011%29.png/revision/latest?cb=20210428083412",Sananda TV
 https://live.sanonda.tv/sanonda/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png",Colors Bangla
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Colors_Bangla.png/250px-Colors_Bangla.png",Colors Bangla
 http://agh2019.xyz/SOFIANBENAISSA/X7KJL94/34730
 
 #EXTINF:-0 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dhoom_Music_Bangla.png",Dhoom Music Bangla
 https://previewsecgire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_delay_ire_sd/dhoom/master/chunklist.m3u8?hdnts=st=1739775045~exp=1739775645~acl=!*/dhoom/master/*!yuppTVCom_5_-1_a593195613d04fc7_BD_72.14.201.159/payload/yuppTVCom_5_-1_a593195613d04fc7_BD_72.14.201.159/*~hmac=64d6113f09a0dd50a08cf1b3f5c8ce201592b9e5c81b50c478c8bb2b35ca440e&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=BEN&ads.content_genre=MUS&ads.channel=247&ads.channel_name=DhoomMusic&ads.network_name=yupptv&ads.user=0
 
-#EXTINF:-0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tara-bangla-cinema.png",Tara Bangla Cinema
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/7/7d/Tara_TV_logo_%282013%29.png/revision/latest?cb=20210426094603",Tara Bangla Cinema
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png",Channel Europe
@@ -158,16 +158,16 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://www.tbn24.com/logo.png",TBN 24
 https://www.tbn24.com/live-tv-stream/20201_0.m3u8
 
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/S-QqFRm7a6OcA_D740AuHtapOJh7l1e4BhBa2jlQblI8P8H6YWYQUPzJoq4wO83Xx_iImWXUhww=s900-c-k-c0x00ffffff-no-rj",Time Television
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/refs/heads/tv/Time%20Television.png",Time Television
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/live-orgin/timetvusa.stream/chunks.m3u8
 
-#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBIdPJu9nEdArXDITPsW9m1CLlRjmAy3lECJKXYr2L&schannel",ATN Music
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/refs/heads/tv/ATN%20MUsic.png",ATN Music
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-0 tvg-logo="https://thenrb.tv/wp-content/uploads/2021/11/NRB-tv-Final-Logo-PNG-2.png",NRB TV
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/refs/heads/tv/NRB.png",NRB TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-0 tvg-logo="https://1.bp.blogspot.com/-E6Las0-lxRQ/X9PJNQyA2vI/AAAAAAAABGY/HdQbtL36W10wu3Ie944gEVggzRaKHnWEgCLcBGAsYHQ/w800/Channel-S-UK-LIve.png",Channel S UK
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Channel_S_Logo.SVG/1200px-Channel_S_Logo.SVG.png",Channel S UK
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.metvbd.com/media/common/logo.png",ME TV
