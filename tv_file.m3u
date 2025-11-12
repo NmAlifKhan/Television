@@ -6,6 +6,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/512px-Jamuna_TV_logo.svg.png",Jamuna TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/tracks-v1a1/mono.m3u8
 
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/d7/SATV.png/revision/latest/scale-to-width-down/180?cb=20230525084841",SA TV
+http://fast.luckonline.eu/Ali130225/Cpyej2JL56Xy/559
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%E0%A6%A1%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E2%80%93%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%A1%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E2%80%93%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png",DBC News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8
 
@@ -33,8 +36,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",T Sports 
 https://padmaonline.duckdns.org:8088/T-Sport/tracks-v1a1/mono.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png",Channel 9
-#https://app.ncare.live/live-orgin/channel9hd.stream/playlist.m3u8
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Logo_of_Nagorik_TV.svg/1078px-Logo_of_Nagorik_TV.svg.png",Nagorik
+http://fast.luckonline.eu/Ali130225/Cpyej2JL56Xy/560
 
 #EXTINF:-0 tvg-logo="https://github.com/NmAlifKhan/Channel-Icon/blob/tv/Channel%20A1.png?raw=true",Channel A1
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/cha1.stream/tracks-v1a1/mono.m3u8
@@ -45,11 +48,14 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_of_Bijoy_TV.svg/1200px-Logo_of_Bijoy_TV.svg.png",Bijoy TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png",RTV
+http://fast.luckonline.eu/Ali130225/Cpyej2JL56Xy/551
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png",Ekushey ETV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/68/Mohona_TV_HD_2021.png/revision/latest/scale-to-width-down/1000?cb=20240826030713",Mohona TV
-#https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/live-orgin/mohonatv.stream/chunks.m3u8
+http://fast.luckonline.eu/Ali130225/Cpyej2JL56Xy/565
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Ananda_TV.svg/1200px-Logo_of_Ananda_TV.svg.png",Ananda TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
@@ -64,11 +70,11 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png?format=1500w",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/ts-eu-w1-n2/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/cb553d187e6c648e9bd43e65d2ef41a3d2243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27756c79e0a957f378bbdbe306f2c180680585ee2be5da5edf50f10d86ca2b04f1c887d10b3d05fc8d54abb9d8508cb109b27a0409d9aa3de811285849501936d824669224237f9d219a9043cdcd5b76623957d24475100a8f3d3b6793588434c4bebbfe58b25ae4380d97ec1573eb556cc14c428dc3fe34986f15eaca88cda406a30b08b0e3270eeb6f6cab31e1b894bd7eea9d17a779cb6337d44c2629162083082f2c611cb9241c4f873cbe4274d78f390439a8fbbccbae3da04cf73b8b29ef20a4b40670b15951df3ca1fbc07e938f99e5d71260e2ecbbd5acb81d55b4a126c8e9251d9165bf49bbc8ad10a34dd73593dcc65ca501163dc3e0f2db57c19fb94fe228e6c751fa622a97f12ae4d39a53ff60ed85a/101/1920x1080_4716800/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://i0.wp.com/nobannotv.com/wp-content/uploads/2023/06/NOBANNOtv-10-Copy-1024x402-1.png?resize=1024%2C402&ssl=1",Nobanno TV
-#https://app.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cmtv.stream/live-orgin/cmtv.stream/chunks.m3u8
-
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png",Asian TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png",Nexus Television
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/572
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
