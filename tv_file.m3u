@@ -178,9 +178,6 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://www.tbn24.com/logo.png",TBN 24
 https://www.tbn24.com/live-tv-stream/20201_0.m3u8
 
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/refs/heads/tv/ATN%20MUsic.png",ATN Music
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/tracks-v1a1/mono.m3u8
-
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/refs/heads/tv/NRB.png",NRB TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/tracks-v1a1/mono.m3u8
 
@@ -196,9 +193,6 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-0 tvg-logo="https://github.com/NmAlifKhan/Channel-Icon/blob/tv/Ruposhi%20bangla%20tv.png?raw=true",Ruposhi Bangla TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ruposhibangla.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-0 tvg-logo="https://github.com/NmAlifKhan/Channel-Icon/blob/tv/The%20Channel%20TV.png?raw=true",The Channel TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/thechanneltv.stream/tracks-v1a1/mono.m3u8
-
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/refs/heads/tv/slazzer-preview-uuw1l.png",B24C
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8
 
@@ -207,9 +201,6 @@ https://padmaonline.duckdns.org:8088/StarPlusHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Bhojpuri_Cinema.png/revision/latest?cb=20240319172045",Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-
-#EXTINF:-0 tvg-logo="https://millenniumtv.org/wp-content/uploads/2021/06/Icon-512.png",Millennium TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.jonmobhumi.tv/wp-content/uploads/2017/11/Final-Red-Logo.png",JonmoBhumi TV
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tracks-v1a1/mono.m3u8
@@ -231,9 +222,6 @@ https://app.ncare.live/live-orgin/tvoneuksni.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://akm-img-a-in.tosshub.com/sites/visualstory/stories/2023_04/story_31381/assets/2.png?time=1681544765&size=*:900",GNT
 https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
-
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/Millennium%20TV%2024.jpg",Millennium News 24
-https://app.ncare.live/live-orgin/mnews24.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/ed/%E0%A6%9C%E0%A6%BE%E0%A6%97%E0%A7%8B_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C.png",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
@@ -283,29 +271,14 @@ https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4
 #EXTINF:-0 tvg-logo="https://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/b38cd969-3a15-4c04-ac64-2df2b662729a.jpg",Channel Vision
 https://channelvision.livebox.co.in/channelvisionhls/live.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png",Zee Aflam
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
-
 #EXTINF:-0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png",Zoom
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
-
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m3cRIJH7jF4qERwiWafXFpWaIUTW9LY9-R_7pGE7j5X5Y=s900-c-k-c0x00ffffff-no-rj",MTV Beats
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png",CNN
 https://d3bp6dwmpbdajl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/ddda3cae-f43f-407d-abac-2b801fa60340/0.m3u8
 
-#EXTINF:-0 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Desi_Channel.png",Desi Channel
-https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
-
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908",Music India
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia.m3u8
-
 #EXTINF:-0 tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png",9X Jalwa
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/1374e8c8-312b-40d1-8351-cad059d18580/3.m3u8
-
-#EXTINF:-0 tvg-logo="https://www.epicon.in/img/epic-tv.png",EPIC
-https://epiconvh.s.llnwi.net/epic/master.m3u8
 
 #EXTINF:-0 tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png",Balle Balle
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
@@ -322,17 +295,20 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Discovery_Kids_2021_2D_Gradient.svg/341px-Discovery_Kids_2021_2D_Gradient.svg.png?20250628202500",Discovery Kids
 http://103.182.170.32:8888/play/a02o
 
-#EXTINF:-0 tvg-logo="https://image.roku.com/developer_channels/prod/09d12195e0968c34e9eac0feb5d8c2fc9cd75eba32c1e5dcd3c6a98e9becabfe.png",Wild Earth
-https://tv5.hoichoi24.com/1905/video.m3u8
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/refs/heads/tv/toonz-removebg-preview.png",Toonzkids
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/d30273da-b6d9-4e26-81ef-a2fdd9017d45/2.m3u8
 
-#EXTINF:-0 tvg-logo="https://image.roku.com/developer_channels/prod/09d12195e0968c34e9eac0feb5d8c2fc9cd75eba32c1e5dcd3c6a98e9becabfe.png",Animal Planet
-https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_16.m3u8
+#EXTINF:-0 tvg-logo="https://app.wildearth.tv/themes/custom/wld/wildearth/logo.png",Wild Earth
+https://d2f9g9rfw2kx84.cloudfront.net/playlist/amg01290-wildearth-oando/cb553d187e6c648e9bd43e65d2ef41a3dd243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27756c79e0a957f378bbdbe306f2c180680585ee2be5da5edf50e45dc3da2e54f4e887c44e5835fc8d54abb9ddc5898159b22a041cb93f78880148083c769966d8a350d4b6c7a9d906be1aa37d78ac01353f5702c555052e3ad81fb3c51ec2c6f55f6facaad25d921ebac7ff20a5bbc04885dbb338565b90ca9f53cc3c7da8e183553ced1485e37b2ecb68bf82c41db0c9ff3d0e45d26d39c776d55c51f9b486a3084e9db07c19034d3e405c0e64f1c28d0df529291b686eea29942d231dc82a6be67282400000c922fc1f00c8a73b612ccc917314e3f27c7fb059efdb33231665cc8814ec42c15b8d68ef1b46452dd69175eed61cb4f0d36815e0b7de13eb79e3568fb6460c56739fe5c31d941ade974a7f0dae45e68b0879646aa38bcb10986a701ab6c6d0e58dd984b5e415f33d4e0727f5313a214bea3a088760d13a2f4c2eed0524a6453760256fc8897719f9d8e2e1906d36c256f7a03129810a40ab561185a56a370d2a81a3a90151e3df4ae295c5975e4aedbe5d6eff36aef31b9a8fc3d3c754c71b141464c2fdba29949ee7d185f3f0fa64a3665bc174a0cfd9cc5e19c817cda942abe2e274645f79a7d217b32090340fbc208ed9383f9129494d055c0e38c5d10cb6ce3492797ded863effec1e97b4fc1fa19493cd7e42ecb25799c57cc7ddc9b30f9a0450a190b454ae98740b00aea88d4947dda6486673753c634fb90eab8d32671e292413c7a49761f6d5d7b2943e98e872a5035bcf277a66ee7ed54bb4b1b666c1090d1562cf3821d2b953b7a6fb2b38bdafdb8643efe2ea525873079e53d6b09eec33fe686c883d98f7d5b0ddcf6e60c8ca88685c3c1d964192f692390d550457dbb77a2d4e78076eec747eff7a4f19eb4cce606e735d1a5900d885a/128/1920x1080_4716800/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://tv.assets.pressassociation.io/d6f1a8ff-c85f-532a-be3d-0eb4260389a5.png",Discovery HD
-https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1967
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png",Amimal Planet
-https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1641
+
+#EXTINF:-0 tvg-logo="https://tv.assets.pressassociation.io/d6f1a8ff-c85f-532a-be3d-0eb4260389a5.png",Wild
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1637
 
 #EXTINF:-0 tvg-logo="https://i.ytimg.com/vi/kex0UFkR4d8/maxresdefault.jpg",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
