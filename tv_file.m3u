@@ -66,9 +66,6 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://www.metvbd.com/media/common/logo-fb.png",ME TV
 https://iptvbd.live/metv1080/1080.m3u8
 
-#EXTINF:-0 tvg-logo="https://probashinews24.tv/images/logo.png",Probashi TV
-http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-0 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png?format=1500w",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/ts-eu-w1-n2/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/cb553d187e6c648e9bd43e65d2ef41a3d2243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27756c79e0a957f378bbdbe306f2c180680585ee2be5da5edf50f10d86ca2b04f1c887d10b3d05fc8d54abb9d8508cb109b27a0409d9aa3de811285849501936d824669224237f9d219a9043cdcd5b76623957d24475100a8f3d3b6793588434c4bebbfe58b25ae4380d97ec1573eb556cc14c428dc3fe34986f15eaca88cda406a30b08b0e3270eeb6f6cab31e1b894bd7eea9d17a779cb6337d44c2629162083082f2c611cb9241c4f873cbe4274d78f390439a8fbbccbae3da04cf73b8b29ef20a4b40670b15951df3ca1fbc07e938f99e5d71260e2ecbbd5acb81d55b4a126c8e9251d9165bf49bbc8ad10a34dd73593dcc65ca501163dc3e0f2db57c19fb94fe228e6c751fa622a97f12ae4d39a53ff60ed85a/101/1920x1080_4716800/index.m3u8
 
@@ -223,9 +220,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-0 tvg-logo="https://deentv.uk/wp-content/uploads/2025/04/DENE-TV-LOGO-FOR-QR-2.png",Deen TV
 https://cd198.anystream.uk:8082/hls/d33ntv/1_2/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_koErw2KTE5-_noVZh3dP41mHZlfzUX3RFnNRaLYiLxjQ=s900-c-k-c0x00ffffff-no-rj",Mercy TV
-https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
-
 #EXTINF:-0 tvg-logo="https://static.wirtualnemedia.pl/media/top/BollywoodHD_logo2018_655.png",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
@@ -319,9 +313,6 @@ https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-0 tvg-logo="https://cdn.teleon.tv/logo/mn-tv-music-in.png",Bengali Beats
 https://tplay.live/originals/bengali-beats/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaR-p-1XTKLBvr4mvBiMk5CyJ23Q0nm0d_PPGOTY=s900-c-k-c0x00ffffff-no-rj",SteelBird Music
-https://stream.e2is.in/hls/livestream.m3u8
-
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/ShowBox_TV_logo.png",ShowBox
 https://d282a7rzpbl0nj.cloudfront.net/live/showbox/master_1080.m3u8
 
@@ -346,9 +337,6 @@ https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream1/
 #EXTINF:-0  tvg-logo="https://tvnews.by/uploads/posts/2021-12/tivusat-travelxp.webp",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIccKB-mghfNwtkZKcgx5Ktve7dddKHviGVg&usqp=CAU",Zee Punjab Himachal
-http://208.86.19.13:81/720.stream/index.m3u8
-
 #EXTINF:-0 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Filamchi_Bhojpuri.png",Filamchi
 https://epiconvh.akamaized.net/live/filamchi/master_1080.m3u8
 
@@ -359,10 +347,7 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",Space Toon
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w78104261_b1296000_slAR.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/Gubbare-TV_channel.jpg",Gubbare
-https://epiconvh.s.llnwi.net/live/gubbare/master_1080.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/manifest/video/720p1750kbps/video.m3u8
 
 #EXTINF:-0 tvg-logo="https://portal.simplestreamcdn.com/172/c1b59909-MicrosoftTeams-image%20%2866%29.png",Islam Channel
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
@@ -375,12 +360,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:56:14:07&stream=213639&extensio
 
 #EXTINF:-0 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-04.png", Arena Sport 4
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:56:14:07&stream=213640&extension=m3u8
-
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/uLls0keo9wtSJU2fzO-BLBaSmf60Adv4G-TcKxYhCGMcGvdvFFS4FDpv2YTF_hrjljbrtCTZoA=s900-c-k-c0x00ffffff-no-rj",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-
-#EXTINF:-0 tvg-logo="https://streamingbetter.com/wp-content/uploads/2023/10/Tennis-Channel-T2.jpg",T2
-https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646",Sony Sports Ten 1
 http://atg100.xyz:80/UL33K17/SYC4T9D/1052689
