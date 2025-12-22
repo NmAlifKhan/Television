@@ -32,7 +32,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715.m3u8
 #EXTINF:-1  tvg-id="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg/1200px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg.png" group-title="Series",Zee Bangla
 https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 #EXTINF:-1  tvg-id="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Series",Star Jalsha
-http://87.255.35.150:18237
+https://tvsen7.aynaott.com/sjhdbd/index.m3u8
 #EXTINF:-1  tvg-id="T Sports" tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png" group-title="Sport",T Sports
 https://padmaonline.duckdns.org:8088/T-Sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/1200px-Logo_of_GTV_%28Bangladesh%29.svg.png" group-title="Entertainment",Gazi TV
